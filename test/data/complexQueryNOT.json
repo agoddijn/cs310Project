@@ -1,0 +1,31 @@
+{
+  "WHERE": {
+    "OR": [
+      {
+        "AND": [
+          {
+            "EQ": {
+              "courses_avg": 97
+            }
+          },
+          {
+            "NOT": {
+              "IS": {
+                "courses_dept": "crwr"
+              }
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "OPTIONS": {
+    "COLUMNS": [
+      "courses_dept",
+      "courses_id",
+      "courses_avg"
+    ],
+    "ORDER": "courses_avg",
+    "FORM": "TABLE"
+  }
+}

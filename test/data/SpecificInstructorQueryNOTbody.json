@@ -1,0 +1,23 @@
+{
+  "render": "TABLE",
+  "result": [
+    {
+      "courses_dept": "crwr",
+      "courses_id": "599",
+      "courses_instructor": "medved, maureen",
+      "courses_avg": 96
+    },
+    {
+      "courses_dept": "crwr",
+      "courses_id": "599",
+      "courses_instructor": "taylor, timothy",
+      "courses_avg": 96
+    },
+    {
+      "courses_dept": "crwr",
+      "courses_id": "599",
+      "courses_instructor": "galloway, steve",
+      "courses_avg": 96
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "render": "TABLE",
+  "result": [
+    {
+      "courses_dept": "crwr",
+      "courses_id": "430",
+      "courses_title": "prep writ career",
+      "courses_avg": 94.08
+    },
+    {
+      "courses_dept": "crwr",
+      "courses_id": "430",
+      "courses_title": "prep writ career",
+      "courses_avg": 94.08
+    },
+    {
+      "courses_dept": "crwr",
+      "courses_id": "530",
+      "courses_title": "prep writ career",
+      "courses_avg": 94.5
+    },
+    {
+      "courses_dept": "crwr",
+      "courses_id": "530",
+      "courses_title": "prep writ career",
+      "courses_avg": 94.5
+    },
+    {
+      "courses_dept": "crwr",
+      "courses_id": "530",
+      "courses_title": "prep writ career",
+      "courses_avg": 95.7
+    },
+    {
+      "courses_dept": "crwr",
+      "courses_id": "530",
+      "courses_title": "prep writ career",
+      "courses_avg": 95.7
+    }
+  ]
+}

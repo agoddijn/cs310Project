@@ -1,0 +1,23 @@
+{
+    "WHERE": {
+        "AND": [
+            {
+                "IS": {
+                    "rooms_seats": "23"
+                }
+            },
+            {
+                "IS": {
+                    "rooms_name": "5"
+                }
+            }
+        ]
+    },
+    "OPTIONS": {
+        "COLUMNS": [
+            "rooms_name"
+        ],
+        "ORDER": "rooms_name",
+        "FORM": "TABLE"
+    }
+}

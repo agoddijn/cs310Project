@@ -1,0 +1,1469 @@
+{
+  "render": "TABLE",
+  "result": [{
+    "courses_dept": "educ",
+    "courses_uuid": "62263",
+    "courses_title": "res mthd in educ",
+    "courses_instructor": "adler, james douglas;scott, sandra"
+  }, {
+    "courses_dept": "educ",
+    "courses_uuid": "87253",
+    "courses_title": "res mthd in educ",
+    "courses_instructor": "adler, james douglas;scott, sandra"
+  }, {
+    "courses_dept": "mech",
+    "courses_uuid": "84306",
+    "courses_title": "seminar",
+    "courses_instructor": "anasavarapu, srikantha"
+  }, {
+    "courses_dept": "epse",
+    "courses_uuid": "38191",
+    "courses_title": "specific lrn dis",
+    "courses_instructor": "andreou, theresa"
+  }, {
+    "courses_dept": "audi",
+    "courses_uuid": "33742",
+    "courses_title": "tpcs flu disord",
+    "courses_instructor": "avery, lisa ann;tba"
+  }, {
+    "courses_dept": "musc",
+    "courses_uuid": "7275",
+    "courses_title": "art song int prf",
+    "courses_instructor": "barcza, peter;sharon, rena"
+  }, {
+    "courses_dept": "etec",
+    "courses_uuid": "96805",
+    "courses_title": "res meth educ",
+    "courses_instructor": "bartosh, oksana"
+  }, {
+    "courses_dept": "etec",
+    "courses_uuid": "96804",
+    "courses_title": "res meth educ",
+    "courses_instructor": "bartosh, oksana"
+  }, {
+    "courses_dept": "educ",
+    "courses_uuid": "43458",
+    "courses_title": "res mthd in educ",
+    "courses_instructor": "bartosh, oksana"
+  }, {
+    "courses_dept": "educ",
+    "courses_uuid": "46273",
+    "courses_title": "res mthd in educ",
+    "courses_instructor": "bartosh, oksana"
+  }, {
+    "courses_dept": "itst",
+    "courses_uuid": "32766",
+    "courses_title": "ital lit cult",
+    "courses_instructor": "benimeo, maria"
+  }, {
+    "courses_dept": "itst",
+    "courses_uuid": "15839",
+    "courses_title": "ital lit cult",
+    "courses_instructor": "benimeo, maria"
+  }, {
+    "courses_dept": "audi",
+    "courses_uuid": "29444",
+    "courses_title": "phono intervent",
+    "courses_instructor": "bernhardt, barbara"
+  }, {
+    "courses_dept": "audi",
+    "courses_uuid": "66450",
+    "courses_title": "phono intervent",
+    "courses_instructor": "bernhardt, barbara"
+  }, {
+    "courses_dept": "ital",
+    "courses_uuid": "5105",
+    "courses_title": "dante's div com",
+    "courses_instructor": "boccassini, daniela"
+  }, {
+    "courses_dept": "epse",
+    "courses_uuid": "76258",
+    "courses_title": "classroom mgmt",
+    "courses_instructor": "both, pauline;faber, shawna"
+  }, {
+    "courses_dept": "audi",
+    "courses_uuid": "88509",
+    "courses_title": "hearng and noise",
+    "courses_instructor": "brown, sasha"
+  }, {
+    "courses_dept": "stat",
+    "courses_uuid": "81982",
+    "courses_title": "stat meth hd bio",
+    "courses_instructor": "bryan, jennifer frazier;cohen freue, gabriela"
+  }, {
+    "courses_dept": "nurs",
+    "courses_uuid": "15303",
+    "courses_title": "commnty & popltn",
+    "courses_instructor": "bungay, victoria"
+  }, {
+    "courses_dept": "nurs",
+    "courses_uuid": "88126",
+    "courses_title": "admn ldrshp nurs",
+    "courses_instructor": "bungay, victoria"
+  }, {
+    "courses_dept": "edst",
+    "courses_uuid": "36412",
+    "courses_title": "trad adult edu",
+    "courses_instructor": "butterwick, shauna"
+  }, {
+    "courses_dept": "epse",
+    "courses_uuid": "38187",
+    "courses_title": "cur dev e df&hrd",
+    "courses_instructor": "cannon, joanna"
+  }, {
+    "courses_dept": "epse",
+    "courses_uuid": "44838",
+    "courses_title": "cur dev e df&hrd",
+    "courses_instructor": "cannon, joanna"
+  }, {
+    "courses_dept": "epse",
+    "courses_uuid": "49677",
+    "courses_title": "dev el sk df&hrd",
+    "courses_instructor": "cannon, joanna"
+  }, {
+    "courses_dept": "epse",
+    "courses_uuid": "29275",
+    "courses_title": "crit spec ed",
+    "courses_instructor": "cannon, joanna"
+  }, {
+    "courses_dept": "sowk",
+    "courses_uuid": "88837",
+    "courses_title": "health care team",
+    "courses_instructor": "casson, barbara;choi, marcia"
+  }, {
+    "courses_dept": "russ",
+    "courses_uuid": "54339",
+    "courses_title": "basic russian ii",
+    "courses_instructor": "chitnev, veta"
+  }, {
+    "courses_dept": "stat",
+    "courses_uuid": "73796",
+    "courses_title": "tech stat conslt",
+    "courses_instructor": "cohen freue, gabriela"
+  }, {
+    "courses_dept": "path",
+    "courses_uuid": "51545",
+    "courses_title": "seminar",
+    "courses_instructor": "cote, helene;kalloger, steve ernest;wellington, cheryl lea"
+  }, {
+    "courses_dept": "epse",
+    "courses_uuid": "38173",
+    "courses_title": "hn dev: inf-adlt",
+    "courses_instructor": "darwich, lina"
+  }, {
+    "courses_dept": "epse",
+    "courses_uuid": "38174",
+    "courses_title": "hn dev: inf-adlt",
+    "courses_instructor": "darwich, lina"
+  }, {
+    "courses_dept": "psyc",
+    "courses_uuid": "94900",
+    "courses_title": "health psych",
+    "courses_instructor": "de longis, anita"
+  }, {
+    "courses_dept": "psyc",
+    "courses_uuid": "89829",
+    "courses_title": "health psych",
+    "courses_instructor": "de longis, anita"
+  }, {
+    "courses_dept": "psyc",
+    "courses_uuid": "78244",
+    "courses_title": "health psych",
+    "courses_instructor": "de longis, anita"
+  }, {
+    "courses_dept": "psyc",
+    "courses_uuid": "27986",
+    "courses_title": "health psych",
+    "courses_instructor": "de longis, anita"
+  }, {
+    "courses_dept": "audi",
+    "courses_uuid": "33701",
+    "courses_title": "aural rehb i",
+    "courses_instructor": "dillon, lisa"
+  }, {
+    "courses_dept": "etec",
+    "courses_uuid": "43454",
+    "courses_title": "text tech",
+    "courses_instructor": "dobson, teresa"
+  }, {
+    "courses_dept": "biol",
+    "courses_uuid": "72151",
+    "courses_title": "prin&meth rsch i",
+    "courses_instructor": "douglas, carl;schulte, patricia"
+  }, {
+    "courses_dept": "biol",
+    "courses_uuid": "42215",
+    "courses_title": "prin&meth rsch i",
+    "courses_instructor": "douglas, carl;schulte, patricia"
+  }, {
+    "courses_dept": "lled",
+    "courses_uuid": "27192",
+    "courses_title": "crt anly iss&mth",
+    "courses_instructor": "duff, patricia"
+  }, {
+    "courses_dept": "eece",
+    "courses_uuid": "21190",
+    "courses_title": "self-tuning ctrl",
+    "courses_instructor": "dumont, guy a"
+  }, {
+    "courses_dept": "bmeg",
+    "courses_uuid": "43501",
+    "courses_title": "master eng proj",
+    "courses_instructor": "dumont, guy a"
+  }, {
+    "courses_dept": "eece",
+    "courses_uuid": "74926",
+    "courses_title": "self-tuning ctrl",
+    "courses_instructor": "dumont, guy a"
+  }, {
+    "courses_dept": "eece",
+    "courses_uuid": "18492",
+    "courses_title": "self-tuning ctrl",
+    "courses_instructor": "dumont, guy a"
+  }, {
+    "courses_dept": "cnps",
+    "courses_uuid": "33359",
+    "courses_title": "counsl adolescnt",
+    "courses_instructor": "dyer, brenda"
+  }, {
+    "courses_dept": "cnps",
+    "courses_uuid": "69228",
+    "courses_title": "counslng adults",
+    "courses_instructor": "dyer, brenda"
+  }, {
+    "courses_dept": "cnps",
+    "courses_uuid": "70448",
+    "courses_title": "counslng adults",
+    "courses_instructor": "dyer, brenda"
+  }, {
+    "courses_dept": "cnps",
+    "courses_uuid": "69226",
+    "courses_title": "counsl adolescnt",
+    "courses_instructor": "dyer, brenda"
+  }, {
+    "courses_dept": "cnps",
+    "courses_uuid": "50983",
+    "courses_title": "counsl adolescnt",
+    "courses_instructor": "dyer, brenda"
+  }, {
+    "courses_dept": "lled",
+    "courses_uuid": "92711",
+    "courses_title": "resource-bsd tch",
+    "courses_instructor": "ekdahl, moira"
+  }, {
+    "courses_dept": "lled",
+    "courses_uuid": "59854",
+    "courses_title": "resource-bsd tch",
+    "courses_instructor": "ekdahl, moira"
+  }, {
+    "courses_dept": "epse",
+    "courses_uuid": "38160",
+    "courses_title": "educ stds autism",
+    "courses_instructor": "el khatib, lara"
+  }, {
+    "courses_dept": "epse",
+    "courses_uuid": "38159",
+    "courses_title": "educ stds autism",
+    "courses_instructor": "el khatib, lara"
+  }, {
+    "courses_dept": "epse",
+    "courses_uuid": "13126",
+    "courses_title": "educ stds autism",
+    "courses_instructor": "el khatib, lara"
+  }, {
+    "courses_dept": "epse",
+    "courses_uuid": "6322",
+    "courses_title": "educ stds autism",
+    "courses_instructor": "el khatib, lara"
+  }, {
+    "courses_dept": "epse",
+    "courses_uuid": "6321",
+    "courses_title": "educ stds autism",
+    "courses_instructor": "el khatib, lara"
+  }, {
+    "courses_dept": "epse",
+    "courses_uuid": "38138",
+    "courses_title": "typ atyp inf/ch",
+    "courses_instructor": "el khatib, lara"
+  }, {
+    "courses_dept": "epse",
+    "courses_uuid": "56537",
+    "courses_title": "typ atyp inf/ch",
+    "courses_instructor": "el khatib, lara"
+  }, {
+    "courses_dept": "epse",
+    "courses_uuid": "49642",
+    "courses_title": "typ atyp inf/ch",
+    "courses_instructor": "el khatib, lara"
+  }, {
+    "courses_dept": "epse",
+    "courses_uuid": "44798",
+    "courses_title": "typ atyp inf/ch",
+    "courses_instructor": "el khatib, lara"
+  }, {
+    "courses_dept": "epse",
+    "courses_uuid": "44384",
+    "courses_title": "typ atyp inf/ch",
+    "courses_instructor": "el khatib, lara"
+  }, {
+    "courses_dept": "epse",
+    "courses_uuid": "44401",
+    "courses_title": "educ stds autism",
+    "courses_instructor": "el khatib, lara"
+  }, {
+    "courses_dept": "epse",
+    "courses_uuid": "38137",
+    "courses_title": "typ atyp inf/ch",
+    "courses_instructor": "el khatib, lara"
+  }, {
+    "courses_dept": "epse",
+    "courses_uuid": "35864",
+    "courses_title": "typ atyp inf/ch",
+    "courses_instructor": "el khatib, lara"
+  }, {
+    "courses_dept": "epse",
+    "courses_uuid": "29236",
+    "courses_title": "typ atyp inf/ch",
+    "courses_instructor": "el khatib, lara"
+  }, {
+    "courses_dept": "epse",
+    "courses_uuid": "29235",
+    "courses_title": "typ atyp inf/ch",
+    "courses_instructor": "el khatib, lara"
+  }, {
+    "courses_dept": "epse",
+    "courses_uuid": "13117",
+    "courses_title": "typ atyp inf/ch",
+    "courses_instructor": "el khatib, lara"
+  }, {
+    "courses_dept": "eced",
+    "courses_uuid": "1163",
+    "courses_title": "asmnt spec needs",
+    "courses_instructor": "el khatib, lara"
+  }, {
+    "courses_dept": "eced",
+    "courses_uuid": "4393",
+    "courses_title": "asmnt spec needs",
+    "courses_instructor": "el khatib, lara"
+  }, {
+    "courses_dept": "eced",
+    "courses_uuid": "18409",
+    "courses_title": "asmnt spec needs",
+    "courses_instructor": "el khatib, lara"
+  }, {
+    "courses_dept": "eced",
+    "courses_uuid": "42457",
+    "courses_title": "asmnt spec needs",
+    "courses_instructor": "el khatib, lara"
+  }, {
+    "courses_dept": "epse",
+    "courses_uuid": "6301",
+    "courses_title": "typ atyp inf/ch",
+    "courses_instructor": "el khatib, lara"
+  }, {
+    "courses_dept": "epse",
+    "courses_uuid": "6300",
+    "courses_title": "typ atyp inf/ch",
+    "courses_instructor": "el khatib, lara"
+  }, {
+    "courses_dept": "epse",
+    "courses_uuid": "3164",
+    "courses_title": "typ atyp inf/ch",
+    "courses_instructor": "el khatib, lara"
+  }, {
+    "courses_dept": "epse",
+    "courses_uuid": "3163",
+    "courses_title": "typ atyp inf/ch",
+    "courses_instructor": "el khatib, lara"
+  }, {
+    "courses_dept": "epse",
+    "courses_uuid": "38134",
+    "courses_title": "ed st dvl ds inc",
+    "courses_instructor": "el khatib, lara"
+  }, {
+    "courses_dept": "epse",
+    "courses_uuid": "13115",
+    "courses_title": "ed st dvl ds inc",
+    "courses_instructor": "el khatib, lara"
+  }, {
+    "courses_dept": "cnps",
+    "courses_uuid": "50993",
+    "courses_title": "family counsl ii",
+    "courses_instructor": "elez, tatjana"
+  }, {
+    "courses_dept": "epse",
+    "courses_uuid": "29028",
+    "courses_title": "coll&uni teachng",
+    "courses_instructor": "faber, shawna"
+  }, {
+    "courses_dept": "epse",
+    "courses_uuid": "13130",
+    "courses_title": "hn dev, lrn, cul",
+    "courses_instructor": "faber, shawna"
+  }, {
+    "courses_dept": "epse",
+    "courses_uuid": "29263",
+    "courses_title": "hn dev, lrn, cul",
+    "courses_instructor": "faber, shawna"
+  }, {
+    "courses_dept": "epse",
+    "courses_uuid": "61409",
+    "courses_title": "hn dev, lrn, cul",
+    "courses_instructor": "faber, shawna"
+  }, {
+    "courses_dept": "epse",
+    "courses_uuid": "86967",
+    "courses_title": "coll&uni teachng",
+    "courses_instructor": "faber, shawna"
+  }, {
+    "courses_dept": "educ",
+    "courses_uuid": "66107",
+    "courses_title": "res mthd in educ",
+    "courses_instructor": "feng, francis;o'riley, patricia"
+  }, {
+    "courses_dept": "educ",
+    "courses_uuid": "80085",
+    "courses_title": "res mthd in educ",
+    "courses_instructor": "feng, francis;scott, sandra"
+  }, {
+    "courses_dept": "epse",
+    "courses_uuid": "76327",
+    "courses_title": "thy cognt assess",
+    "courses_instructor": "ford, laurie;robinson, georgina"
+  }, {
+    "courses_dept": "epse",
+    "courses_uuid": "76328",
+    "courses_title": "thy cognt assess",
+    "courses_instructor": "ford, laurie;robinson, georgina"
+  }, {
+    "courses_dept": "epse",
+    "courses_uuid": "3199",
+    "courses_title": "crit spec ed",
+    "courses_instructor": "fossett, brenda"
+  }, {
+    "courses_dept": "epse",
+    "courses_uuid": "35881",
+    "courses_title": "educ stds autism",
+    "courses_instructor": "fossett, brenda"
+  }, {
+    "courses_dept": "spph",
+    "courses_uuid": "65069",
+    "courses_title": "work int health",
+    "courses_instructor": "frank, erica"
+  }, {
+    "courses_dept": "spph",
+    "courses_uuid": "65067",
+    "courses_title": "sociocult determ",
+    "courses_instructor": "frankish, charles james;guhn, martin;tanimura, kanna"
+  }, {
+    "courses_dept": "math",
+    "courses_uuid": "73119",
+    "courses_title": "intr mod diff ge",
+    "courses_instructor": "fraser, ailana"
+  }, {
+    "courses_dept": "math",
+    "courses_uuid": "3999",
+    "courses_title": "diff geometry i",
+    "courses_instructor": "fraser, ailana"
+  }, {
+    "courses_dept": "math",
+    "courses_uuid": "47252",
+    "courses_title": "diff geometry i",
+    "courses_instructor": "fraser, ailana"
+  }, {
+    "courses_dept": "math",
+    "courses_uuid": "73155",
+    "courses_title": "diff geometry i",
+    "courses_instructor": "fraser, ailana"
+  }, {
+    "courses_dept": "math",
+    "courses_uuid": "32014",
+    "courses_title": "diff geometry i",
+    "courses_instructor": "fraser, ailana"
+  }, {
+    "courses_dept": "sowk",
+    "courses_uuid": "88867",
+    "courses_title": "soc wrk & justce",
+    "courses_instructor": "gauvin, emma"
+  }, {
+    "courses_dept": "comm",
+    "courses_uuid": "71563",
+    "courses_title": "stats methlgy i",
+    "courses_instructor": "ghement, isabella"
+  }, {
+    "courses_dept": "comm",
+    "courses_uuid": "58116",
+    "courses_title": "stats methlgy i",
+    "courses_instructor": "ghement, isabella"
+  }, {
+    "courses_dept": "comm",
+    "courses_uuid": "44336",
+    "courses_title": "stats methlgy i",
+    "courses_instructor": "ghement, isabella"
+  }, {
+    "courses_dept": "comm",
+    "courses_uuid": "1114",
+    "courses_title": "stats methlgy i",
+    "courses_instructor": "ghement, isabella"
+  }, {
+    "courses_dept": "sowk",
+    "courses_uuid": "43325",
+    "courses_title": "hlth & soc care",
+    "courses_instructor": "gill, deana"
+  }, {
+    "courses_dept": "sowk",
+    "courses_uuid": "71701",
+    "courses_title": "adv int seminar",
+    "courses_instructor": "gill, deana"
+  }, {
+    "courses_dept": "sowk",
+    "courses_uuid": "43299",
+    "courses_title": "social analysis",
+    "courses_instructor": "gill, deana"
+  }, {
+    "courses_dept": "larc",
+    "courses_uuid": "97237",
+    "courses_title": "prof prct larc",
+    "courses_instructor": "girling, cynthia"
+  }, {
+    "courses_dept": "micb",
+    "courses_uuid": "93700",
+    "courses_title": "adv immunogeneti",
+    "courses_instructor": "gold, michael;perona wright, georgia;sly, laura"
+  }, {
+    "courses_dept": "math",
+    "courses_uuid": "13938",
+    "courses_title": "lie theory i",
+    "courses_instructor": "gordon, julia yulia"
+  }, {
+    "courses_dept": "math",
+    "courses_uuid": "4005",
+    "courses_title": "lie theory i",
+    "courses_instructor": "gordon, julia yulia"
+  }, {
+    "courses_dept": "math",
+    "courses_uuid": "73135",
+    "courses_title": "algebra ii",
+    "courses_instructor": "gordon, julia yulia"
+  }, {
+    "courses_dept": "crwr",
+    "courses_uuid": "26257",
+    "courses_title": "thesis",
+    "courses_instructor": "graefe, sara"
+  }, {
+    "courses_dept": "crwr",
+    "courses_uuid": "71168",
+    "courses_title": "thesis",
+    "courses_instructor": "graefe, sara"
+  }, {
+    "courses_dept": "epse",
+    "courses_uuid": "28942",
+    "courses_title": "educ stds autism",
+    "courses_instructor": "grow, laura"
+  }, {
+    "courses_dept": "epse",
+    "courses_uuid": "3250",
+    "courses_title": "prin behav anlys",
+    "courses_instructor": "grow, laura"
+  }, {
+    "courses_dept": "epse",
+    "courses_uuid": "44402",
+    "courses_title": "educ stds autism",
+    "courses_instructor": "grow, laura"
+  }, {
+    "courses_dept": "epse",
+    "courses_uuid": "6376",
+    "courses_title": "prin behav anlys",
+    "courses_instructor": "grow, laura"
+  }, {
+    "courses_dept": "epse",
+    "courses_uuid": "29330",
+    "courses_title": "dsgn&anl smp&sub",
+    "courses_instructor": "grow, laura"
+  }, {
+    "courses_dept": "epse",
+    "courses_uuid": "28987",
+    "courses_title": "sem in autism",
+    "courses_instructor": "grow, laura"
+  }, {
+    "courses_dept": "epse",
+    "courses_uuid": "3228",
+    "courses_title": "sem in autism",
+    "courses_instructor": "grow, laura"
+  }, {
+    "courses_dept": "epse",
+    "courses_uuid": "3181",
+    "courses_title": "educ stds autism",
+    "courses_instructor": "grow, laura"
+  }, {
+    "courses_dept": "epse",
+    "courses_uuid": "6320",
+    "courses_title": "educ stds autism",
+    "courses_instructor": "grow, laura"
+  }, {
+    "courses_dept": "epse",
+    "courses_uuid": "3249",
+    "courses_title": "prin behav anlys",
+    "courses_instructor": "grow, laura"
+  }, {
+    "courses_dept": "epse",
+    "courses_uuid": "44816",
+    "courses_title": "educ stds autism",
+    "courses_instructor": "grow, laura"
+  }, {
+    "courses_dept": "epse",
+    "courses_uuid": "29255",
+    "courses_title": "educ stds autism",
+    "courses_instructor": "grow, laura"
+  }, {
+    "courses_dept": "chbe",
+    "courses_uuid": "56521",
+    "courses_title": "energy enginring",
+    "courses_instructor": "gyenge, christina"
+  }, {
+    "courses_dept": "russ",
+    "courses_uuid": "42052",
+    "courses_title": "third-year russ",
+    "courses_instructor": "habajova, irina"
+  }, {
+    "courses_dept": "phar",
+    "courses_uuid": "30523",
+    "courses_title": "seminar",
+    "courses_instructor": "hafeli, urs;kumar, ujendra"
+  }, {
+    "courses_dept": "cnps",
+    "courses_uuid": "33377",
+    "courses_title": "",
+    "courses_instructor": "haney, colleen;hawley, jody;tba"
+  }, {
+    "courses_dept": "psyc",
+    "courses_uuid": "25731",
+    "courses_title": "behav assessment",
+    "courses_instructor": "heaven, roberta"
+  }, {
+    "courses_dept": "nurs",
+    "courses_uuid": "47393",
+    "courses_title": "cl pro prim care",
+    "courses_instructor": "henczel, lisa"
+  }, {
+    "courses_dept": "nurs",
+    "courses_uuid": "47387",
+    "courses_title": "hlth promo prac",
+    "courses_instructor": "henczel, lisa"
+  }, {
+    "courses_dept": "epse",
+    "courses_uuid": "86924",
+    "courses_title": "test constructio",
+    "courses_instructor": "hubley, anita"
+  }, {
+    "courses_dept": "epse",
+    "courses_uuid": "29286",
+    "courses_title": "basic princ meas",
+    "courses_instructor": "hubley, anita"
+  }, {
+    "courses_dept": "epse",
+    "courses_uuid": "38194",
+    "courses_title": "basic princ meas",
+    "courses_instructor": "hubley, anita"
+  }, {
+    "courses_dept": "epse",
+    "courses_uuid": "28975",
+    "courses_title": "dev scale&measur",
+    "courses_instructor": "hubley, anita"
+  }, {
+    "courses_dept": "spph",
+    "courses_uuid": "33068",
+    "courses_title": "perinatl epidlgy",
+    "courses_instructor": "janssen, patricia"
+  }, {
+    "courses_dept": "obst",
+    "courses_uuid": "12706",
+    "courses_title": "perinatal epidem",
+    "courses_instructor": "janssen, patricia"
+  }, {
+    "courses_dept": "edcp",
+    "courses_uuid": "64676",
+    "courses_title": "math prblm slvng",
+    "courses_instructor": "jeroff, debra"
+  }, {
+    "courses_dept": "civl",
+    "courses_uuid": "2802",
+    "courses_title": "adv steel design",
+    "courses_instructor": "joghataie, abdolreza"
+  }, {
+    "courses_dept": "sowk",
+    "courses_uuid": "43271",
+    "courses_title": "can soci plcy",
+    "courses_instructor": "johnston, patricia"
+  }, {
+    "courses_dept": "sowk",
+    "courses_uuid": "88819",
+    "courses_title": "can soci plcy",
+    "courses_instructor": "johnston, patricia"
+  }, {
+    "courses_dept": "pcth",
+    "courses_uuid": "70946",
+    "courses_title": "systmtc pcol lab",
+    "courses_instructor": "karim, sultan;pang, catherine c;walker, michael j a"
+  }, {
+    "courses_dept": "pcth",
+    "courses_uuid": "32295",
+    "courses_title": "systmtc pcol lab",
+    "courses_instructor": "karim, sultan;pang, catherine c;walker, michael j a"
+  }, {
+    "courses_dept": "pcth",
+    "courses_uuid": "2192",
+    "courses_title": "systmtc pcol lab",
+    "courses_instructor": "karim, sultan;pang, catherine c;walker, michael j a"
+  }, {
+    "courses_dept": "epse",
+    "courses_uuid": "35897",
+    "courses_title": "cur dev e df&hrd",
+    "courses_instructor": "karres, debora"
+  }, {
+    "courses_dept": "math",
+    "courses_uuid": "3961",
+    "courses_title": "real analysis i",
+    "courses_instructor": "khosravi, mahta"
+  }, {
+    "courses_dept": "spph",
+    "courses_uuid": "68029",
+    "courses_title": "survlnc&monitrng",
+    "courses_instructor": "kishchenko, svetlana"
+  }, {
+    "courses_dept": "spph",
+    "courses_uuid": "70708",
+    "courses_title": "survlnc&monitrng",
+    "courses_instructor": "kishchenko, svetlana"
+  }, {
+    "courses_dept": "spph",
+    "courses_uuid": "85948",
+    "courses_title": "prog pln & eval",
+    "courses_instructor": "kishchenko, svetlana"
+  }, {
+    "courses_dept": "epse",
+    "courses_uuid": "76276",
+    "courses_title": "intr stat rs edu",
+    "courses_instructor": "kishor, nand;launeanu, mihaela"
+  }, {
+    "courses_dept": "psyc",
+    "courses_uuid": "78271",
+    "courses_title": "clinical res des",
+    "courses_instructor": "klonsky, elisha"
+  }, {
+    "courses_dept": "cnps",
+    "courses_uuid": "5681",
+    "courses_title": "int thry counsel",
+    "courses_instructor": "klubben, laura"
+  }, {
+    "courses_dept": "anat",
+    "courses_uuid": "12692",
+    "courses_title": "fnd bdy dsgn:bsc",
+    "courses_instructor": "krebs, claudia"
+  }, {
+    "courses_dept": "anat",
+    "courses_uuid": "90349",
+    "courses_title": "fnc hmn ant h&n",
+    "courses_instructor": "krebs, claudia"
+  }, {
+    "courses_dept": "math",
+    "courses_uuid": "73173",
+    "courses_title": "harmonic anal i",
+    "courses_instructor": "laba, izabella"
+  }, {
+    "courses_dept": "math",
+    "courses_uuid": "5357",
+    "courses_title": "functional analy",
+    "courses_instructor": "laba, izabella"
+  }, {
+    "courses_dept": "epse",
+    "courses_uuid": "44822",
+    "courses_title": "intr stat rs edu",
+    "courses_instructor": "launeanu, mihaela"
+  }, {
+    "courses_dept": "spph",
+    "courses_uuid": "33048",
+    "courses_title": "iss public hlth",
+    "courses_instructor": "lee, victoria"
+  }, {
+    "courses_dept": "edcp",
+    "courses_uuid": "62024",
+    "courses_title": "vid eth ed res",
+    "courses_instructor": "loutzenheiser, lisa"
+  }, {
+    "courses_dept": "edcp",
+    "courses_uuid": "17415",
+    "courses_title": "vid eth ed res",
+    "courses_instructor": "loutzenheiser, lisa"
+  }, {
+    "courses_dept": "edcp",
+    "courses_uuid": "30553",
+    "courses_title": "ict educ ethics",
+    "courses_instructor": "macdowell, paula"
+  }, {
+    "courses_dept": "pcth",
+    "courses_uuid": "2202",
+    "courses_title": "pcol anaesthesia",
+    "courses_instructor": "macleod, bernard a"
+  }, {
+    "courses_dept": "pcth",
+    "courses_uuid": "17647",
+    "courses_title": "pcol anaesthesia",
+    "courses_instructor": "macleod, bernard a"
+  }, {
+    "courses_dept": "nurs",
+    "courses_uuid": "78692",
+    "courses_title": "ldrshp ethcs pol",
+    "courses_instructor": "macphee, maura"
+  }, {
+    "courses_dept": "nurs",
+    "courses_uuid": "88094",
+    "courses_title": "ldrshp ethcs pol",
+    "courses_instructor": "macphee, maura"
+  }, {
+    "courses_dept": "nurs",
+    "courses_uuid": "96193",
+    "courses_title": "chldren&families",
+    "courses_instructor": "macphee, maura"
+  }, {
+    "courses_dept": "nurs",
+    "courses_uuid": "15352",
+    "courses_title": "admn ldrshp nurs",
+    "courses_instructor": "macphee, maura"
+  }, {
+    "courses_dept": "nurs",
+    "courses_uuid": "78661",
+    "courses_title": "ldrshp, ethics",
+    "courses_instructor": "macphee, maura"
+  }, {
+    "courses_dept": "nurs",
+    "courses_uuid": "96185",
+    "courses_title": "ldrshp ethcs pol",
+    "courses_instructor": "macphee, maura"
+  }, {
+    "courses_dept": "edcp",
+    "courses_uuid": "21700",
+    "courses_title": "ds tec ii sc c&p",
+    "courses_instructor": "magee, theresa"
+  }, {
+    "courses_dept": "edcp",
+    "courses_uuid": "62007",
+    "courses_title": "ds tec ii sc c&p",
+    "courses_instructor": "magee, theresa"
+  }, {
+    "courses_dept": "edcp",
+    "courses_uuid": "87638",
+    "courses_title": "ds tec ii sc c&p",
+    "courses_instructor": "magee, theresa"
+  }, {
+    "courses_dept": "educ",
+    "courses_uuid": "87251",
+    "courses_title": "res mthd in educ",
+    "courses_instructor": "mathison, sandra"
+  }, {
+    "courses_dept": "epse",
+    "courses_uuid": "29335",
+    "courses_title": "qlt rsrch mthd",
+    "courses_instructor": "mathison, sandra"
+  }, {
+    "courses_dept": "epse",
+    "courses_uuid": "29017",
+    "courses_title": "qlt rsrch mthd",
+    "courses_instructor": "mathison, sandra"
+  }, {
+    "courses_dept": "epse",
+    "courses_uuid": "29324",
+    "courses_title": "thry&prc prg evl",
+    "courses_instructor": "mathison, sandra"
+  }, {
+    "courses_dept": "epse",
+    "courses_uuid": "76352",
+    "courses_title": "qlt mthd ed psy",
+    "courses_instructor": "mathison, sandra"
+  }, {
+    "courses_dept": "epse",
+    "courses_uuid": "86959",
+    "courses_title": "qlt mthd ed psy",
+    "courses_instructor": "mathison, sandra"
+  }, {
+    "courses_dept": "educ",
+    "courses_uuid": "31767",
+    "courses_title": "res mthd in educ",
+    "courses_instructor": "mathison, sandra"
+  }, {
+    "courses_dept": "ling",
+    "courses_uuid": "45584",
+    "courses_title": "sem theor",
+    "courses_instructor": "matthewson, lisa"
+  }, {
+    "courses_dept": "nurs",
+    "courses_uuid": "15374",
+    "courses_title": "primary care iii",
+    "courses_instructor": "mccuaig, fairleth;tba"
+  }, {
+    "courses_dept": "midw",
+    "courses_uuid": "50375",
+    "courses_title": "cnsl mat cr prov",
+    "courses_instructor": "mcrae, lorna"
+  }, {
+    "courses_dept": "midw",
+    "courses_uuid": "17267",
+    "courses_title": "cnsl mat cr prov",
+    "courses_instructor": "mcrae, lorna"
+  }, {
+    "courses_dept": "etec",
+    "courses_uuid": "39860",
+    "courses_title": "tech math sci",
+    "courses_instructor": "milner-bolotin, marina"
+  }, {
+    "courses_dept": "etec",
+    "courses_uuid": "76476",
+    "courses_title": "tech math sci",
+    "courses_instructor": "milner-bolotin, marina"
+  }, {
+    "courses_dept": "edcp",
+    "courses_uuid": "62044",
+    "courses_title": "res tch & lrn sc",
+    "courses_instructor": "milner-bolotin, marina"
+  }, {
+    "courses_dept": "etec",
+    "courses_uuid": "35036",
+    "courses_title": "tech math sci",
+    "courses_instructor": "milner-bolotin, marina"
+  }, {
+    "courses_dept": "etec",
+    "courses_uuid": "16985",
+    "courses_title": "tech math sci",
+    "courses_instructor": "milner-bolotin, marina"
+  }, {
+    "courses_dept": "biol",
+    "courses_uuid": "55244",
+    "courses_title": "animal dvl gntcs",
+    "courses_instructor": "mizumoto, kota"
+  }, {
+    "courses_dept": "eosc",
+    "courses_uuid": "38653",
+    "courses_title": "expl methodology",
+    "courses_instructor": "mortensen, james;tba"
+  }, {
+    "courses_dept": "cnps",
+    "courses_uuid": "80767",
+    "courses_title": "",
+    "courses_instructor": "munteanu, mircea"
+  }, {
+    "courses_dept": "cnps",
+    "courses_uuid": "80766",
+    "courses_title": "",
+    "courses_instructor": "munteanu, mircea"
+  }, {
+    "courses_dept": "cnps",
+    "courses_uuid": "91159",
+    "courses_title": "",
+    "courses_instructor": "munteanu, mircea"
+  }, {
+    "courses_dept": "cnps",
+    "courses_uuid": "70476",
+    "courses_title": "",
+    "courses_instructor": "munteanu, mircea"
+  }, {
+    "courses_dept": "cnps",
+    "courses_uuid": "51007",
+    "courses_title": "",
+    "courses_instructor": "munteanu, mircea"
+  }, {
+    "courses_dept": "cnps",
+    "courses_uuid": "82390",
+    "courses_title": "",
+    "courses_instructor": "munteanu, mircea"
+  }, {
+    "courses_dept": "cnps",
+    "courses_uuid": "51008",
+    "courses_title": "",
+    "courses_instructor": "munteanu, mircea"
+  }, {
+    "courses_dept": "cnps",
+    "courses_uuid": "15614",
+    "courses_title": "",
+    "courses_instructor": "munteanu, mircea"
+  }, {
+    "courses_dept": "cnps",
+    "courses_uuid": "25348",
+    "courses_title": "",
+    "courses_instructor": "munteanu, mircea"
+  }, {
+    "courses_dept": "cnps",
+    "courses_uuid": "25349",
+    "courses_title": "",
+    "courses_instructor": "munteanu, mircea"
+  }, {
+    "courses_dept": "cnps",
+    "courses_uuid": "82389",
+    "courses_title": "",
+    "courses_instructor": "munteanu, mircea"
+  }, {
+    "courses_dept": "cnps",
+    "courses_uuid": "28357",
+    "courses_title": "",
+    "courses_instructor": "munteanu, mircea"
+  }, {
+    "courses_dept": "cnps",
+    "courses_uuid": "70475",
+    "courses_title": "",
+    "courses_instructor": "munteanu, mircea"
+  }, {
+    "courses_dept": "cnps",
+    "courses_uuid": "69255",
+    "courses_title": "",
+    "courses_instructor": "munteanu, mircea"
+  }, {
+    "courses_dept": "cnps",
+    "courses_uuid": "69256",
+    "courses_title": "",
+    "courses_instructor": "munteanu, mircea"
+  }, {
+    "courses_dept": "cnps",
+    "courses_uuid": "87789",
+    "courses_title": "",
+    "courses_instructor": "munteanu, mircea"
+  }, {
+    "courses_dept": "spph",
+    "courses_uuid": "65131",
+    "courses_title": "iss public hlth",
+    "courses_instructor": "naus, monika"
+  }, {
+    "courses_dept": "cnps",
+    "courses_uuid": "87779",
+    "courses_title": "career planning",
+    "courses_instructor": "neault, roberta a"
+  }, {
+    "courses_dept": "phar",
+    "courses_uuid": "4767",
+    "courses_title": "cs phar sci iv",
+    "courses_instructor": "nicholl, tessa"
+  }, {
+    "courses_dept": "phar",
+    "courses_uuid": "69392",
+    "courses_title": "cs phar sci iv",
+    "courses_instructor": "nicholl, tessa"
+  }, {
+    "courses_dept": "phar",
+    "courses_uuid": "9329",
+    "courses_title": "cs phar sci iv",
+    "courses_instructor": "nicholl, tessa"
+  }, {
+    "courses_dept": "edcp",
+    "courses_uuid": "30579",
+    "courses_title": "mth ed: crnt iss",
+    "courses_instructor": "nicol, cynthia"
+  }, {
+    "courses_dept": "eece",
+    "courses_uuid": "74883",
+    "courses_title": "nanosc model&sim",
+    "courses_instructor": "nojeh, alireza"
+  }, {
+    "courses_dept": "eece",
+    "courses_uuid": "21153",
+    "courses_title": "nanosc model&sim",
+    "courses_instructor": "nojeh, alireza"
+  }, {
+    "courses_dept": "spph",
+    "courses_uuid": "65165",
+    "courses_title": "sbst use addictn",
+    "courses_instructor": "oviedo-joekes, eugenia"
+  }, {
+    "courses_dept": "cnps",
+    "courses_uuid": "50979",
+    "courses_title": "schl counselling",
+    "courses_instructor": "owens, rhea"
+  }, {
+    "courses_dept": "edst",
+    "courses_uuid": "76409",
+    "courses_title": "adu edu pro",
+    "courses_instructor": "palacios, carolina"
+  }, {
+    "courses_dept": "edst",
+    "courses_uuid": "95008",
+    "courses_title": "ldrshp educ org",
+    "courses_instructor": "pamer, monica"
+  }, {
+    "courses_dept": "micb",
+    "courses_uuid": "12423",
+    "courses_title": "adv immunogeneti",
+    "courses_instructor": "perona wright, georgia"
+  }, {
+    "courses_dept": "micb",
+    "courses_uuid": "9703",
+    "courses_title": "adv immunogeneti",
+    "courses_instructor": "perona wright, georgia"
+  }, {
+    "courses_dept": "eced",
+    "courses_uuid": "1161",
+    "courses_title": "obsv&doc erly ch",
+    "courses_instructor": "pighini, maria"
+  }, {
+    "courses_dept": "math",
+    "courses_uuid": "27444",
+    "courses_title": "complex analysis",
+    "courses_instructor": "pramanik, malabika"
+  }, {
+    "courses_dept": "math",
+    "courses_uuid": "90220",
+    "courses_title": "harmonic anal i",
+    "courses_instructor": "pramanik, malabika"
+  }, {
+    "courses_dept": "math",
+    "courses_uuid": "32012",
+    "courses_title": "complex analy",
+    "courses_instructor": "pramanik, malabika"
+  }, {
+    "courses_dept": "math",
+    "courses_uuid": "27486",
+    "courses_title": "harmonic anal i",
+    "courses_instructor": "pramanik, malabika"
+  }, {
+    "courses_dept": "libr",
+    "courses_uuid": "15896",
+    "courses_title": "serv for chld",
+    "courses_instructor": "prendergast, teresa"
+  }, {
+    "courses_dept": "audi",
+    "courses_uuid": "27631",
+    "courses_title": "acquired lng dis",
+    "courses_instructor": "purves, barbara"
+  }, {
+    "courses_dept": "epse",
+    "courses_uuid": "29310",
+    "courses_title": "thy cognt assess",
+    "courses_instructor": "robinson, georgina"
+  }, {
+    "courses_dept": "arst",
+    "courses_uuid": "82425",
+    "courses_title": "info tech&archvs",
+    "courses_instructor": "robinson, maria"
+  }, {
+    "courses_dept": "nurs",
+    "courses_uuid": "78686",
+    "courses_title": "rl div hlth expr",
+    "courses_instructor": "rodney, patricia"
+  }, {
+    "courses_dept": "nurs",
+    "courses_uuid": "78690",
+    "courses_title": "practice praxis",
+    "courses_instructor": "rodney, patricia"
+  }, {
+    "courses_dept": "lled",
+    "courses_uuid": "35618",
+    "courses_title": "doctoral seminar",
+    "courses_instructor": "rogers, theresa"
+  }, {
+    "courses_dept": "epse",
+    "courses_uuid": "28970",
+    "courses_title": "std in sign lang",
+    "courses_instructor": "russell, debra"
+  }, {
+    "courses_dept": "epse",
+    "courses_uuid": "76297",
+    "courses_title": "std in sign lang",
+    "courses_instructor": "russell, debra"
+  }, {
+    "courses_dept": "epse",
+    "courses_uuid": "6327",
+    "courses_title": "intr stat rs edu",
+    "courses_instructor": "rusticus, shayna"
+  }, {
+    "courses_dept": "epse",
+    "courses_uuid": "33795",
+    "courses_title": "intr stat rs edu",
+    "courses_instructor": "rusticus, shayna"
+  }, {
+    "courses_dept": "epse",
+    "courses_uuid": "61405",
+    "courses_title": "intr stat rs edu",
+    "courses_instructor": "rusticus, shayna"
+  }, {
+    "courses_dept": "epse",
+    "courses_uuid": "3264",
+    "courses_title": "exp des anl ed",
+    "courses_instructor": "rusticus, shayna"
+  }, {
+    "courses_dept": "cnps",
+    "courses_uuid": "28349",
+    "courses_title": "adlt psychpathlg",
+    "courses_instructor": "schultz, izabela"
+  }, {
+    "courses_dept": "cnps",
+    "courses_uuid": "80778",
+    "courses_title": "",
+    "courses_instructor": "schultz, izabela"
+  }, {
+    "courses_dept": "cnps",
+    "courses_uuid": "51024",
+    "courses_title": "",
+    "courses_instructor": "schultz, izabela"
+  }, {
+    "courses_dept": "cnps",
+    "courses_uuid": "25365",
+    "courses_title": "",
+    "courses_instructor": "schultz, izabela"
+  }, {
+    "courses_dept": "cnps",
+    "courses_uuid": "15625",
+    "courses_title": "",
+    "courses_instructor": "schultz, izabela"
+  }, {
+    "courses_dept": "cnps",
+    "courses_uuid": "70492",
+    "courses_title": "",
+    "courses_instructor": "schultz, izabela"
+  }, {
+    "courses_dept": "cnps",
+    "courses_uuid": "69269",
+    "courses_title": "",
+    "courses_instructor": "schultz, izabela"
+  }, {
+    "courses_dept": "cnps",
+    "courses_uuid": "50991",
+    "courses_title": "adlt psychpathlg",
+    "courses_instructor": "schultz, izabela"
+  }, {
+    "courses_dept": "cnps",
+    "courses_uuid": "82402",
+    "courses_title": "",
+    "courses_instructor": "schultz, izabela"
+  }, {
+    "courses_dept": "educ",
+    "courses_uuid": "31769",
+    "courses_title": "res mthd in educ",
+    "courses_instructor": "scott, sandra"
+  }, {
+    "courses_dept": "educ",
+    "courses_uuid": "46276",
+    "courses_title": "res mthd in educ",
+    "courses_instructor": "scott, sandra"
+  }, {
+    "courses_dept": "edst",
+    "courses_uuid": "95030",
+    "courses_title": "qst, theor, mthd",
+    "courses_instructor": "shan, hongxia"
+  }, {
+    "courses_dept": "edst",
+    "courses_uuid": "95032",
+    "courses_title": "work & learning",
+    "courses_instructor": "shan, hongxia"
+  }, {
+    "courses_dept": "musc",
+    "courses_uuid": "28749",
+    "courses_title": "clbrtv piano ii",
+    "courses_instructor": "sharon, rena"
+  }, {
+    "courses_dept": "musc",
+    "courses_uuid": "77922",
+    "courses_title": "clbrtv piano ii",
+    "courses_instructor": "sharon, rena"
+  }, {
+    "courses_dept": "musc",
+    "courses_uuid": "93823",
+    "courses_title": "clbrtv piano ii",
+    "courses_instructor": "sharon, rena"
+  }, {
+    "courses_dept": "hinu",
+    "courses_uuid": "47834",
+    "courses_title": "intr hindi-urdu",
+    "courses_instructor": "sinha, srija"
+  }, {
+    "courses_dept": "epse",
+    "courses_uuid": "29027",
+    "courses_title": "coll&uni teachng",
+    "courses_instructor": "smith, veronica"
+  }, {
+    "courses_dept": "astr",
+    "courses_uuid": "30115",
+    "courses_title": "honours thesis",
+    "courses_instructor": "sossi, vesna"
+  }, {
+    "courses_dept": "span",
+    "courses_uuid": "90829",
+    "courses_title": "advancd span iii",
+    "courses_instructor": "spacciante, stephanie;tba"
+  }, {
+    "courses_dept": "spph",
+    "courses_uuid": "68031",
+    "courses_title": "aborig pb health",
+    "courses_instructor": "spittal, patricia"
+  }, {
+    "courses_dept": "audi",
+    "courses_uuid": "66456",
+    "courses_title": "lang dev&dis sch",
+    "courses_instructor": "tba"
+  }, {
+    "courses_dept": "audi",
+    "courses_uuid": "61622",
+    "courses_title": "amplification ii",
+    "courses_instructor": "tba"
+  }, {
+    "courses_dept": "mech",
+    "courses_uuid": "49627",
+    "courses_title": "seminar",
+    "courses_instructor": "tba"
+  }, {
+    "courses_dept": "midw",
+    "courses_uuid": "17271",
+    "courses_title": "appl hlth serv",
+    "courses_instructor": "tba"
+  }, {
+    "courses_dept": "crwr",
+    "courses_uuid": "92882",
+    "courses_title": "thesis",
+    "courses_instructor": "tba"
+  }, {
+    "courses_dept": "cnps",
+    "courses_uuid": "80719",
+    "courses_title": "int thry counsel",
+    "courses_instructor": "tba"
+  }, {
+    "courses_dept": "rhsc",
+    "courses_uuid": "21787",
+    "courses_title": "eval src evidenc",
+    "courses_instructor": "tba"
+  }, {
+    "courses_dept": "rhsc",
+    "courses_uuid": "66160",
+    "courses_title": "reas & dec-mking",
+    "courses_instructor": "tba"
+  }, {
+    "courses_dept": "rhsc",
+    "courses_uuid": "21800",
+    "courses_title": "meas in practice",
+    "courses_instructor": "tba"
+  }, {
+    "courses_dept": "rhsc",
+    "courses_uuid": "71603",
+    "courses_title": "meas in practice",
+    "courses_instructor": "tba"
+  }, {
+    "courses_dept": "rhsc",
+    "courses_uuid": "66168",
+    "courses_title": "rehab learning",
+    "courses_instructor": "tba"
+  }, {
+    "courses_dept": "name",
+    "courses_uuid": "25768",
+    "courses_title": "shpbld proj mgmt",
+    "courses_instructor": "tba"
+  }, {
+    "courses_dept": "babs",
+    "courses_uuid": "25528",
+    "courses_title": "forecasting mgmt",
+    "courses_instructor": "tba"
+  }, {
+    "courses_dept": "arst",
+    "courses_uuid": "95072",
+    "courses_title": "info tech&archvs",
+    "courses_instructor": "tba"
+  }, {
+    "courses_dept": "cnps",
+    "courses_uuid": "33366",
+    "courses_title": "group counsling",
+    "courses_instructor": "tba"
+  }, {
+    "courses_dept": "arst",
+    "courses_uuid": "14803",
+    "courses_title": "info tech&archvs",
+    "courses_instructor": "tba"
+  }, {
+    "courses_dept": "hgse",
+    "courses_uuid": "47464",
+    "courses_title": "eco-based mgmt",
+    "courses_instructor": "tba"
+  }, {
+    "courses_dept": "hgse",
+    "courses_uuid": "47460",
+    "courses_title": "islnd wild mgmt",
+    "courses_instructor": "tba"
+  }, {
+    "courses_dept": "hgse",
+    "courses_uuid": "47450",
+    "courses_title": "frst ntns rsorcs",
+    "courses_instructor": "tba"
+  }, {
+    "courses_dept": "gsat",
+    "courses_uuid": "68733",
+    "courses_title": "adv gsat concept",
+    "courses_instructor": "tba"
+  }, {
+    "courses_dept": "midw",
+    "courses_uuid": "50379",
+    "courses_title": "appl hlth serv",
+    "courses_instructor": "tba"
+  }, {
+    "courses_dept": "rhsc",
+    "courses_uuid": "71610",
+    "courses_title": "rehab learning",
+    "courses_instructor": "tba"
+  }, {
+    "courses_dept": "mech",
+    "courses_uuid": "9191",
+    "courses_title": "research seminar",
+    "courses_instructor": "teslenko, tatiana"
+  }, {
+    "courses_dept": "crwr",
+    "courses_uuid": "580",
+    "courses_title": "thesis",
+    "courses_instructor": "tregebov, rhea"
+  }, {
+    "courses_dept": "crwr",
+    "courses_uuid": "46408",
+    "courses_title": "thesis",
+    "courses_instructor": "tregebov, rhea"
+  }, {
+    "courses_dept": "pcth",
+    "courses_uuid": "17645",
+    "courses_title": "design & bioassy",
+    "courses_instructor": "walker, michael j a"
+  }, {
+    "courses_dept": "pcth",
+    "courses_uuid": "81312",
+    "courses_title": "design & bioassy",
+    "courses_instructor": "walker, michael j a"
+  }, {
+    "courses_dept": "epse",
+    "courses_uuid": "3189",
+    "courses_title": "hn dev, lrn, cul",
+    "courses_instructor": "weber, barbara"
+  }, {
+    "courses_dept": "epse",
+    "courses_uuid": "38257",
+    "courses_title": "coll&uni teachng",
+    "courses_instructor": "weber, barbara"
+  }, {
+    "courses_dept": "civl",
+    "courses_uuid": "79672",
+    "courses_title": "soil dynamics",
+    "courses_instructor": "wijewickreme, dharmapriya"
+  }, {
+    "courses_dept": "epse",
+    "courses_uuid": "28943",
+    "courses_title": "educ stds autism",
+    "courses_instructor": "wilk, diana"
+  }, {
+    "courses_dept": "epse",
+    "courses_uuid": "13114",
+    "courses_title": "ed st dvl ds inc",
+    "courses_instructor": "wilk, diana"
+  }, {
+    "courses_dept": "psyc",
+    "courses_uuid": "31513",
+    "courses_title": "honours seminar",
+    "courses_instructor": "woody, sheila"
+  }, {
+    "courses_dept": "psyc",
+    "courses_uuid": "27931",
+    "courses_title": "honours seminar",
+    "courses_instructor": "woody, sheila"
+  }, {
+    "courses_dept": "russ",
+    "courses_uuid": "26926",
+    "courses_title": "basic russian ii",
+    "courses_instructor": "yusupova, stella"
+  }]
+}

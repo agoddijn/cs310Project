@@ -1,0 +1,32 @@
+{
+  "WHERE": {
+    "IS": {
+      "rooms_name": "DMP_*"
+    }
+  },
+  "OPTIONS": {
+    "COLUMNS": [
+      "rooms_name",
+      "count",
+      "rooms_seats"
+    ],
+    "ORDER": {
+      "dir": "UP",
+      "keys": [
+        "rooms_name"
+      ]
+    },
+    "FORM": "TABLE"
+  },
+  "TRANSFORMATIONS": {
+    "GROUP": [
+      "rooms_name",
+      "rooms_seats"
+    ],
+    "APPLY": [{
+      "count": {
+        "COUNT": "rooms_seats"
+      }
+    }]
+  }
+}

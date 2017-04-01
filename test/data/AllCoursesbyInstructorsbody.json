@@ -1,0 +1,29 @@
+{
+  "render": "TABLE",
+  "result": [
+    {
+      "courses_dept": "cpsc",
+      "courses_id": "221",
+      "courses_instructor": "harvey, nicholas",
+      "courses_avg": 85.87
+    },
+    {
+      "courses_dept": "cpsc",
+      "courses_id": "421",
+      "courses_instructor": "harvey, nicholas",
+      "courses_avg": 77.48
+    },
+    {
+      "courses_dept": "cpsc",
+      "courses_id": "421",
+      "courses_instructor": "harvey, nicholas",
+      "courses_avg": 76.24
+    },
+    {
+      "courses_dept": "cpsc",
+      "courses_id": "501",
+      "courses_instructor": "harvey, nicholas",
+      "courses_avg": 92.75
+    }
+  ]
+}

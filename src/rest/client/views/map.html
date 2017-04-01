@@ -1,0 +1,18 @@
+<div class="container">
+    <h1>Map</h1>
+    <div class="row">
+        <div class="col-lg-6">
+            <div class="input-group">
+                <input type="text" class="form-control" list="buildingName" ng-model="mapC.selectedMarker" placeholder="Search for...">
+                <datalist id="buildingName">
+                    <option ng-repeat="building in mapC.buildings" value="{{building.rooms_shortname}}">
+                </datalist>
+                <span class="input-group-btn">
+                    <button class="btn btn-default" type="button" ng-click="mapC.search()">Search!</button>
+                </span>
+            </div><!-- /input-group -->
+        </div><!-- /.col-lg-6 -->
+    </div><!-- /.row -->
+    <div id="my-map"></div>
+</div>
+

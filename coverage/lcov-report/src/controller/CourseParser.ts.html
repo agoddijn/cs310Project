@@ -1,0 +1,359 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <title>Code coverage report for src/controller/CourseParser.ts</title>
+    <meta charset="utf-8" />
+    <link rel="stylesheet" href="../../prettify.css" />
+    <link rel="stylesheet" href="../../base.css" />
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <style type='text/css'>
+        .coverage-summary .sorter {
+            background-image: url(../../sort-arrow-sprite.png);
+        }
+    </style>
+</head>
+<body>
+<div class='wrapper'>
+  <div class='pad1'>
+    <h1>
+      <a href="../../index.html">All files</a> / <a href="index.html">src/controller</a> CourseParser.ts
+    </h1>
+    <div class='clearfix'>
+      <div class='fl pad1y space-right2'>
+        <span class="strong">89.09% </span>
+        <span class="quiet">Statements</span>
+        <span class='fraction'>49/55</span>
+      </div>
+      <div class='fl pad1y space-right2'>
+        <span class="strong">100% </span>
+        <span class="quiet">Branches</span>
+        <span class='fraction'>2/2</span>
+      </div>
+      <div class='fl pad1y space-right2'>
+        <span class="strong">90.91% </span>
+        <span class="quiet">Functions</span>
+        <span class='fraction'>10/11</span>
+      </div>
+      <div class='fl pad1y space-right2'>
+        <span class="strong">88.46% </span>
+        <span class="quiet">Lines</span>
+        <span class='fraction'>46/52</span>
+      </div>
+    </div>
+  </div>
+  <div class='status-line high'></div>
+<pre><table class="coverage">
+<tr><td class="line-count quiet">1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+46
+47
+48
+49
+50
+51
+52
+53
+54
+55
+56
+57
+58
+59
+60
+61
+62
+63
+64
+65
+66
+67
+68
+69
+70
+71
+72
+73
+74
+75
+76
+77
+78
+79
+80
+81
+82
+83
+84
+85
+86
+87
+88
+89
+90
+91
+92
+93
+94
+95
+96
+97
+98
+99</td><td class="line-coverage quiet"><span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-yes">1x</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-yes">1x</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-yes">9x</span>
+<span class="cline-any cline-yes">9x</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-yes">1x</span>
+<span class="cline-any cline-yes">9x</span>
+<span class="cline-any cline-yes">9x</span>
+<span class="cline-any cline-yes">9x</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-yes">9x</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-yes">9x</span>
+<span class="cline-any cline-yes">47553x</span>
+<span class="cline-any cline-yes">47553x</span>
+<span class="cline-any cline-yes">47552x</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-yes">8x</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-yes">8x</span>
+<span class="cline-any cline-yes">47552x</span>
+<span class="cline-any cline-yes">47552x</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-yes">8x</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-no">&nbsp;</span>
+<span class="cline-any cline-no">&nbsp;</span>
+<span class="cline-any cline-no">&nbsp;</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-yes">1x</span>
+<span class="cline-any cline-yes">1x</span>
+<span class="cline-any cline-yes">1x</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-yes">1x</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-yes">47552x</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-yes">47552x</span>
+<span class="cline-any cline-yes">47552x</span>
+<span class="cline-any cline-yes">516896x</span>
+<span class="cline-any cline-yes">516896x</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-yes">516896x</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-no">&nbsp;</span>
+<span class="cline-any cline-no">&nbsp;</span>
+<span class="cline-any cline-no">&nbsp;</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-yes">47552x</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-yes">1x</span>
+<span class="cline-any cline-yes">516896x</span>
+<span class="cline-any cline-yes">516896x</span>
+<span class="cline-any cline-yes">516896x</span>
+<span class="cline-any cline-yes">196968x</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-yes">319928x</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-yes">516896x</span>
+<span class="cline-any cline-yes">516896x</span>
+<span class="cline-any cline-yes">516896x</span>
+<span class="cline-any cline-yes">516896x</span>
+<span class="cline-any cline-yes">516896x</span>
+<span class="cline-any cline-yes">516896x</span>
+<span class="cline-any cline-yes">516896x</span>
+<span class="cline-any cline-yes">516896x</span>
+<span class="cline-any cline-yes">516896x</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-yes">516896x</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-yes">1x</span></td><td class="text"><pre class="prettyprint lang-js">/**
+ * Created by alexgoddijn on 13/02/2017.
+ */
+&nbsp;
+import {Log} from '../Util';
+import {Course, zipDat, Result} from "./IInsightFacade";
+import {ICourseParser} from "./ICourseParser";
+&nbsp;
+export default class CourseParser implements ICourseParser {
+&nbsp;
+    subPromiseList: Promise&lt;string&gt;[];
+    promiseList: Promise&lt;Course[]&gt;[];
+    id: string;
+&nbsp;
+    constructor() {
+        Log.trace("CourseParser::init()");
+        this.promiseList = new Array&lt;Promise&lt;Course[]&gt;&gt;();
+    }
+&nbsp;
+    public parse(subPromiseList: Promise&lt;string&gt;[], id: string): Promise&lt;Course[]&gt; {
+        var vm = this;
+        vm.subPromiseList = subPromiseList;
+        vm.id = id;
+&nbsp;
+        return new Promise(function(fulfill, reject){
+            // Push all promises generated from unzipped files to promiseList
+            Promise.all(vm.subPromiseList).then(function (contents: string[]) {
+                for (let content of contents) {
+                    let courseDat: zipDat = JSON.parse(content);
+                    vm.promiseList.push(vm.genCourseList(courseDat));
+                }
+&nbsp;
+                // Concatenate the course lists
+                Promise.all(vm.promiseList).then(function (coursesList: Course[][]) {
+                    // The variable to fulfill
+                    let toReturn: Course[] = [];
+                    for (let courses of coursesList) {
+                        toReturn = toReturn.concat(courses);
+                    }
+                    fulfill(toReturn);
+                }).catch(<span class="fstat-no" title="function not covered" >function (</span>err: any) {
+                    // Log error if it occurs
+<span class="cstat-no" title="statement not covered" >                    Log.error("Error in CourseParser.parse() [genCourseList()]");</span>
+<span class="cstat-no" title="statement not covered" >                    Log.error(err);</span>
+<span class="cstat-no" title="statement not covered" >                    reject(err);</span>
+                });
+&nbsp;
+            }).catch(function (err: any) {
+                // Log error if it occurs
+                Log.error("Error in CourseParser.parse() [file.aync()]");
+                Log.error(err);
+                reject(err);
+            });
+        });
+    }
+&nbsp;
+&nbsp;
+    public genCourseList(courseDat: zipDat): Promise&lt;Course[]&gt; {
+&nbsp;
+        var vm = this;
+&nbsp;
+        return new Promise(function(fulfill, reject) {
+            let toReturn: Course[] = [];
+            for (let course of courseDat.result) {
+                try {
+                    // Create the course and push it to the course array
+                    toReturn.push(vm.genCourse(course));
+                } catch(err) {
+<span class="cstat-no" title="statement not covered" >                    Log.error("Error in ZipParser.genCourseList() [genCourse()]");</span>
+<span class="cstat-no" title="statement not covered" >                    Log.error(err);</span>
+<span class="cstat-no" title="statement not covered" >                    reject(err);</span>
+                }
+            }
+            fulfill(toReturn);
+        });
+    }
+&nbsp;
+    public genCourse(courseObj: Result): Course {
+        var vm = this;
+        var course: Course = {};
+        if (courseObj.Section == "overall") {
+            course[vm.id + "_year"] = 1900;
+        } else {
+            course[vm.id + "_year"] = Number(courseObj.Year);
+        }
+        course[vm.id + "_id"] = courseObj.Course;
+        course[vm.id + "_dept"] = courseObj.Subject;
+        course[vm.id + "_audit"] = courseObj.Audit;
+        course[vm.id + "_avg"] = courseObj.Avg;
+        course[vm.id + "_title"] = courseObj.Title;
+        course[vm.id + "_fail"] = courseObj.Fail;
+        course[vm.id + "_pass"] = courseObj.Pass;
+        course[vm.id + "_instructor"] = courseObj.Professor;
+        course[vm.id + "_uuid"] = (courseObj.id).toString();
+&nbsp;
+        return course;
+    }
+&nbsp;
+}</pre></td></tr>
+</table></pre>
+<div class='push'></div><!-- for sticky footer -->
+</div><!-- /wrapper -->
+<div class='footer quiet pad2 space-top1 center small'>
+  Code coverage
+  generated by <a href="http://istanbul-js.org/" target="_blank">istanbul</a> at Sat Mar 25 2017 21:12:43 GMT-0700 (PDT)
+</div>
+</div>
+<script src="../../prettify.js"></script>
+<script>
+window.onload = function () {
+        if (typeof prettyPrint === 'function') {
+            prettyPrint();
+        }
+};
+</script>
+<script src="../../sorter.js"></script>
+</body>
+</html>

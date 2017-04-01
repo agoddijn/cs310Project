@@ -1,0 +1,14 @@
+{
+    "WHERE": {
+        "IS": {
+            "rooms_type": "*Small*"
+        }
+    },
+    "OPTIONS": {
+        "COLUMNS": [
+            "rooms_name", "rooms_href"
+        ],
+        "ORDER": "rooms_href",
+        "FORM": "TABLE"
+    }
+}

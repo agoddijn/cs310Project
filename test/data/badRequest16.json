@@ -1,0 +1,24 @@
+{
+  "WHERE": {
+  },
+  "OPTIONS": {
+    "COLUMNS": [
+      "rooms_name",
+      "roomss_seats"
+    ],
+    "ORDER": {
+      "dir": "up",
+      "keys": [
+        "rooms_seats",
+        "rooms_name"
+      ]
+    },
+    "FORM": "TABLE"
+  },
+  "TRANSFORMATIONS": {
+    "GROUP": [
+      "rooms_name",
+      "rooms_seats"
+    ]
+  }
+}

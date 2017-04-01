@@ -1,0 +1,14 @@
+{
+  "WHERE": {},
+  "OPTIONS": {
+    "COLUMNS": [
+      "rooms_furniture"
+    ],
+    "ORDER": "rooms_furniture",
+    "FORM": "TABLE"
+  },
+  "TRANSFORMATIONS": {
+    "GROUP": ["rooms_furniture"],
+    "APPLY": []
+  }
+}

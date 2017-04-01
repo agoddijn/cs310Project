@@ -1,0 +1,23 @@
+{
+    "WHERE": {
+        "AND" : [
+            {
+                "EQ": {
+                    "rooms_lat": 49.26372
+                }
+            },
+            {
+                "EQ": {
+                    "rooms_lon": -123.25099
+                }
+            }
+        ]
+    },
+    "OPTIONS": {
+        "COLUMNS": [
+            "rooms_address"
+        ],
+        "ORDER": "rooms_address",
+        "FORM": "TABLE"
+    }
+}

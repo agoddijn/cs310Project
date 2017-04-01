@@ -1,0 +1,124 @@
+<div class="container">
+
+    <h1>{{scheduler.name}}</h1>
+
+    <!--Main Display-->
+    <div class="container-fluid group-input scroll">
+
+        <div class="row schedule-filter">
+            <h3>Enter Course Options</h3>
+            <input type="text" class="form-control" list="courseDept" placeholder="Course Department" ng-model="scheduler.courseDept">
+
+            <datalist id="courseDept">
+                <option ng-repeat="courseDept in scheduler.coursesDepts" value="{{courseDept.courses_dept}}">
+            </datalist>
+
+            <input type="text" class="form-control" list="courseId" placeholder="Course ID" ng-model="scheduler.courseId">
+
+            <datalist id="courseId">
+                <option ng-repeat="courseId in scheduler.coursesIds" value="{{courseId.courses_id}}">
+            </datalist>
+        </div>
+
+        <div class="row schedule-filter">
+            <h3>Enter Building Options</h3>
+
+            <input type="text" class="form-control" list="buildingName" placeholder="Building Name" ng-model="scheduler.roomName">
+            <datalist id="buildingName">
+                <option ng-repeat="building in scheduler.buildings" value="{{building.rooms_shortname}}">
+            </datalist>
+
+            <input type="text" class="form-control" placeholder="Distance (m)" ng-model="scheduler.roomDist">
+
+        </div>
+
+        <div class="row">
+            <button class="btn btn-default" ng-click="scheduler.validateAndSchedule()">Schedule!</button>
+        </div>
+    </div>
+
+    <!--Schedule Display-->
+    <div class="container-fluid scroll group-data">
+        <div class="row schedule-display group">
+            <div class="row">
+                <div class="alert alert-success" role="alert" ng-show="scheduler.success">
+                    <a href="#" class="alert-link">Scheduling complete! {{scheduler.peopleScheduled}} people scheduled, {{scheduler.peopleUnscheduled}} people unscheduled, fitness is {{scheduler.fitness}}/1</a>
+                </div>
+            </div>
+            <div ng-repeat="(roomName, roomNums) in scheduler.scheduled">
+                <div ng-repeat="(roomNum, schedBlocks) in roomNums">
+                    <div class="panel panel-default">
+                        <div class="panel-heading">{{roomName}} {{roomNum}}: {{schedBlocks[0].room_size}} seats</div>
+                        <table class="table table-bordered">
+                            <thead>
+                            <tr>
+                                <th>Day</th>
+                                <th>Start Time</th>
+                                <th>End Time</th>
+                                <th>Course Dept</th>
+                                <th>Course ID</th>
+                                <th>Section</th>
+                                <th>Size</th>
+                            </tr>
+                            </thead>
+                            <tbody>
+                            <tr ng-repeat="schedBlock in schedBlocks">
+                                <td>{{schedBlock.day}}</td>
+                                <td>{{schedBlock.start_time}}</td>
+                                <td>{{schedBlock.end_time}}</td>
+                                <td>{{schedBlock.course_dept}}</td>
+                                <td>{{schedBlock.course_id}}</td>
+                                <td>{{schedBlock.section_num}}</td>
+                                <td>{{schedBlock.section_size}}</td>
+                            </tr>
+                            </tbody>
+                        </table>
+                    </div>
+                </div>
+            </div>
+            <div class="panel panel-default" ng-show="scheduler.success">
+                <div class="panel-heading">Could Not Schedule</div>
+                <table class="table table-bordered">
+                    <thead>
+                    <tr>
+                        <th>Course Dept</th>
+                        <th>Course ID</th>
+                        <th>Section</th>
+                        <th>Size</th>
+                    </tr>
+                    </thead>
+                    <tbody>
+                    <tr ng-repeat="course in scheduler.unscheduled">
+                        <td>{{course.courses_dept}}</td>
+                        <td>{{course.courses_id}}</td>
+                        <td>{{course.section_num}}</td>
+                        <td>{{course.size}}</td>
+                    </tr>
+                    </tbody>
+                </table>
+            </div>
+        </div>
+    </div>
+
+
+    <!--Error Modal-->
+    <div class="modal fade" id="errModal" tabindex="-1" role="dialog" aria-labelledby="errModal">
+        <div class="modal-dialog modal-md" role="document">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+                    <h4 class="modal-title" id="myModalLabel">Error: {{scheduler.status}}!</h4>
+                </div>
+                <div class="modal-body">
+                    <p>{{scheduler.errMsg}}</p>
+                    <p>{{scheduler.info}}</p>
+                </div>
+                <div class="modal-footer">
+                    <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+                </div>
+            </div>
+        </div>
+    </div>
+
+</div>
+

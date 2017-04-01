@@ -1,0 +1,35 @@
+{
+  "WHERE":{
+    "AND":[
+      {
+        "AND":[
+          {
+            "GT":{
+              "courses_avg": 93
+            }
+          },
+          {
+            "IS":{
+              "courses_dept":"crwr"
+            }
+          }
+        ]
+      },
+      {
+        "IS":{
+          "courses_title": "pre*"
+        }
+      }
+    ]
+  },
+  "OPTIONS":{
+    "COLUMNS":[
+      "courses_dept",
+      "courses_id",
+      "courses_title",
+      "courses_avg"
+    ],
+    "ORDER":"courses_avg",
+    "FORM":"TABLE"
+  }
+}

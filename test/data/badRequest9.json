@@ -1,0 +1,7 @@
+{
+  "WHERE": {
+    "IS": {
+      "courses_avg": 90
+    }
+  }
+}

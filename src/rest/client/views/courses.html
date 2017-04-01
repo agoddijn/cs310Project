@@ -1,0 +1,31 @@
+<div class = "main">
+    <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.2.23/angular.min.js"></script>
+
+    <div ng-app="myApp">
+        <script>
+            var app = angular.module('myApp', []);
+            app.controller('myCtrl', function($courses, $relationship) {
+                $courses.criteria = [
+                    "Department",
+                    "Section",
+                    "Instructor",
+                    "Average"
+                ];
+            });
+        </script>
+
+        <select ng-model="selectedCriteria" ng-options="x for x in criteria">
+        </select>
+
+        <select ng-model="selectedRelationship" ng-options="x for x in relationship">
+        </select>
+
+    </div>
+
+
+
+
+
+
+
+</div>

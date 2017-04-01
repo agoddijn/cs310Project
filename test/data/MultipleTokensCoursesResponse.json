@@ -1,0 +1,1517 @@
+{
+  "render": "TABLE",
+  "result": [
+    {
+      "courses_dept": "aanb",
+      "avgGrades": 91.1,
+      "maxGrades": 94.44,
+      "minGrades": 87.83,
+      "sumGrades": 364.53999999999996,
+      "count": 1
+    },
+    {
+      "courses_dept": "epse",
+      "avgGrades": 89.94,
+      "maxGrades": 98.8,
+      "minGrades": 65.55,
+      "sumGrades": 99019.87000000011,
+      "count": 124
+    },
+    {
+      "courses_dept": "onco",
+      "avgGrades": 89.82,
+      "maxGrades": 93.07,
+      "minGrades": 83.45,
+      "sumGrades": 1616.8,
+      "count": 4
+    },
+    {
+      "courses_dept": "biof",
+      "avgGrades": 89.77,
+      "maxGrades": 93.45,
+      "minGrades": 87.33,
+      "sumGrades": 2064.63,
+      "count": 6
+    },
+    {
+      "courses_dept": "cell",
+      "avgGrades": 89.15,
+      "maxGrades": 94.4,
+      "minGrades": 84.29,
+      "sumGrades": 12836.600000000004,
+      "count": 12
+    },
+    {
+      "courses_dept": "etec",
+      "avgGrades": 89.05,
+      "maxGrades": 96.47,
+      "minGrades": 78.55,
+      "sumGrades": 36775.87999999998,
+      "count": 39
+    },
+    {
+      "courses_dept": "zool",
+      "avgGrades": 89,
+      "maxGrades": 92.71,
+      "minGrades": 83.67,
+      "sumGrades": 3203.23,
+      "count": 6
+    },
+    {
+      "courses_dept": "chil",
+      "avgGrades": 88.93,
+      "maxGrades": 92,
+      "minGrades": 83,
+      "sumGrades": 2400.88,
+      "count": 1
+    },
+    {
+      "courses_dept": "edcp",
+      "avgGrades": 88.39,
+      "maxGrades": 95.58,
+      "minGrades": 76.18,
+      "sumGrades": 23863.699999999997,
+      "count": 48
+    },
+    {
+      "courses_dept": "gsat",
+      "avgGrades": 87.83,
+      "maxGrades": 90.29,
+      "minGrades": 84.9,
+      "sumGrades": 2459.02,
+      "count": 7
+    },
+    {
+      "courses_dept": "plan",
+      "avgGrades": 87.67,
+      "maxGrades": 96.47,
+      "minGrades": 78.51,
+      "sumGrades": 13061.089999999993,
+      "count": 26
+    },
+    {
+      "courses_dept": "fish",
+      "avgGrades": 87.65,
+      "maxGrades": 94,
+      "minGrades": 78,
+      "sumGrades": 3856.3800000000006,
+      "count": 9
+    },
+    {
+      "courses_dept": "edst",
+      "avgGrades": 87.62,
+      "maxGrades": 96.46,
+      "minGrades": 78.18,
+      "sumGrades": 32590.739999999998,
+      "count": 51
+    },
+    {
+      "courses_dept": "medi",
+      "avgGrades": 87.41,
+      "maxGrades": 93.5,
+      "minGrades": 78.6,
+      "sumGrades": 11011.940000000004,
+      "count": 10
+    },
+    {
+      "courses_dept": "bota",
+      "avgGrades": 87.41,
+      "maxGrades": 92,
+      "minGrades": 83.43,
+      "sumGrades": 2622.1000000000004,
+      "count": 10
+    },
+    {
+      "courses_dept": "sts",
+      "avgGrades": 87.25,
+      "maxGrades": 90,
+      "minGrades": 85.57,
+      "sumGrades": 1046.9399999999998,
+      "count": 1
+    },
+    {
+      "courses_dept": "cnps",
+      "avgGrades": 87.04,
+      "maxGrades": 99.19,
+      "minGrades": 70.66,
+      "sumGrades": 62666.26000000004,
+      "count": 100
+    },
+    {
+      "courses_dept": "midw",
+      "avgGrades": 86.93,
+      "maxGrades": 96.5,
+      "minGrades": 79.22,
+      "sumGrades": 14255.28000000001,
+      "count": 26
+    },
+    {
+      "courses_dept": "phth",
+      "avgGrades": 86.59,
+      "maxGrades": 95.37,
+      "minGrades": 81.32,
+      "sumGrades": 10564.039999999999,
+      "count": 14
+    },
+    {
+      "courses_dept": "cnto",
+      "avgGrades": 86.54,
+      "maxGrades": 89.42,
+      "minGrades": 84.59,
+      "sumGrades": 432.65999999999997,
+      "count": 2
+    },
+    {
+      "courses_dept": "lais",
+      "avgGrades": 86.5,
+      "maxGrades": 86.71,
+      "minGrades": 86.33,
+      "sumGrades": 346.08,
+      "count": 2
+    },
+    {
+      "courses_dept": "hunu",
+      "avgGrades": 86.47,
+      "maxGrades": 91.33,
+      "minGrades": 81.6,
+      "sumGrades": 2248.1,
+      "count": 6
+    },
+    {
+      "courses_dept": "spph",
+      "avgGrades": 86.36,
+      "maxGrades": 98.98,
+      "minGrades": 66.8,
+      "sumGrades": 53370.14000000005,
+      "count": 90
+    },
+    {
+      "courses_dept": "audi",
+      "avgGrades": 86.35,
+      "maxGrades": 96.9,
+      "minGrades": 62.63,
+      "sumGrades": 48786.25000000003,
+      "count": 52
+    },
+    {
+      "courses_dept": "hgse",
+      "avgGrades": 86.23,
+      "maxGrades": 95.29,
+      "minGrades": 78,
+      "sumGrades": 6035.72,
+      "count": 2
+    },
+    {
+      "courses_dept": "rhsc",
+      "avgGrades": 85.99,
+      "maxGrades": 95,
+      "minGrades": 68.5,
+      "sumGrades": 18057.350000000002,
+      "count": 22
+    },
+    {
+      "courses_dept": "ccst",
+      "avgGrades": 85.77,
+      "maxGrades": 93.67,
+      "minGrades": 77.5,
+      "sumGrades": 4202.4800000000005,
+      "count": 12
+    },
+    {
+      "courses_dept": "eece",
+      "avgGrades": 85.4,
+      "maxGrades": 98.75,
+      "minGrades": 72.76,
+      "sumGrades": 42782.11000000004,
+      "count": 47
+    },
+    {
+      "courses_dept": "info",
+      "avgGrades": 85.4,
+      "maxGrades": 85.4,
+      "minGrades": 85.4,
+      "sumGrades": 170.8,
+      "count": 2
+    },
+    {
+      "courses_dept": "obst",
+      "avgGrades": 85.36,
+      "maxGrades": 95,
+      "minGrades": 62.5,
+      "sumGrades": 5377.010000000002,
+      "count": 10
+    },
+    {
+      "courses_dept": "rsot",
+      "avgGrades": 85.28,
+      "maxGrades": 91.7,
+      "minGrades": 77.98,
+      "sumGrades": 14069.530000000006,
+      "count": 9
+    },
+    {
+      "courses_dept": "libe",
+      "avgGrades": 85.08,
+      "maxGrades": 92.26,
+      "minGrades": 78.72,
+      "sumGrades": 9187.269999999999,
+      "count": 17
+    },
+    {
+      "courses_dept": "udes",
+      "avgGrades": 84.97,
+      "maxGrades": 89.5,
+      "minGrades": 76.43,
+      "sumGrades": 1359.6799999999998,
+      "count": 6
+    },
+    {
+      "courses_dept": "pcth",
+      "avgGrades": 84.96,
+      "maxGrades": 96,
+      "minGrades": 62.33,
+      "sumGrades": 16055.899999999994,
+      "count": 27
+    },
+    {
+      "courses_dept": "jrnl",
+      "avgGrades": 84.93,
+      "maxGrades": 89.93,
+      "minGrades": 74.5,
+      "sumGrades": 2972.5800000000004,
+      "count": 7
+    },
+    {
+      "courses_dept": "sans",
+      "avgGrades": 84.92,
+      "maxGrades": 92.5,
+      "minGrades": 70.69,
+      "sumGrades": 1698.3799999999997,
+      "count": 4
+    },
+    {
+      "courses_dept": "anat",
+      "avgGrades": 84.9,
+      "maxGrades": 92,
+      "minGrades": 80.28,
+      "sumGrades": 2546.94,
+      "count": 5
+    },
+    {
+      "courses_dept": "gbpr",
+      "avgGrades": 84.9,
+      "maxGrades": 85,
+      "minGrades": 84.8,
+      "sumGrades": 339.6,
+      "count": 2
+    },
+    {
+      "courses_dept": "gpp",
+      "avgGrades": 84.89,
+      "maxGrades": 93.04,
+      "minGrades": 80.16,
+      "sumGrades": 2037.2999999999997,
+      "count": 1
+    },
+    {
+      "courses_dept": "eced",
+      "avgGrades": 84.88,
+      "maxGrades": 93.72,
+      "minGrades": 75.25,
+      "sumGrades": 12476.230000000001,
+      "count": 19
+    },
+    {
+      "courses_dept": "bmeg",
+      "avgGrades": 84.84,
+      "maxGrades": 95.15,
+      "minGrades": 75.76,
+      "sumGrades": 8398.300000000001,
+      "count": 17
+    },
+    {
+      "courses_dept": "sowk",
+      "avgGrades": 84.77,
+      "maxGrades": 96.15,
+      "minGrades": 72.95,
+      "sumGrades": 45012.11999999997,
+      "count": 77
+    },
+    {
+      "courses_dept": "libr",
+      "avgGrades": 84.74,
+      "maxGrades": 96.1,
+      "minGrades": 74.07,
+      "sumGrades": 40333.57,
+      "count": 45
+    },
+    {
+      "courses_dept": "name",
+      "avgGrades": 84.63,
+      "maxGrades": 91.57,
+      "minGrades": 77.62,
+      "sumGrades": 3554.3199999999997,
+      "count": 11
+    },
+    {
+      "courses_dept": "iar",
+      "avgGrades": 84.6,
+      "maxGrades": 87.5,
+      "minGrades": 80,
+      "sumGrades": 423.03,
+      "count": 1
+    },
+    {
+      "courses_dept": "nurs",
+      "avgGrades": 84.53,
+      "maxGrades": 98.71,
+      "minGrades": 70,
+      "sumGrades": 76918.76000000005,
+      "count": 125
+    },
+    {
+      "courses_dept": "arst",
+      "avgGrades": 84.49,
+      "maxGrades": 96.94,
+      "minGrades": 73.56,
+      "sumGrades": 21204.799999999996,
+      "count": 32
+    },
+    {
+      "courses_dept": "mrne",
+      "avgGrades": 84.41,
+      "maxGrades": 89.4,
+      "minGrades": 78.17,
+      "sumGrades": 3376.2200000000003,
+      "count": 2
+    },
+    {
+      "courses_dept": "dent",
+      "avgGrades": 84.32,
+      "maxGrades": 94.33,
+      "minGrades": 72.75,
+      "sumGrades": 31784.97000000001,
+      "count": 30
+    },
+    {
+      "courses_dept": "hinu",
+      "avgGrades": 84.28,
+      "maxGrades": 93.22,
+      "minGrades": 76.09,
+      "sumGrades": 1348.4099999999999,
+      "count": 4
+    },
+    {
+      "courses_dept": "ceen",
+      "avgGrades": 84.25,
+      "maxGrades": 94.27,
+      "minGrades": 74.96,
+      "sumGrades": 4549.59,
+      "count": 7
+    },
+    {
+      "courses_dept": "phrm",
+      "avgGrades": 84.25,
+      "maxGrades": 94.23,
+      "minGrades": 70.11,
+      "sumGrades": 926.54,
+      "count": 6
+    },
+    {
+      "courses_dept": "medg",
+      "avgGrades": 84.23,
+      "maxGrades": 94.7,
+      "minGrades": 54.43,
+      "sumGrades": 20887.13999999999,
+      "count": 37
+    },
+    {
+      "courses_dept": "nrsc",
+      "avgGrades": 84.21,
+      "maxGrades": 90.67,
+      "minGrades": 68,
+      "sumGrades": 6399.199999999999,
+      "count": 2
+    },
+    {
+      "courses_dept": "iwme",
+      "avgGrades": 84,
+      "maxGrades": 84,
+      "minGrades": 84,
+      "sumGrades": 168,
+      "count": 2
+    },
+    {
+      "courses_dept": "rmes",
+      "avgGrades": 83.86,
+      "maxGrades": 89.25,
+      "minGrades": 74.33,
+      "sumGrades": 12327.819999999989,
+      "count": 27
+    },
+    {
+      "courses_dept": "educ",
+      "avgGrades": 83.72,
+      "maxGrades": 97.5,
+      "minGrades": 39.03,
+      "sumGrades": 15319.869999999999,
+      "count": 61
+    },
+    {
+      "courses_dept": "dani",
+      "avgGrades": 83.57,
+      "maxGrades": 89.27,
+      "minGrades": 73.43,
+      "sumGrades": 2172.8,
+      "count": 2
+    },
+    {
+      "courses_dept": "path",
+      "avgGrades": 83.23,
+      "maxGrades": 93.5,
+      "minGrades": 73.47,
+      "sumGrades": 38697.229999999996,
+      "count": 84
+    },
+    {
+      "courses_dept": "crwr",
+      "avgGrades": 83.1,
+      "maxGrades": 98,
+      "minGrades": 72.31,
+      "sumGrades": 17282.779999999995,
+      "count": 32
+    },
+    {
+      "courses_dept": "bait",
+      "avgGrades": 83.04,
+      "maxGrades": 86.83,
+      "minGrades": 79.75,
+      "sumGrades": 7473.939999999998,
+      "count": 15
+    },
+    {
+      "courses_dept": "adhe",
+      "avgGrades": 82.94,
+      "maxGrades": 96.11,
+      "minGrades": 67.5,
+      "sumGrades": 19241.49000000001,
+      "count": 15
+    },
+    {
+      "courses_dept": "thtr",
+      "avgGrades": 82.81,
+      "maxGrades": 95.2,
+      "minGrades": 63.78,
+      "sumGrades": 44548.53,
+      "count": 66
+    },
+    {
+      "courses_dept": "bafi",
+      "avgGrades": 82.79,
+      "maxGrades": 89.43,
+      "minGrades": 75.54,
+      "sumGrades": 26409.279999999973,
+      "count": 25
+    },
+    {
+      "courses_dept": "bams",
+      "avgGrades": 82.78,
+      "maxGrades": 91.47,
+      "minGrades": 77.2,
+      "sumGrades": 16556.45999999998,
+      "count": 18
+    },
+    {
+      "courses_dept": "baul",
+      "avgGrades": 82.68,
+      "maxGrades": 85.62,
+      "minGrades": 76.77,
+      "sumGrades": 1487.9999999999998,
+      "count": 3
+    },
+    {
+      "courses_dept": "cics",
+      "avgGrades": 82.56,
+      "maxGrades": 89.68,
+      "minGrades": 76.39,
+      "sumGrades": 2311.6800000000003,
+      "count": 6
+    },
+    {
+      "courses_dept": "basm",
+      "avgGrades": 82.55,
+      "maxGrades": 87.56,
+      "minGrades": 77.68,
+      "sumGrades": 13620.740000000007,
+      "count": 15
+    },
+    {
+      "courses_dept": "baen",
+      "avgGrades": 82.55,
+      "maxGrades": 87.13,
+      "minGrades": 78.97,
+      "sumGrades": 7181.100000000003,
+      "count": 18
+    },
+    {
+      "courses_dept": "larc",
+      "avgGrades": 82.51,
+      "maxGrades": 92.8,
+      "minGrades": 73.56,
+      "sumGrades": 25990.100000000017,
+      "count": 47
+    },
+    {
+      "courses_dept": "spha",
+      "avgGrades": 82.5,
+      "maxGrades": 89.76,
+      "minGrades": 74.57,
+      "sumGrades": 26233.51000000002,
+      "count": 38
+    },
+    {
+      "courses_dept": "babs",
+      "avgGrades": 82.46,
+      "maxGrades": 91.38,
+      "minGrades": 75.63,
+      "sumGrades": 4287.839999999999,
+      "count": 12
+    },
+    {
+      "courses_dept": "surg",
+      "avgGrades": 82.43,
+      "maxGrades": 94.25,
+      "minGrades": 60.25,
+      "sumGrades": 3543.9500000000003,
+      "count": 5
+    },
+    {
+      "courses_dept": "soil",
+      "avgGrades": 82.38,
+      "maxGrades": 91.43,
+      "minGrades": 73.38,
+      "sumGrades": 5272.140000000002,
+      "count": 11
+    },
+    {
+      "courses_dept": "fipr",
+      "avgGrades": 82.15,
+      "maxGrades": 96.4,
+      "minGrades": 70.3,
+      "sumGrades": 14374.300000000012,
+      "count": 30
+    },
+    {
+      "courses_dept": "ba",
+      "avgGrades": 82.02,
+      "maxGrades": 87.24,
+      "minGrades": 74.58,
+      "sumGrades": 12220.609999999999,
+      "count": 1
+    },
+    {
+      "courses_dept": "pers",
+      "avgGrades": 82.01,
+      "maxGrades": 89.25,
+      "minGrades": 67.78,
+      "sumGrades": 4018.6399999999994,
+      "count": 2
+    },
+    {
+      "courses_dept": "bama",
+      "avgGrades": 81.92,
+      "maxGrades": 87.7,
+      "minGrades": 77.57,
+      "sumGrades": 15400.049999999985,
+      "count": 20
+    },
+    {
+      "courses_dept": "envr",
+      "avgGrades": 81.7,
+      "maxGrades": 89.17,
+      "minGrades": 72.6,
+      "sumGrades": 6781.199999999998,
+      "count": 27
+    },
+    {
+      "courses_dept": "food",
+      "avgGrades": 81.68,
+      "maxGrades": 90.68,
+      "minGrades": 72.07,
+      "sumGrades": 13393.06,
+      "count": 21
+    },
+    {
+      "courses_dept": "phar",
+      "avgGrades": 81.66,
+      "maxGrades": 95.07,
+      "minGrades": 51.25,
+      "sumGrades": 65894.46999999991,
+      "count": 90
+    },
+    {
+      "courses_dept": "isci",
+      "avgGrades": 81.65,
+      "maxGrades": 90.44,
+      "minGrades": 75.79,
+      "sumGrades": 5796.450000000004,
+      "count": 20
+    },
+    {
+      "courses_dept": "swed",
+      "avgGrades": 81.58,
+      "maxGrades": 84.92,
+      "minGrades": 77.88,
+      "sumGrades": 2202.28,
+      "count": 2
+    },
+    {
+      "courses_dept": "russ",
+      "avgGrades": 81.52,
+      "maxGrades": 92.3,
+      "minGrades": 64.13,
+      "sumGrades": 9944.460000000001,
+      "count": 10
+    },
+    {
+      "courses_dept": "ufor",
+      "avgGrades": 81.5,
+      "maxGrades": 84.08,
+      "minGrades": 79.7,
+      "sumGrades": 489.03999999999996,
+      "count": 3
+    },
+    {
+      "courses_dept": "bapa",
+      "avgGrades": 81.41,
+      "maxGrades": 85.4,
+      "minGrades": 79,
+      "sumGrades": 3988.8199999999993,
+      "count": 8
+    },
+    {
+      "courses_dept": "bahr",
+      "avgGrades": 81.35,
+      "maxGrades": 86.7,
+      "minGrades": 74.21,
+      "sumGrades": 14235.270000000002,
+      "count": 14
+    },
+    {
+      "courses_dept": "pols",
+      "avgGrades": 81.32,
+      "maxGrades": 88.3,
+      "minGrades": 77.36,
+      "sumGrades": 1788.5800000000002,
+      "count": 3
+    },
+    {
+      "courses_dept": "dhyg",
+      "avgGrades": 81.28,
+      "maxGrades": 93.72,
+      "minGrades": 58.4,
+      "sumGrades": 28119.909999999996,
+      "count": 30
+    },
+    {
+      "courses_dept": "atsc",
+      "avgGrades": 81.27,
+      "maxGrades": 92,
+      "minGrades": 69.25,
+      "sumGrades": 6257.4000000000015,
+      "count": 14
+    },
+    {
+      "courses_dept": "basc",
+      "avgGrades": 81.25,
+      "maxGrades": 86.04,
+      "minGrades": 74.42,
+      "sumGrades": 7231.030000000002,
+      "count": 8
+    },
+    {
+      "courses_dept": "arch",
+      "avgGrades": 81.24,
+      "maxGrades": 90,
+      "minGrades": 73,
+      "sumGrades": 55646.24999999994,
+      "count": 85
+    },
+    {
+      "courses_dept": "caps",
+      "avgGrades": 81.16,
+      "maxGrades": 89.8,
+      "minGrades": 65.5,
+      "sumGrades": 6979.400000000003,
+      "count": 23
+    },
+    {
+      "courses_dept": "scan",
+      "avgGrades": 81.12,
+      "maxGrades": 86.35,
+      "minGrades": 76.63,
+      "sumGrades": 3082.319999999999,
+      "count": 5
+    },
+    {
+      "courses_dept": "fnel",
+      "avgGrades": 81.05,
+      "maxGrades": 87.5,
+      "minGrades": 73,
+      "sumGrades": 1620.72,
+      "count": 8
+    },
+    {
+      "courses_dept": "punj",
+      "avgGrades": 81,
+      "maxGrades": 89.08,
+      "minGrades": 64.89,
+      "sumGrades": 5507.920000000002,
+      "count": 4
+    },
+    {
+      "courses_dept": "appp",
+      "avgGrades": 80.7,
+      "maxGrades": 85.16,
+      "minGrades": 77.99,
+      "sumGrades": 645.5799999999999,
+      "count": 5
+    },
+    {
+      "courses_dept": "ends",
+      "avgGrades": 80.61,
+      "maxGrades": 87.17,
+      "minGrades": 71.17,
+      "sumGrades": 11769.60000000001,
+      "count": 30
+    },
+    {
+      "courses_dept": "ursy",
+      "avgGrades": 80.35,
+      "maxGrades": 82.83,
+      "minGrades": 77.89,
+      "sumGrades": 321.44,
+      "count": 3
+    },
+    {
+      "courses_dept": "baac",
+      "avgGrades": 80.27,
+      "maxGrades": 86.81,
+      "minGrades": 74.39,
+      "sumGrades": 12439.939999999991,
+      "count": 15
+    },
+    {
+      "courses_dept": "arbc",
+      "avgGrades": 80.09,
+      "maxGrades": 83.13,
+      "minGrades": 75.4,
+      "sumGrades": 1281.2000000000003,
+      "count": 2
+    },
+    {
+      "courses_dept": "musc",
+      "avgGrades": 80,
+      "maxGrades": 96.5,
+      "minGrades": 58.33,
+      "sumGrades": 68160.02,
+      "count": 76
+    },
+    {
+      "courses_dept": "port",
+      "avgGrades": 79.99,
+      "maxGrades": 90,
+      "minGrades": 67.73,
+      "sumGrades": 3999.580000000001,
+      "count": 5
+    },
+    {
+      "courses_dept": "civl",
+      "avgGrades": 79.96,
+      "maxGrades": 96.27,
+      "minGrades": 33,
+      "sumGrades": 99142.75000000009,
+      "count": 115
+    },
+    {
+      "courses_dept": "igen",
+      "avgGrades": 79.87,
+      "maxGrades": 89.06,
+      "minGrades": 68.06,
+      "sumGrades": 4472.06,
+      "count": 13
+    },
+    {
+      "courses_dept": "mine",
+      "avgGrades": 79.77,
+      "maxGrades": 96.59,
+      "minGrades": 65.12,
+      "sumGrades": 42116.05999999999,
+      "count": 39
+    },
+    {
+      "courses_dept": "grsj",
+      "avgGrades": 79.74,
+      "maxGrades": 90,
+      "minGrades": 64.67,
+      "sumGrades": 12836.930000000008,
+      "count": 33
+    },
+    {
+      "courses_dept": "germ",
+      "avgGrades": 79.7,
+      "maxGrades": 92.25,
+      "minGrades": 59.61,
+      "sumGrades": 66305.94000000003,
+      "count": 57
+    },
+    {
+      "courses_dept": "micb",
+      "avgGrades": 79.53,
+      "maxGrades": 94.17,
+      "minGrades": 63.59,
+      "sumGrades": 38015.14,
+      "count": 53
+    },
+    {
+      "courses_dept": "cens",
+      "avgGrades": 79.49,
+      "maxGrades": 87.87,
+      "minGrades": 68.23,
+      "sumGrades": 6915.319999999998,
+      "count": 25
+    },
+    {
+      "courses_dept": "kin",
+      "avgGrades": 79.33,
+      "maxGrades": 96.06,
+      "minGrades": 61.45,
+      "sumGrades": 54737.679999999986,
+      "count": 1
+    },
+    {
+      "courses_dept": "cohr",
+      "avgGrades": 79.08,
+      "maxGrades": 90.46,
+      "minGrades": 72.14,
+      "sumGrades": 13916.620000000003,
+      "count": 23
+    },
+    {
+      "courses_dept": "chbe",
+      "avgGrades": 79.06,
+      "maxGrades": 95.54,
+      "minGrades": 42,
+      "sumGrades": 63319.159999999894,
+      "count": 64
+    },
+    {
+      "courses_dept": "mech",
+      "avgGrades": 79.01,
+      "maxGrades": 93.5,
+      "minGrades": 53.86,
+      "sumGrades": 101520.38000000015,
+      "count": 127
+    },
+    {
+      "courses_dept": "enph",
+      "avgGrades": 78.99,
+      "maxGrades": 85.69,
+      "minGrades": 58,
+      "sumGrades": 4423.710000000001,
+      "count": 12
+    },
+    {
+      "courses_dept": "grek",
+      "avgGrades": 78.97,
+      "maxGrades": 84.43,
+      "minGrades": 70.4,
+      "sumGrades": 2211.12,
+      "count": 6
+    },
+    {
+      "courses_dept": "ling",
+      "avgGrades": 78.84,
+      "maxGrades": 92.25,
+      "minGrades": 59.06,
+      "sumGrades": 39021.249999999985,
+      "count": 42
+    },
+    {
+      "courses_dept": "cnrs",
+      "avgGrades": 78.68,
+      "maxGrades": 89.13,
+      "minGrades": 71.3,
+      "sumGrades": 2439.18,
+      "count": 7
+    },
+    {
+      "courses_dept": "lfs",
+      "avgGrades": 78.42,
+      "maxGrades": 90.83,
+      "minGrades": 0,
+      "sumGrades": 11369.649999999992,
+      "count": 1
+    },
+    {
+      "courses_dept": "lled",
+      "avgGrades": 78.39,
+      "maxGrades": 93.2,
+      "minGrades": 47.29,
+      "sumGrades": 47579.689999999966,
+      "count": 72
+    },
+    {
+      "courses_dept": "fnh",
+      "avgGrades": 78.28,
+      "maxGrades": 93.05,
+      "minGrades": 65.44,
+      "sumGrades": 60040.04999999995,
+      "count": 1
+    },
+    {
+      "courses_dept": "phys",
+      "avgGrades": 78.21,
+      "maxGrades": 95.43,
+      "minGrades": 55.25,
+      "sumGrades": 85323.53,
+      "count": 143
+    },
+    {
+      "courses_dept": "frst",
+      "avgGrades": 78.13,
+      "maxGrades": 96.36,
+      "minGrades": 0,
+      "sumGrades": 71091.20000000006,
+      "count": 84
+    },
+    {
+      "courses_dept": "urst",
+      "avgGrades": 78.09,
+      "maxGrades": 82.16,
+      "minGrades": 69.34,
+      "sumGrades": 2498.66,
+      "count": 5
+    },
+    {
+      "courses_dept": "cons",
+      "avgGrades": 77.98,
+      "maxGrades": 90.39,
+      "minGrades": 67.64,
+      "sumGrades": 16921.350000000002,
+      "count": 23
+    },
+    {
+      "courses_dept": "cpen",
+      "avgGrades": 77.94,
+      "maxGrades": 86.9,
+      "minGrades": 69.41,
+      "sumGrades": 3429.400000000002,
+      "count": 18
+    },
+    {
+      "courses_dept": "bioc",
+      "avgGrades": 77.9,
+      "maxGrades": 90.57,
+      "minGrades": 64.67,
+      "sumGrades": 23057.479999999996,
+      "count": 50
+    },
+    {
+      "courses_dept": "arth",
+      "avgGrades": 77.87,
+      "maxGrades": 93,
+      "minGrades": 66.38,
+      "sumGrades": 32937.44999999993,
+      "count": 47
+    },
+    {
+      "courses_dept": "hebr",
+      "avgGrades": 77.76,
+      "maxGrades": 83.57,
+      "minGrades": 65.58,
+      "sumGrades": 1399.3799999999999,
+      "count": 4
+    },
+    {
+      "courses_dept": "eosc",
+      "avgGrades": 77.75,
+      "maxGrades": 93.47,
+      "minGrades": 57,
+      "sumGrades": 128116.51000000027,
+      "count": 219
+    },
+    {
+      "courses_dept": "fhis",
+      "avgGrades": 77.75,
+      "maxGrades": 79.89,
+      "minGrades": 75.63,
+      "sumGrades": 311.03999999999996,
+      "count": 2
+    },
+    {
+      "courses_dept": "fnis",
+      "avgGrades": 77.73,
+      "maxGrades": 84.78,
+      "minGrades": 72.18,
+      "sumGrades": 1398.9799999999998,
+      "count": 8
+    },
+    {
+      "courses_dept": "rgla",
+      "avgGrades": 77.64,
+      "maxGrades": 80.58,
+      "minGrades": 67.43,
+      "sumGrades": 1242.2800000000004,
+      "count": 3
+    },
+    {
+      "courses_dept": "apbi",
+      "avgGrades": 77.62,
+      "maxGrades": 91.86,
+      "minGrades": 52.08,
+      "sumGrades": 38265.999999999985,
+      "count": 55
+    },
+    {
+      "courses_dept": "cpsc",
+      "avgGrades": 77.58,
+      "maxGrades": 95,
+      "minGrades": 64,
+      "sumGrades": 86189.91000000013,
+      "count": 89
+    },
+    {
+      "courses_dept": "anth",
+      "avgGrades": 77.56,
+      "maxGrades": 92.29,
+      "minGrades": 60.05,
+      "sumGrades": 21637.010000000002,
+      "count": 41
+    },
+    {
+      "courses_dept": "coec",
+      "avgGrades": 77.54,
+      "maxGrades": 82.77,
+      "minGrades": 73.34,
+      "sumGrades": 1318.1299999999999,
+      "count": 6
+    },
+    {
+      "courses_dept": "fre",
+      "avgGrades": 77.27,
+      "maxGrades": 88.47,
+      "minGrades": 57.2,
+      "sumGrades": 20166.079999999998,
+      "count": 1
+    },
+    {
+      "courses_dept": "cogs",
+      "avgGrades": 77.07,
+      "maxGrades": 89.33,
+      "minGrades": 66.37,
+      "sumGrades": 10557.709999999995,
+      "count": 35
+    },
+    {
+      "courses_dept": "bala",
+      "avgGrades": 77.05,
+      "maxGrades": 83.2,
+      "minGrades": 71.92,
+      "sumGrades": 1309.8000000000002,
+      "count": 3
+    },
+    {
+      "courses_dept": "asic",
+      "avgGrades": 76.94,
+      "maxGrades": 80.79,
+      "minGrades": 71.27,
+      "sumGrades": 1307.8600000000001,
+      "count": 3
+    },
+    {
+      "courses_dept": "visa",
+      "avgGrades": 76.93,
+      "maxGrades": 89,
+      "minGrades": 65.5,
+      "sumGrades": 46152.03000000004,
+      "count": 35
+    },
+    {
+      "courses_dept": "relg",
+      "avgGrades": 76.71,
+      "maxGrades": 84.6,
+      "minGrades": 65.38,
+      "sumGrades": 8283.520000000006,
+      "count": 18
+    },
+    {
+      "courses_dept": "apsc",
+      "avgGrades": 76.63,
+      "maxGrades": 96,
+      "minGrades": 57.68,
+      "sumGrades": 50187.53999999995,
+      "count": 85
+    },
+    {
+      "courses_dept": "soci",
+      "avgGrades": 76.47,
+      "maxGrades": 88.71,
+      "minGrades": 65.07,
+      "sumGrades": 24619.490000000016,
+      "count": 45
+    },
+    {
+      "courses_dept": "chin",
+      "avgGrades": 76.46,
+      "maxGrades": 86.13,
+      "minGrades": 65,
+      "sumGrades": 74466.92999999993,
+      "count": 26
+    },
+    {
+      "courses_dept": "econ",
+      "avgGrades": 76.4,
+      "maxGrades": 95,
+      "minGrades": 60.89,
+      "sumGrades": 171190.52000000002,
+      "count": 125
+    },
+    {
+      "courses_dept": "astr",
+      "avgGrades": 76.37,
+      "maxGrades": 91.4,
+      "minGrades": 62.5,
+      "sumGrades": 14432.229999999985,
+      "count": 25
+    },
+    {
+      "courses_dept": "comm",
+      "avgGrades": 76.36,
+      "maxGrades": 94.75,
+      "minGrades": 46.71,
+      "sumGrades": 272595.3500000002,
+      "count": 339
+    },
+    {
+      "courses_dept": "korn",
+      "avgGrades": 76.35,
+      "maxGrades": 84,
+      "minGrades": 65.75,
+      "sumGrades": 6412.400000000002,
+      "count": 8
+    },
+    {
+      "courses_dept": "itst",
+      "avgGrades": 76.26,
+      "maxGrades": 93,
+      "minGrades": 68.4,
+      "sumGrades": 7473.060000000001,
+      "count": 7
+    },
+    {
+      "courses_dept": "law",
+      "avgGrades": 76.22,
+      "maxGrades": 86.6,
+      "minGrades": 65.64,
+      "sumGrades": 84747.64999999995,
+      "count": 1
+    },
+    {
+      "courses_dept": "biol",
+      "avgGrades": 76,
+      "maxGrades": 94.33,
+      "minGrades": 55.96,
+      "sumGrades": 155104.34000000058,
+      "count": 289
+    },
+    {
+      "courses_dept": "mtrl",
+      "avgGrades": 75.94,
+      "maxGrades": 96.25,
+      "minGrades": 57.4,
+      "sumGrades": 53305.35999999992,
+      "count": 78
+    },
+    {
+      "courses_dept": "fist",
+      "avgGrades": 75.93,
+      "maxGrades": 85.38,
+      "minGrades": 67.11,
+      "sumGrades": 15641.219999999996,
+      "count": 17
+    },
+    {
+      "courses_dept": "clch",
+      "avgGrades": 75.84,
+      "maxGrades": 79.5,
+      "minGrades": 69.76,
+      "sumGrades": 1061.7600000000002,
+      "count": 4
+    },
+    {
+      "courses_dept": "elec",
+      "avgGrades": 75.8,
+      "maxGrades": 93.93,
+      "minGrades": 52.67,
+      "sumGrades": 9928.75,
+      "count": 47
+    },
+    {
+      "courses_dept": "stat",
+      "avgGrades": 75.75,
+      "maxGrades": 94.7,
+      "minGrades": 60.6,
+      "sumGrades": 29238.450000000033,
+      "count": 37
+    },
+    {
+      "courses_dept": "last",
+      "avgGrades": 75.47,
+      "maxGrades": 84.58,
+      "minGrades": 65.9,
+      "sumGrades": 2415.2000000000003,
+      "count": 9
+    },
+    {
+      "courses_dept": "wood",
+      "avgGrades": 75.36,
+      "maxGrades": 89,
+      "minGrades": 1,
+      "sumGrades": 26070.95000000001,
+      "count": 30
+    },
+    {
+      "courses_dept": "fopr",
+      "avgGrades": 75.2,
+      "maxGrades": 91,
+      "minGrades": 4.5,
+      "sumGrades": 7819.840000000004,
+      "count": 6
+    },
+    {
+      "courses_dept": "scie",
+      "avgGrades": 75.19,
+      "maxGrades": 86.81,
+      "minGrades": 65.81,
+      "sumGrades": 10526.779999999999,
+      "count": 92
+    },
+    {
+      "courses_dept": "mdvl",
+      "avgGrades": 74.89,
+      "maxGrades": 77.39,
+      "minGrades": 69.28,
+      "sumGrades": 1497.84,
+      "count": 6
+    },
+    {
+      "courses_dept": "latn",
+      "avgGrades": 74.88,
+      "maxGrades": 84.29,
+      "minGrades": 60.67,
+      "sumGrades": 3519.18,
+      "count": 9
+    },
+    {
+      "courses_dept": "ital",
+      "avgGrades": 74.71,
+      "maxGrades": 91.5,
+      "minGrades": 61,
+      "sumGrades": 24280.360000000008,
+      "count": 20
+    },
+    {
+      "courses_dept": "geog",
+      "avgGrades": 74.54,
+      "maxGrades": 90,
+      "minGrades": 62.22,
+      "sumGrades": 68500.30999999998,
+      "count": 104
+    },
+    {
+      "courses_dept": "asia",
+      "avgGrades": 74.54,
+      "maxGrades": 86.24,
+      "minGrades": 57.33,
+      "sumGrades": 46882.21999999998,
+      "count": 59
+    },
+    {
+      "courses_dept": "span",
+      "avgGrades": 74.35,
+      "maxGrades": 93.25,
+      "minGrades": 61.03,
+      "sumGrades": 48767.88999999994,
+      "count": 70
+    },
+    {
+      "courses_dept": "clst",
+      "avgGrades": 74.32,
+      "maxGrades": 88.4,
+      "minGrades": 62.74,
+      "sumGrades": 25488.97,
+      "count": 38
+    },
+    {
+      "courses_dept": "poli",
+      "avgGrades": 74.32,
+      "maxGrades": 86,
+      "minGrades": 54.01,
+      "sumGrades": 38492.42,
+      "count": 64
+    },
+    {
+      "courses_dept": "chem",
+      "avgGrades": 74.29,
+      "maxGrades": 92.57,
+      "minGrades": 42.5,
+      "sumGrades": 93157.07000000012,
+      "count": 171
+    },
+    {
+      "courses_dept": "nest",
+      "avgGrades": 74.19,
+      "maxGrades": 87.5,
+      "minGrades": 65.67,
+      "sumGrades": 6082.829999999999,
+      "count": 9
+    },
+    {
+      "courses_dept": "hist",
+      "avgGrades": 74.06,
+      "maxGrades": 93,
+      "minGrades": 34,
+      "sumGrades": 74799.57000000012,
+      "count": 104
+    },
+    {
+      "courses_dept": "engl",
+      "avgGrades": 73.97,
+      "maxGrades": 89.68,
+      "minGrades": 53.5,
+      "sumGrades": 156952.78999999998,
+      "count": 151
+    },
+    {
+      "courses_dept": "fren",
+      "avgGrades": 73.66,
+      "maxGrades": 88.5,
+      "minGrades": 61.36,
+      "sumGrades": 75280.01999999999,
+      "count": 133
+    },
+    {
+      "courses_dept": "geob",
+      "avgGrades": 73.56,
+      "maxGrades": 88.17,
+      "minGrades": 62.81,
+      "sumGrades": 24861.82999999999,
+      "count": 66
+    },
+    {
+      "courses_dept": "laso",
+      "avgGrades": 73.51,
+      "maxGrades": 78.72,
+      "minGrades": 68.53,
+      "sumGrades": 1029.3400000000001,
+      "count": 6
+    },
+    {
+      "courses_dept": "arcl",
+      "avgGrades": 73.32,
+      "maxGrades": 80.82,
+      "minGrades": 64.5,
+      "sumGrades": 3445.92,
+      "count": 7
+    },
+    {
+      "courses_dept": "japn",
+      "avgGrades": 73.19,
+      "maxGrades": 86.95,
+      "minGrades": 54.81,
+      "sumGrades": 70695.54000000001,
+      "count": 30
+    },
+    {
+      "courses_dept": "fmst",
+      "avgGrades": 72.76,
+      "maxGrades": 86,
+      "minGrades": 61.97,
+      "sumGrades": 20952.620000000017,
+      "count": 16
+    },
+    {
+      "courses_dept": "psyc",
+      "avgGrades": 72.59,
+      "maxGrades": 97,
+      "minGrades": 43.33,
+      "sumGrades": 101621.55000000003,
+      "count": 147
+    },
+    {
+      "courses_dept": "phil",
+      "avgGrades": 72.58,
+      "maxGrades": 96,
+      "minGrades": 33.2,
+      "sumGrades": 24314.36,
+      "count": 58
+    },
+    {
+      "courses_dept": "astu",
+      "avgGrades": 72.27,
+      "maxGrades": 83.14,
+      "minGrades": 63.14,
+      "sumGrades": 3758.0200000000004,
+      "count": 8
+    },
+    {
+      "courses_dept": "math",
+      "avgGrades": 72.03,
+      "maxGrades": 99.78,
+      "minGrades": 46.52,
+      "sumGrades": 199657.15000000005,
+      "count": 390
+    },
+    {
+      "courses_dept": "busi",
+      "avgGrades": 70.64,
+      "maxGrades": 88.88,
+      "minGrades": 4,
+      "sumGrades": 119158.99000000005,
+      "count": 50
+    },
+    {
+      "courses_dept": "wrds",
+      "avgGrades": 70.29,
+      "maxGrades": 79.12,
+      "minGrades": 53.64,
+      "sumGrades": 9909.879999999997,
+      "count": 22
+    },
+    {
+      "courses_dept": "rmst",
+      "avgGrades": 69.92,
+      "maxGrades": 79,
+      "minGrades": 61.21,
+      "sumGrades": 1398.52,
+      "count": 3
+    },
+    {
+      "courses_dept": "vant",
+      "avgGrades": 68.31,
+      "maxGrades": 76.03,
+      "minGrades": 56.77,
+      "sumGrades": 1366.2099999999998,
+      "count": 14
+    },
+    {
+      "courses_dept": "test",
+      "avgGrades": 60,
+      "maxGrades": 60,
+      "minGrades": 60,
+      "sumGrades": 60,
+      "count": 1
+    }
+  ]
+}

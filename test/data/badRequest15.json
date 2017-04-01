@@ -1,0 +1,27 @@
+{
+  "WHERE": {
+    "IS": {
+      "rooms_name": "DMP_*"
+    }
+  },
+  "OPTIONS": {
+    "COLUMNS": [
+      "rooms_name",
+      "rooms_seats"
+    ],
+    "ORDER": "rooms_name",
+    "FORM": "TABLE"
+  },
+  "TRANSFORMATIONS": {
+    "GROUP": [
+      "rooms_name"
+    ],
+    "APPLY": [
+      {
+        "avgSeats": {
+          "AVG": "rooms_seats"
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "WHERE": {
+    "IS": {
+      "courses_instructor" : "campbell, deborah"
+    }
+  },
+  "OPTIONS": {
+    "COLUMNS": [
+      "courses_dept",
+      "courses_id",
+      "courses_uuid",
+      "courses_instructor",
+      "courses_avg"
+    ],
+    "ORDER": "courses_avg",
+    "FORM": "TABLE"
+  }
+}

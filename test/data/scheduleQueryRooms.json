@@ -1,0 +1,42 @@
+{
+   "WHERE": {
+      "AND" : [
+         {
+            "LT" : {
+               "rooms_lat" : 49.261901
+            }
+         },
+         {
+            "GT" : {
+               "rooms_lon" : -123.250112
+            }
+         },
+         {
+            "GT" : {
+               "rooms_lat" : 49.258853
+            }
+         },
+         {
+            "LT" : {
+               "rooms_lon" : -123.245721
+            }
+         }
+      ]
+   },
+   "OPTIONS": {
+      "COLUMNS": [
+         "rooms_shortname",
+         "rooms_number",
+         "rooms_seats"
+      ],
+      "ORDER": {
+         "dir": "DOWN",
+         "keys": [
+            "rooms_seats",
+            "rooms_shortname",
+            "rooms_number"
+         ]
+      },
+      "FORM": "TABLE"
+   }
+}

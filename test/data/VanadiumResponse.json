@@ -1,0 +1,950 @@
+{
+   "render": "TABLE",
+   "result": [
+      {
+         "courses_dept": "math",
+         "count": 390,
+         "min": 46.52
+      },
+      {
+         "courses_dept": "comm",
+         "count": 339,
+         "min": 46.71
+      },
+      {
+         "courses_dept": "biol",
+         "count": 289,
+         "min": 55.96
+      },
+      {
+         "courses_dept": "eosc",
+         "count": 219,
+         "min": 57
+      },
+      {
+         "courses_dept": "chem",
+         "count": 171,
+         "min": 42.5
+      },
+      {
+         "courses_dept": "engl",
+         "count": 151,
+         "min": 53.5
+      },
+      {
+         "courses_dept": "psyc",
+         "count": 147,
+         "min": 43.33
+      },
+      {
+         "courses_dept": "phys",
+         "count": 143,
+         "min": 55.25
+      },
+      {
+         "courses_dept": "fren",
+         "count": 133,
+         "min": 61.36
+      },
+      {
+         "courses_dept": "mech",
+         "count": 127,
+         "min": 53.86
+      },
+      {
+         "courses_dept": "nurs",
+         "count": 125,
+         "min": 70
+      },
+      {
+         "courses_dept": "econ",
+         "count": 125,
+         "min": 60.89
+      },
+      {
+         "courses_dept": "epse",
+         "count": 124,
+         "min": 65.55
+      },
+      {
+         "courses_dept": "civl",
+         "count": 115,
+         "min": 33
+      },
+      {
+         "courses_dept": "hist",
+         "count": 104,
+         "min": 34
+      },
+      {
+         "courses_dept": "geog",
+         "count": 104,
+         "min": 62.22
+      },
+      {
+         "courses_dept": "cnps",
+         "count": 100,
+         "min": 70.66
+      },
+      {
+         "courses_dept": "scie",
+         "count": 92,
+         "min": 65.81
+      },
+      {
+         "courses_dept": "spph",
+         "count": 90,
+         "min": 66.8
+      },
+      {
+         "courses_dept": "phar",
+         "count": 90,
+         "min": 51.25
+      },
+      {
+         "courses_dept": "cpsc",
+         "count": 89,
+         "min": 64
+      },
+      {
+         "courses_dept": "arch",
+         "count": 85,
+         "min": 73
+      },
+      {
+         "courses_dept": "apsc",
+         "count": 85,
+         "min": 57.68
+      },
+      {
+         "courses_dept": "path",
+         "count": 84,
+         "min": 73.47
+      },
+      {
+         "courses_dept": "frst",
+         "count": 84,
+         "min": 0
+      },
+      {
+         "courses_dept": "mtrl",
+         "count": 78,
+         "min": 57.4
+      },
+      {
+         "courses_dept": "sowk",
+         "count": 77,
+         "min": 72.95
+      },
+      {
+         "courses_dept": "musc",
+         "count": 76,
+         "min": 58.33
+      },
+      {
+         "courses_dept": "lled",
+         "count": 72,
+         "min": 47.29
+      },
+      {
+         "courses_dept": "span",
+         "count": 70,
+         "min": 61.03
+      },
+      {
+         "courses_dept": "thtr",
+         "count": 66,
+         "min": 63.78
+      },
+      {
+         "courses_dept": "geob",
+         "count": 66,
+         "min": 62.81
+      },
+      {
+         "courses_dept": "poli",
+         "count": 64,
+         "min": 54.01
+      },
+      {
+         "courses_dept": "chbe",
+         "count": 64,
+         "min": 42
+      },
+      {
+         "courses_dept": "educ",
+         "count": 61,
+         "min": 39.03
+      },
+      {
+         "courses_dept": "asia",
+         "count": 59,
+         "min": 57.33
+      },
+      {
+         "courses_dept": "phil",
+         "count": 58,
+         "min": 33.2
+      },
+      {
+         "courses_dept": "germ",
+         "count": 57,
+         "min": 59.61
+      },
+      {
+         "courses_dept": "apbi",
+         "count": 55,
+         "min": 52.08
+      },
+      {
+         "courses_dept": "micb",
+         "count": 53,
+         "min": 63.59
+      },
+      {
+         "courses_dept": "audi",
+         "count": 52,
+         "min": 62.63
+      },
+      {
+         "courses_dept": "edst",
+         "count": 51,
+         "min": 78.18
+      },
+      {
+         "courses_dept": "busi",
+         "count": 50,
+         "min": 4
+      },
+      {
+         "courses_dept": "bioc",
+         "count": 50,
+         "min": 64.67
+      },
+      {
+         "courses_dept": "edcp",
+         "count": 48,
+         "min": 76.18
+      },
+      {
+         "courses_dept": "larc",
+         "count": 47,
+         "min": 73.56
+      },
+      {
+         "courses_dept": "elec",
+         "count": 47,
+         "min": 52.67
+      },
+      {
+         "courses_dept": "eece",
+         "count": 47,
+         "min": 72.76
+      },
+      {
+         "courses_dept": "arth",
+         "count": 47,
+         "min": 66.38
+      },
+      {
+         "courses_dept": "soci",
+         "count": 45,
+         "min": 65.07
+      },
+      {
+         "courses_dept": "libr",
+         "count": 45,
+         "min": 74.07
+      },
+      {
+         "courses_dept": "ling",
+         "count": 42,
+         "min": 59.06
+      },
+      {
+         "courses_dept": "anth",
+         "count": 41,
+         "min": 60.05
+      },
+      {
+         "courses_dept": "mine",
+         "count": 39,
+         "min": 65.12
+      },
+      {
+         "courses_dept": "etec",
+         "count": 39,
+         "min": 78.55
+      },
+      {
+         "courses_dept": "spha",
+         "count": 38,
+         "min": 74.57
+      },
+      {
+         "courses_dept": "clst",
+         "count": 38,
+         "min": 62.74
+      },
+      {
+         "courses_dept": "stat",
+         "count": 37,
+         "min": 60.6
+      },
+      {
+         "courses_dept": "medg",
+         "count": 37,
+         "min": 54.43
+      },
+      {
+         "courses_dept": "visa",
+         "count": 35,
+         "min": 65.5
+      },
+      {
+         "courses_dept": "cogs",
+         "count": 35,
+         "min": 66.37
+      },
+      {
+         "courses_dept": "grsj",
+         "count": 33,
+         "min": 64.67
+      },
+      {
+         "courses_dept": "crwr",
+         "count": 32,
+         "min": 72.31
+      },
+      {
+         "courses_dept": "arst",
+         "count": 32,
+         "min": 73.56
+      },
+      {
+         "courses_dept": "wood",
+         "count": 30,
+         "min": 1
+      },
+      {
+         "courses_dept": "japn",
+         "count": 30,
+         "min": 54.81
+      },
+      {
+         "courses_dept": "fipr",
+         "count": 30,
+         "min": 70.3
+      },
+      {
+         "courses_dept": "ends",
+         "count": 30,
+         "min": 71.17
+      },
+      {
+         "courses_dept": "dhyg",
+         "count": 30,
+         "min": 58.4
+      },
+      {
+         "courses_dept": "dent",
+         "count": 30,
+         "min": 72.75
+      },
+      {
+         "courses_dept": "rmes",
+         "count": 27,
+         "min": 74.33
+      },
+      {
+         "courses_dept": "pcth",
+         "count": 27,
+         "min": 62.33
+      },
+      {
+         "courses_dept": "envr",
+         "count": 27,
+         "min": 72.6
+      },
+      {
+         "courses_dept": "plan",
+         "count": 26,
+         "min": 78.51
+      },
+      {
+         "courses_dept": "midw",
+         "count": 26,
+         "min": 79.22
+      },
+      {
+         "courses_dept": "chin",
+         "count": 26,
+         "min": 65
+      },
+      {
+         "courses_dept": "cens",
+         "count": 25,
+         "min": 68.23
+      },
+      {
+         "courses_dept": "bafi",
+         "count": 25,
+         "min": 75.54
+      },
+      {
+         "courses_dept": "astr",
+         "count": 25,
+         "min": 62.5
+      },
+      {
+         "courses_dept": "cons",
+         "count": 23,
+         "min": 67.64
+      },
+      {
+         "courses_dept": "cohr",
+         "count": 23,
+         "min": 72.14
+      },
+      {
+         "courses_dept": "caps",
+         "count": 23,
+         "min": 65.5
+      },
+      {
+         "courses_dept": "wrds",
+         "count": 22,
+         "min": 53.64
+      },
+      {
+         "courses_dept": "rhsc",
+         "count": 22,
+         "min": 68.5
+      },
+      {
+         "courses_dept": "food",
+         "count": 21,
+         "min": 72.07
+      },
+      {
+         "courses_dept": "ital",
+         "count": 20,
+         "min": 61
+      },
+      {
+         "courses_dept": "isci",
+         "count": 20,
+         "min": 75.79
+      },
+      {
+         "courses_dept": "bama",
+         "count": 20,
+         "min": 77.57
+      },
+      {
+         "courses_dept": "eced",
+         "count": 19,
+         "min": 75.25
+      },
+      {
+         "courses_dept": "relg",
+         "count": 18,
+         "min": 65.38
+      },
+      {
+         "courses_dept": "cpen",
+         "count": 18,
+         "min": 69.41
+      },
+      {
+         "courses_dept": "bams",
+         "count": 18,
+         "min": 77.2
+      },
+      {
+         "courses_dept": "baen",
+         "count": 18,
+         "min": 78.97
+      },
+      {
+         "courses_dept": "libe",
+         "count": 17,
+         "min": 78.72
+      },
+      {
+         "courses_dept": "fist",
+         "count": 17,
+         "min": 67.11
+      },
+      {
+         "courses_dept": "bmeg",
+         "count": 17,
+         "min": 75.76
+      },
+      {
+         "courses_dept": "fmst",
+         "count": 16,
+         "min": 61.97
+      },
+      {
+         "courses_dept": "basm",
+         "count": 15,
+         "min": 77.68
+      },
+      {
+         "courses_dept": "bait",
+         "count": 15,
+         "min": 79.75
+      },
+      {
+         "courses_dept": "baac",
+         "count": 15,
+         "min": 74.39
+      },
+      {
+         "courses_dept": "adhe",
+         "count": 15,
+         "min": 67.5
+      },
+      {
+         "courses_dept": "vant",
+         "count": 14,
+         "min": 56.77
+      },
+      {
+         "courses_dept": "phth",
+         "count": 14,
+         "min": 81.32
+      },
+      {
+         "courses_dept": "bahr",
+         "count": 14,
+         "min": 74.21
+      },
+      {
+         "courses_dept": "atsc",
+         "count": 14,
+         "min": 69.25
+      },
+      {
+         "courses_dept": "igen",
+         "count": 13,
+         "min": 68.06
+      },
+      {
+         "courses_dept": "enph",
+         "count": 12,
+         "min": 58
+      },
+      {
+         "courses_dept": "cell",
+         "count": 12,
+         "min": 84.29
+      },
+      {
+         "courses_dept": "ccst",
+         "count": 12,
+         "min": 77.5
+      },
+      {
+         "courses_dept": "babs",
+         "count": 12,
+         "min": 75.63
+      },
+      {
+         "courses_dept": "soil",
+         "count": 11,
+         "min": 73.38
+      },
+      {
+         "courses_dept": "name",
+         "count": 11,
+         "min": 77.62
+      },
+      {
+         "courses_dept": "russ",
+         "count": 10,
+         "min": 64.13
+      },
+      {
+         "courses_dept": "obst",
+         "count": 10,
+         "min": 62.5
+      },
+      {
+         "courses_dept": "medi",
+         "count": 10,
+         "min": 78.6
+      },
+      {
+         "courses_dept": "bota",
+         "count": 10,
+         "min": 83.43
+      },
+      {
+         "courses_dept": "rsot",
+         "count": 9,
+         "min": 77.98
+      },
+      {
+         "courses_dept": "nest",
+         "count": 9,
+         "min": 65.67
+      },
+      {
+         "courses_dept": "latn",
+         "count": 9,
+         "min": 60.67
+      },
+      {
+         "courses_dept": "last",
+         "count": 9,
+         "min": 65.9
+      },
+      {
+         "courses_dept": "fish",
+         "count": 9,
+         "min": 78
+      },
+      {
+         "courses_dept": "korn",
+         "count": 8,
+         "min": 65.75
+      },
+      {
+         "courses_dept": "fnis",
+         "count": 8,
+         "min": 72.18
+      },
+      {
+         "courses_dept": "fnel",
+         "count": 8,
+         "min": 73
+      },
+      {
+         "courses_dept": "basc",
+         "count": 8,
+         "min": 74.42
+      },
+      {
+         "courses_dept": "bapa",
+         "count": 8,
+         "min": 79
+      },
+      {
+         "courses_dept": "astu",
+         "count": 8,
+         "min": 63.14
+      },
+      {
+         "courses_dept": "jrnl",
+         "count": 7,
+         "min": 74.5
+      },
+      {
+         "courses_dept": "itst",
+         "count": 7,
+         "min": 68.4
+      },
+      {
+         "courses_dept": "gsat",
+         "count": 7,
+         "min": 84.9
+      },
+      {
+         "courses_dept": "cnrs",
+         "count": 7,
+         "min": 71.3
+      },
+      {
+         "courses_dept": "ceen",
+         "count": 7,
+         "min": 74.96
+      },
+      {
+         "courses_dept": "arcl",
+         "count": 7,
+         "min": 64.5
+      },
+      {
+         "courses_dept": "zool",
+         "count": 6,
+         "min": 83.67
+      },
+      {
+         "courses_dept": "udes",
+         "count": 6,
+         "min": 76.43
+      },
+      {
+         "courses_dept": "phrm",
+         "count": 6,
+         "min": 70.11
+      },
+      {
+         "courses_dept": "mdvl",
+         "count": 6,
+         "min": 69.28
+      },
+      {
+         "courses_dept": "laso",
+         "count": 6,
+         "min": 68.53
+      },
+      {
+         "courses_dept": "hunu",
+         "count": 6,
+         "min": 81.6
+      },
+      {
+         "courses_dept": "grek",
+         "count": 6,
+         "min": 70.4
+      },
+      {
+         "courses_dept": "fopr",
+         "count": 6,
+         "min": 4.5
+      },
+      {
+         "courses_dept": "coec",
+         "count": 6,
+         "min": 73.34
+      },
+      {
+         "courses_dept": "cics",
+         "count": 6,
+         "min": 76.39
+      },
+      {
+         "courses_dept": "biof",
+         "count": 6,
+         "min": 87.33
+      },
+      {
+         "courses_dept": "urst",
+         "count": 5,
+         "min": 69.34
+      },
+      {
+         "courses_dept": "surg",
+         "count": 5,
+         "min": 60.25
+      },
+      {
+         "courses_dept": "scan",
+         "count": 5,
+         "min": 76.63
+      },
+      {
+         "courses_dept": "port",
+         "count": 5,
+         "min": 67.73
+      },
+      {
+         "courses_dept": "appp",
+         "count": 5,
+         "min": 77.99
+      },
+      {
+         "courses_dept": "anat",
+         "count": 5,
+         "min": 80.28
+      },
+      {
+         "courses_dept": "sans",
+         "count": 4,
+         "min": 70.69
+      },
+      {
+         "courses_dept": "punj",
+         "count": 4,
+         "min": 64.89
+      },
+      {
+         "courses_dept": "onco",
+         "count": 4,
+         "min": 83.45
+      },
+      {
+         "courses_dept": "hinu",
+         "count": 4,
+         "min": 76.09
+      },
+      {
+         "courses_dept": "hebr",
+         "count": 4,
+         "min": 65.58
+      },
+      {
+         "courses_dept": "clch",
+         "count": 4,
+         "min": 69.76
+      },
+      {
+         "courses_dept": "ursy",
+         "count": 3,
+         "min": 77.89
+      },
+      {
+         "courses_dept": "ufor",
+         "count": 3,
+         "min": 79.7
+      },
+      {
+         "courses_dept": "rmst",
+         "count": 3,
+         "min": 61.21
+      },
+      {
+         "courses_dept": "rgla",
+         "count": 3,
+         "min": 67.43
+      },
+      {
+         "courses_dept": "pols",
+         "count": 3,
+         "min": 77.36
+      },
+      {
+         "courses_dept": "baul",
+         "count": 3,
+         "min": 76.77
+      },
+      {
+         "courses_dept": "bala",
+         "count": 3,
+         "min": 71.92
+      },
+      {
+         "courses_dept": "asic",
+         "count": 3,
+         "min": 71.27
+      },
+      {
+         "courses_dept": "swed",
+         "count": 2,
+         "min": 77.88
+      },
+      {
+         "courses_dept": "pers",
+         "count": 2,
+         "min": 67.78
+      },
+      {
+         "courses_dept": "nrsc",
+         "count": 2,
+         "min": 68
+      },
+      {
+         "courses_dept": "mrne",
+         "count": 2,
+         "min": 78.17
+      },
+      {
+         "courses_dept": "lais",
+         "count": 2,
+         "min": 86.33
+      },
+      {
+         "courses_dept": "iwme",
+         "count": 2,
+         "min": 84
+      },
+      {
+         "courses_dept": "info",
+         "count": 2,
+         "min": 85.4
+      },
+      {
+         "courses_dept": "hgse",
+         "count": 2,
+         "min": 78
+      },
+      {
+         "courses_dept": "gbpr",
+         "count": 2,
+         "min": 84.8
+      },
+      {
+         "courses_dept": "fhis",
+         "count": 2,
+         "min": 75.63
+      },
+      {
+         "courses_dept": "dani",
+         "count": 2,
+         "min": 73.43
+      },
+      {
+         "courses_dept": "cnto",
+         "count": 2,
+         "min": 84.59
+      },
+      {
+         "courses_dept": "arbc",
+         "count": 2,
+         "min": 75.4
+      },
+      {
+         "courses_dept": "test",
+         "count": 1,
+         "min": 60
+      },
+      {
+         "courses_dept": "sts",
+         "count": 1,
+         "min": 85.57
+      },
+      {
+         "courses_dept": "lfs",
+         "count": 1,
+         "min": 0
+      },
+      {
+         "courses_dept": "law",
+         "count": 1,
+         "min": 65.64
+      },
+      {
+         "courses_dept": "kin",
+         "count": 1,
+         "min": 61.45
+      },
+      {
+         "courses_dept": "iar",
+         "count": 1,
+         "min": 80
+      },
+      {
+         "courses_dept": "gpp",
+         "count": 1,
+         "min": 80.16
+      },
+      {
+         "courses_dept": "fre",
+         "count": 1,
+         "min": 57.2
+      },
+      {
+         "courses_dept": "fnh",
+         "count": 1,
+         "min": 65.44
+      },
+      {
+         "courses_dept": "chil",
+         "count": 1,
+         "min": 83
+      },
+      {
+         "courses_dept": "ba",
+         "count": 1,
+         "min": 74.58
+      },
+      {
+         "courses_dept": "aanb",
+         "count": 1,
+         "min": 87.83
+      }
+   ]
+}

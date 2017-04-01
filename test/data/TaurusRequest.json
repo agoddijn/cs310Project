@@ -1,0 +1,29 @@
+{
+   "WHERE": {},
+   "OPTIONS": {
+      "COLUMNS": [
+         "courses_dept",
+         "average"
+      ],
+      "ORDER": {
+         "dir": "DOWN",
+         "keys": [
+            "average",
+            "courses_dept"
+         ]
+      },
+      "FORM": "TABLE"
+   },
+   "TRANSFORMATIONS": {
+      "GROUP": [
+         "courses_dept"
+      ],
+      "APPLY": [
+         {
+            "average": {
+               "AVG": "courses_avg"
+            }
+         }
+      ]
+   }
+}

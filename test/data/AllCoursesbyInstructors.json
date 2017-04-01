@@ -1,0 +1,17 @@
+{
+  "WHERE": {
+    "IS": {
+      "courses_instructor": "harvey, nicholas"
+    }
+  },
+  "OPTIONS": {
+    "COLUMNS": [
+      "courses_dept",
+      "courses_id",
+      "courses_instructor",
+      "courses_avg"
+    ],
+    "ORDER": "courses_instructor",
+    "FORM": "TABLE"
+  }
+}

@@ -1,0 +1,10 @@
+{
+   "render": "TABLE",
+   "result": [
+      {
+         "courses_dept": "lfs",
+         "min": 0,
+         "count": 1
+      }
+   ]
+}

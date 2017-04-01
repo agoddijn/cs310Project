@@ -1,0 +1,761 @@
+{
+   "render": "TABLE",
+   "result": [
+      {
+         "courses_dept": "aanb",
+         "average": 91.1
+      },
+      {
+         "courses_dept": "epse",
+         "average": 89.94
+      },
+      {
+         "courses_dept": "onco",
+         "average": 89.82
+      },
+      {
+         "courses_dept": "biof",
+         "average": 89.77
+      },
+      {
+         "courses_dept": "cell",
+         "average": 89.15
+      },
+      {
+         "courses_dept": "etec",
+         "average": 89.05
+      },
+      {
+         "courses_dept": "zool",
+         "average": 89
+      },
+      {
+         "courses_dept": "chil",
+         "average": 88.93
+      },
+      {
+         "courses_dept": "edcp",
+         "average": 88.39
+      },
+      {
+         "courses_dept": "gsat",
+         "average": 87.83
+      },
+      {
+         "courses_dept": "plan",
+         "average": 87.67
+      },
+      {
+         "courses_dept": "fish",
+         "average": 87.65
+      },
+      {
+         "courses_dept": "edst",
+         "average": 87.62
+      },
+      {
+         "courses_dept": "medi",
+         "average": 87.41
+      },
+      {
+         "courses_dept": "bota",
+         "average": 87.41
+      },
+      {
+         "courses_dept": "sts",
+         "average": 87.25
+      },
+      {
+         "courses_dept": "cnps",
+         "average": 87.04
+      },
+      {
+         "courses_dept": "midw",
+         "average": 86.93
+      },
+      {
+         "courses_dept": "phth",
+         "average": 86.59
+      },
+      {
+         "courses_dept": "cnto",
+         "average": 86.54
+      },
+      {
+         "courses_dept": "lais",
+         "average": 86.5
+      },
+      {
+         "courses_dept": "hunu",
+         "average": 86.47
+      },
+      {
+         "courses_dept": "spph",
+         "average": 86.36
+      },
+      {
+         "courses_dept": "audi",
+         "average": 86.35
+      },
+      {
+         "courses_dept": "hgse",
+         "average": 86.23
+      },
+      {
+         "courses_dept": "rhsc",
+         "average": 85.99
+      },
+      {
+         "courses_dept": "ccst",
+         "average": 85.77
+      },
+      {
+         "courses_dept": "info",
+         "average": 85.4
+      },
+      {
+         "courses_dept": "eece",
+         "average": 85.4
+      },
+      {
+         "courses_dept": "obst",
+         "average": 85.36
+      },
+      {
+         "courses_dept": "rsot",
+         "average": 85.28
+      },
+      {
+         "courses_dept": "libe",
+         "average": 85.08
+      },
+      {
+         "courses_dept": "udes",
+         "average": 84.97
+      },
+      {
+         "courses_dept": "pcth",
+         "average": 84.96
+      },
+      {
+         "courses_dept": "jrnl",
+         "average": 84.93
+      },
+      {
+         "courses_dept": "sans",
+         "average": 84.92
+      },
+      {
+         "courses_dept": "gbpr",
+         "average": 84.9
+      },
+      {
+         "courses_dept": "anat",
+         "average": 84.9
+      },
+      {
+         "courses_dept": "gpp",
+         "average": 84.89
+      },
+      {
+         "courses_dept": "eced",
+         "average": 84.88
+      },
+      {
+         "courses_dept": "bmeg",
+         "average": 84.84
+      },
+      {
+         "courses_dept": "sowk",
+         "average": 84.77
+      },
+      {
+         "courses_dept": "libr",
+         "average": 84.74
+      },
+      {
+         "courses_dept": "name",
+         "average": 84.63
+      },
+      {
+         "courses_dept": "iar",
+         "average": 84.6
+      },
+      {
+         "courses_dept": "nurs",
+         "average": 84.53
+      },
+      {
+         "courses_dept": "arst",
+         "average": 84.49
+      },
+      {
+         "courses_dept": "mrne",
+         "average": 84.41
+      },
+      {
+         "courses_dept": "dent",
+         "average": 84.32
+      },
+      {
+         "courses_dept": "hinu",
+         "average": 84.28
+      },
+      {
+         "courses_dept": "phrm",
+         "average": 84.25
+      },
+      {
+         "courses_dept": "ceen",
+         "average": 84.25
+      },
+      {
+         "courses_dept": "medg",
+         "average": 84.23
+      },
+      {
+         "courses_dept": "nrsc",
+         "average": 84.21
+      },
+      {
+         "courses_dept": "iwme",
+         "average": 84
+      },
+      {
+         "courses_dept": "rmes",
+         "average": 83.86
+      },
+      {
+         "courses_dept": "educ",
+         "average": 83.72
+      },
+      {
+         "courses_dept": "dani",
+         "average": 83.57
+      },
+      {
+         "courses_dept": "path",
+         "average": 83.23
+      },
+      {
+         "courses_dept": "crwr",
+         "average": 83.1
+      },
+      {
+         "courses_dept": "bait",
+         "average": 83.04
+      },
+      {
+         "courses_dept": "adhe",
+         "average": 82.94
+      },
+      {
+         "courses_dept": "thtr",
+         "average": 82.81
+      },
+      {
+         "courses_dept": "bafi",
+         "average": 82.79
+      },
+      {
+         "courses_dept": "bams",
+         "average": 82.78
+      },
+      {
+         "courses_dept": "baul",
+         "average": 82.68
+      },
+      {
+         "courses_dept": "cics",
+         "average": 82.56
+      },
+      {
+         "courses_dept": "basm",
+         "average": 82.55
+      },
+      {
+         "courses_dept": "baen",
+         "average": 82.55
+      },
+      {
+         "courses_dept": "larc",
+         "average": 82.51
+      },
+      {
+         "courses_dept": "spha",
+         "average": 82.5
+      },
+      {
+         "courses_dept": "babs",
+         "average": 82.46
+      },
+      {
+         "courses_dept": "surg",
+         "average": 82.43
+      },
+      {
+         "courses_dept": "soil",
+         "average": 82.38
+      },
+      {
+         "courses_dept": "fipr",
+         "average": 82.15
+      },
+      {
+         "courses_dept": "ba",
+         "average": 82.02
+      },
+      {
+         "courses_dept": "pers",
+         "average": 82.01
+      },
+      {
+         "courses_dept": "bama",
+         "average": 81.92
+      },
+      {
+         "courses_dept": "envr",
+         "average": 81.7
+      },
+      {
+         "courses_dept": "food",
+         "average": 81.68
+      },
+      {
+         "courses_dept": "phar",
+         "average": 81.66
+      },
+      {
+         "courses_dept": "isci",
+         "average": 81.65
+      },
+      {
+         "courses_dept": "swed",
+         "average": 81.58
+      },
+      {
+         "courses_dept": "russ",
+         "average": 81.52
+      },
+      {
+         "courses_dept": "ufor",
+         "average": 81.5
+      },
+      {
+         "courses_dept": "bapa",
+         "average": 81.41
+      },
+      {
+         "courses_dept": "bahr",
+         "average": 81.35
+      },
+      {
+         "courses_dept": "pols",
+         "average": 81.32
+      },
+      {
+         "courses_dept": "dhyg",
+         "average": 81.28
+      },
+      {
+         "courses_dept": "atsc",
+         "average": 81.27
+      },
+      {
+         "courses_dept": "basc",
+         "average": 81.25
+      },
+      {
+         "courses_dept": "arch",
+         "average": 81.24
+      },
+      {
+         "courses_dept": "caps",
+         "average": 81.16
+      },
+      {
+         "courses_dept": "scan",
+         "average": 81.12
+      },
+      {
+         "courses_dept": "fnel",
+         "average": 81.05
+      },
+      {
+         "courses_dept": "punj",
+         "average": 81
+      },
+      {
+         "courses_dept": "appp",
+         "average": 80.7
+      },
+      {
+         "courses_dept": "ends",
+         "average": 80.61
+      },
+      {
+         "courses_dept": "ursy",
+         "average": 80.35
+      },
+      {
+         "courses_dept": "baac",
+         "average": 80.27
+      },
+      {
+         "courses_dept": "arbc",
+         "average": 80.09
+      },
+      {
+         "courses_dept": "musc",
+         "average": 80
+      },
+      {
+         "courses_dept": "port",
+         "average": 79.99
+      },
+      {
+         "courses_dept": "civl",
+         "average": 79.96
+      },
+      {
+         "courses_dept": "igen",
+         "average": 79.87
+      },
+      {
+         "courses_dept": "mine",
+         "average": 79.77
+      },
+      {
+         "courses_dept": "grsj",
+         "average": 79.74
+      },
+      {
+         "courses_dept": "germ",
+         "average": 79.7
+      },
+      {
+         "courses_dept": "micb",
+         "average": 79.53
+      },
+      {
+         "courses_dept": "cens",
+         "average": 79.49
+      },
+      {
+         "courses_dept": "kin",
+         "average": 79.33
+      },
+      {
+         "courses_dept": "cohr",
+         "average": 79.08
+      },
+      {
+         "courses_dept": "chbe",
+         "average": 79.06
+      },
+      {
+         "courses_dept": "mech",
+         "average": 79.01
+      },
+      {
+         "courses_dept": "enph",
+         "average": 78.99
+      },
+      {
+         "courses_dept": "grek",
+         "average": 78.97
+      },
+      {
+         "courses_dept": "ling",
+         "average": 78.84
+      },
+      {
+         "courses_dept": "cnrs",
+         "average": 78.68
+      },
+      {
+         "courses_dept": "lfs",
+         "average": 78.42
+      },
+      {
+         "courses_dept": "lled",
+         "average": 78.39
+      },
+      {
+         "courses_dept": "fnh",
+         "average": 78.28
+      },
+      {
+         "courses_dept": "phys",
+         "average": 78.21
+      },
+      {
+         "courses_dept": "frst",
+         "average": 78.13
+      },
+      {
+         "courses_dept": "urst",
+         "average": 78.09
+      },
+      {
+         "courses_dept": "cons",
+         "average": 77.98
+      },
+      {
+         "courses_dept": "cpen",
+         "average": 77.94
+      },
+      {
+         "courses_dept": "bioc",
+         "average": 77.9
+      },
+      {
+         "courses_dept": "arth",
+         "average": 77.87
+      },
+      {
+         "courses_dept": "hebr",
+         "average": 77.76
+      },
+      {
+         "courses_dept": "fhis",
+         "average": 77.75
+      },
+      {
+         "courses_dept": "eosc",
+         "average": 77.75
+      },
+      {
+         "courses_dept": "fnis",
+         "average": 77.73
+      },
+      {
+         "courses_dept": "rgla",
+         "average": 77.64
+      },
+      {
+         "courses_dept": "apbi",
+         "average": 77.62
+      },
+      {
+         "courses_dept": "cpsc",
+         "average": 77.58
+      },
+      {
+         "courses_dept": "anth",
+         "average": 77.56
+      },
+      {
+         "courses_dept": "coec",
+         "average": 77.54
+      },
+      {
+         "courses_dept": "fre",
+         "average": 77.27
+      },
+      {
+         "courses_dept": "cogs",
+         "average": 77.07
+      },
+      {
+         "courses_dept": "bala",
+         "average": 77.05
+      },
+      {
+         "courses_dept": "asic",
+         "average": 76.94
+      },
+      {
+         "courses_dept": "visa",
+         "average": 76.93
+      },
+      {
+         "courses_dept": "relg",
+         "average": 76.71
+      },
+      {
+         "courses_dept": "apsc",
+         "average": 76.63
+      },
+      {
+         "courses_dept": "soci",
+         "average": 76.47
+      },
+      {
+         "courses_dept": "chin",
+         "average": 76.46
+      },
+      {
+         "courses_dept": "econ",
+         "average": 76.4
+      },
+      {
+         "courses_dept": "astr",
+         "average": 76.37
+      },
+      {
+         "courses_dept": "comm",
+         "average": 76.36
+      },
+      {
+         "courses_dept": "korn",
+         "average": 76.35
+      },
+      {
+         "courses_dept": "itst",
+         "average": 76.26
+      },
+      {
+         "courses_dept": "law",
+         "average": 76.22
+      },
+      {
+         "courses_dept": "biol",
+         "average": 76
+      },
+      {
+         "courses_dept": "mtrl",
+         "average": 75.94
+      },
+      {
+         "courses_dept": "fist",
+         "average": 75.93
+      },
+      {
+         "courses_dept": "clch",
+         "average": 75.84
+      },
+      {
+         "courses_dept": "elec",
+         "average": 75.8
+      },
+      {
+         "courses_dept": "stat",
+         "average": 75.75
+      },
+      {
+         "courses_dept": "last",
+         "average": 75.47
+      },
+      {
+         "courses_dept": "wood",
+         "average": 75.36
+      },
+      {
+         "courses_dept": "fopr",
+         "average": 75.2
+      },
+      {
+         "courses_dept": "scie",
+         "average": 75.19
+      },
+      {
+         "courses_dept": "mdvl",
+         "average": 74.89
+      },
+      {
+         "courses_dept": "latn",
+         "average": 74.88
+      },
+      {
+         "courses_dept": "ital",
+         "average": 74.71
+      },
+      {
+         "courses_dept": "geog",
+         "average": 74.54
+      },
+      {
+         "courses_dept": "asia",
+         "average": 74.54
+      },
+      {
+         "courses_dept": "span",
+         "average": 74.35
+      },
+      {
+         "courses_dept": "poli",
+         "average": 74.32
+      },
+      {
+         "courses_dept": "clst",
+         "average": 74.32
+      },
+      {
+         "courses_dept": "chem",
+         "average": 74.29
+      },
+      {
+         "courses_dept": "nest",
+         "average": 74.19
+      },
+      {
+         "courses_dept": "hist",
+         "average": 74.06
+      },
+      {
+         "courses_dept": "engl",
+         "average": 73.97
+      },
+      {
+         "courses_dept": "fren",
+         "average": 73.66
+      },
+      {
+         "courses_dept": "geob",
+         "average": 73.56
+      },
+      {
+         "courses_dept": "laso",
+         "average": 73.51
+      },
+      {
+         "courses_dept": "arcl",
+         "average": 73.32
+      },
+      {
+         "courses_dept": "japn",
+         "average": 73.19
+      },
+      {
+         "courses_dept": "fmst",
+         "average": 72.76
+      },
+      {
+         "courses_dept": "psyc",
+         "average": 72.59
+      },
+      {
+         "courses_dept": "phil",
+         "average": 72.58
+      },
+      {
+         "courses_dept": "astu",
+         "average": 72.27
+      },
+      {
+         "courses_dept": "math",
+         "average": 72.03
+      },
+      {
+         "courses_dept": "busi",
+         "average": 70.64
+      },
+      {
+         "courses_dept": "wrds",
+         "average": 70.29
+      },
+      {
+         "courses_dept": "rmst",
+         "average": 69.92
+      },
+      {
+         "courses_dept": "vant",
+         "average": 68.31
+      },
+      {
+         "courses_dept": "test",
+         "average": 60
+      }
+   ]
+}

@@ -1,0 +1,26 @@
+{
+  "WHERE": {},
+  "OPTIONS": {
+    "COLUMNS": [
+      "rooms_shortname",
+      "maxSeats"
+    ],
+    "ORDER": {
+      "dir": "UP",
+      "keys": [
+        "rooms_shortname"
+      ]
+    },
+    "FORM": "TABLE"
+  },
+  "TRANSFORMATIONS": {
+    "GROUP": [],
+    "APPLY": [
+      {
+        "maxSeats": {
+          "MAX": "rooms_seats"
+        }
+      }
+    ]
+  }
+}

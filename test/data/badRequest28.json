@@ -1,0 +1,35 @@
+{
+  "WHERE": {},
+  "OPTIONS": {
+    "COLUMNS": [
+      "maxSeats",
+      "avgSeats"
+    ],
+    "ORDER": {
+      "dir": "UP",
+      "keys": [
+        "maxSeats",
+        "avgSeats"
+      ]
+    },
+    "FORM": "TABLE"
+  },
+  "TRANSFORMATIONS": {
+    "GROUP": [
+      "rooms_shortname"
+    ],
+    "APPLY": [
+      {
+        "maxSeats": {
+          "AVG": "rooms_seats",
+          "MAX": "rooms_seats"
+        }
+      },
+      {
+        "avgSeats": {
+          "AVG": "rooms_seats"
+        }
+      }
+    ]
+  }
+}

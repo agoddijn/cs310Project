@@ -1,0 +1,11 @@
+{
+  "render": "TABLE",
+  "result": [
+    {
+      "courses_dept": "epse",
+      "courses_id": "553",
+      "courses_instructor": "robinson, georgina",
+      "courses_avg": 92.43
+    }
+  ]
+}

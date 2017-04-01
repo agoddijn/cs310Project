@@ -1,0 +1,12 @@
+{
+  "WHERE": {
+    "GT": {
+      "courses_avg": 95
+    }
+  },
+  "OPTIONS": {
+    "COLUMNS": [],
+    "ORDER": "courses_avg",
+    "FORM": "TABLE"
+  }
+}

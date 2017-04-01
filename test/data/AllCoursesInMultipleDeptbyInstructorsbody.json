@@ -1,0 +1,41 @@
+{
+  "render": "TABLE",
+  "result": [
+    {
+      "courses_dept": "econ",
+      "courses_id": "101",
+      "courses_instructor": "roberts, cheryl",
+      "courses_avg": 60.89
+    },
+    {
+      "courses_dept": "econ",
+      "courses_id": "102",
+      "courses_instructor": "roberts, cheryl",
+      "courses_avg": 79.72
+    },
+    {
+      "courses_dept": "econ",
+      "courses_id": "102",
+      "courses_instructor": "roberts, cheryl",
+      "courses_avg": 75.13
+    },
+    {
+      "courses_dept": "econ",
+      "courses_id": "326",
+      "courses_instructor": "roberts, cheryl",
+      "courses_avg": 69.12
+    },
+    {
+      "courses_dept": "vant",
+      "courses_id": "148",
+      "courses_instructor": "roberts, cheryl",
+      "courses_avg": 67.52
+    },
+    {
+      "courses_dept": "vant",
+      "courses_id": "148",
+      "courses_instructor": "roberts, cheryl",
+      "courses_avg": 71.23
+    }
+  ]
+}

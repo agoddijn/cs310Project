@@ -1,0 +1,23 @@
+{
+   "render":"TABLE",
+   "result":[
+      {
+         "rooms_name":"HENN_200"
+      },
+      {
+         "rooms_name":"HENN_201"
+      },
+      {
+         "rooms_name":"HENN_202"
+      },
+      {
+         "rooms_name":"HENN_301"
+      },
+      {
+         "rooms_name":"HENN_302"
+      },
+      {
+         "rooms_name":"HENN_304"
+      }
+   ]
+}

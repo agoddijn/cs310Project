@@ -1,0 +1,19 @@
+{
+    "render": "TABLE",
+    "result": [{
+        "rooms_name": "DMP_101",
+        "count": 1
+    }, {
+        "rooms_name": "DMP_110",
+        "count": 1
+    }, {
+        "rooms_name": "DMP_201",
+        "count": 1
+    }, {
+        "rooms_name": "DMP_301",
+        "count": 1
+    }, {
+        "rooms_name": "DMP_310",
+        "count": 1
+    }]
+}

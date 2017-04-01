@@ -1,0 +1,761 @@
+{
+  "render": "TABLE",
+  "result": [
+    {
+      "idCount": 99,
+      "maxavg": 94.75
+    },
+    {
+      "idCount": 94,
+      "maxavg": 99.78
+    },
+    {
+      "idCount": 93,
+      "maxavg": 95
+    },
+    {
+      "idCount": 91,
+      "maxavg": 94.33
+    },
+    {
+      "idCount": 89,
+      "maxavg": 93.47
+    },
+    {
+      "idCount": 85,
+      "maxavg": 93.5
+    },
+    {
+      "idCount": 84,
+      "maxavg": 96.27
+    },
+    {
+      "idCount": 83,
+      "maxavg": 86.6
+    },
+    {
+      "idCount": 72,
+      "maxavg": 96.36
+    },
+    {
+      "idCount": 69,
+      "maxavg": 93
+    },
+    {
+      "idCount": 68,
+      "maxavg": 95.43
+    },
+    {
+      "idCount": 63,
+      "maxavg": 92.57
+    },
+    {
+      "idCount": 58,
+      "maxavg": 98.8
+    },
+    {
+      "idCount": 57,
+      "maxavg": 86.24
+    },
+    {
+      "idCount": 55,
+      "maxavg": 95.54
+    },
+    {
+      "idCount": 54,
+      "maxavg": 93.93
+    },
+    {
+      "idCount": 53,
+      "maxavg": 96.06
+    },
+    {
+      "idCount": 53,
+      "maxavg": 95
+    },
+    {
+      "idCount": 52,
+      "maxavg": 97
+    },
+    {
+      "idCount": 52,
+      "maxavg": 96.5
+    },
+    {
+      "idCount": 51,
+      "maxavg": 98.98
+    },
+    {
+      "idCount": 51,
+      "maxavg": 95.07
+    },
+    {
+      "idCount": 48,
+      "maxavg": 96.25
+    },
+    {
+      "idCount": 47,
+      "maxavg": 90
+    },
+    {
+      "idCount": 46,
+      "maxavg": 98.71
+    },
+    {
+      "idCount": 46,
+      "maxavg": 94.33
+    },
+    {
+      "idCount": 43,
+      "maxavg": 95.2
+    },
+    {
+      "idCount": 43,
+      "maxavg": 86.13
+    },
+    {
+      "idCount": 41,
+      "maxavg": 96.59
+    },
+    {
+      "idCount": 40,
+      "maxavg": 91.86
+    },
+    {
+      "idCount": 40,
+      "maxavg": 88.88
+    },
+    {
+      "idCount": 38,
+      "maxavg": 93.05
+    },
+    {
+      "idCount": 35,
+      "maxavg": 98.75
+    },
+    {
+      "idCount": 34,
+      "maxavg": 96.9
+    },
+    {
+      "idCount": 34,
+      "maxavg": 96.1
+    },
+    {
+      "idCount": 33,
+      "maxavg": 96.15
+    },
+    {
+      "idCount": 32,
+      "maxavg": 93
+    },
+    {
+      "idCount": 32,
+      "maxavg": 89.68
+    },
+    {
+      "idCount": 30,
+      "maxavg": 92.25
+    },
+    {
+      "idCount": 30,
+      "maxavg": 89
+    },
+    {
+      "idCount": 29,
+      "maxavg": 90
+    },
+    {
+      "idCount": 28,
+      "maxavg": 89
+    },
+    {
+      "idCount": 28,
+      "maxavg": 88.5
+    },
+    {
+      "idCount": 27,
+      "maxavg": 94.17
+    },
+    {
+      "idCount": 27,
+      "maxavg": 93.5
+    },
+    {
+      "idCount": 27,
+      "maxavg": 93.2
+    },
+    {
+      "idCount": 26,
+      "maxavg": 95.58
+    },
+    {
+      "idCount": 26,
+      "maxavg": 92.29
+    },
+    {
+      "idCount": 25,
+      "maxavg": 96.46
+    },
+    {
+      "idCount": 25,
+      "maxavg": 88.4
+    },
+    {
+      "idCount": 24,
+      "maxavg": 86.95
+    },
+    {
+      "idCount": 23,
+      "maxavg": 92.25
+    },
+    {
+      "idCount": 23,
+      "maxavg": 90
+    },
+    {
+      "idCount": 23,
+      "maxavg": 88.17
+    },
+    {
+      "idCount": 22,
+      "maxavg": 86
+    },
+    {
+      "idCount": 21,
+      "maxavg": 94.7
+    },
+    {
+      "idCount": 21,
+      "maxavg": 93.25
+    },
+    {
+      "idCount": 20,
+      "maxavg": 89.76
+    },
+    {
+      "idCount": 19,
+      "maxavg": 99.19
+    },
+    {
+      "idCount": 19,
+      "maxavg": 96.94
+    },
+    {
+      "idCount": 19,
+      "maxavg": 92.8
+    },
+    {
+      "idCount": 19,
+      "maxavg": 90.57
+    },
+    {
+      "idCount": 19,
+      "maxavg": 88.71
+    },
+    {
+      "idCount": 18,
+      "maxavg": 96
+    },
+    {
+      "idCount": 18,
+      "maxavg": 93.72
+    },
+    {
+      "idCount": 18,
+      "maxavg": 88.47
+    },
+    {
+      "idCount": 18,
+      "maxavg": 86.9
+    },
+    {
+      "idCount": 17,
+      "maxavg": 96
+    },
+    {
+      "idCount": 16,
+      "maxavg": 96.47
+    },
+    {
+      "idCount": 16,
+      "maxavg": 95.37
+    },
+    {
+      "idCount": 16,
+      "maxavg": 91.4
+    },
+    {
+      "idCount": 15,
+      "maxavg": 91.5
+    },
+    {
+      "idCount": 15,
+      "maxavg": 90.39
+    },
+    {
+      "idCount": 15,
+      "maxavg": 84.6
+    },
+    {
+      "idCount": 14,
+      "maxavg": 96.5
+    },
+    {
+      "idCount": 14,
+      "maxavg": 96.4
+    },
+    {
+      "idCount": 13,
+      "maxavg": 94.7
+    },
+    {
+      "idCount": 13,
+      "maxavg": 89.25
+    },
+    {
+      "idCount": 13,
+      "maxavg": 80.82
+    },
+    {
+      "idCount": 12,
+      "maxavg": 98
+    },
+    {
+      "idCount": 12,
+      "maxavg": 96.47
+    },
+    {
+      "idCount": 12,
+      "maxavg": 96
+    },
+    {
+      "idCount": 12,
+      "maxavg": 94.4
+    },
+    {
+      "idCount": 12,
+      "maxavg": 91.47
+    },
+    {
+      "idCount": 12,
+      "maxavg": 90.46
+    },
+    {
+      "idCount": 12,
+      "maxavg": 89.8
+    },
+    {
+      "idCount": 12,
+      "maxavg": 85.38
+    },
+    {
+      "idCount": 11,
+      "maxavg": 97.5
+    },
+    {
+      "idCount": 11,
+      "maxavg": 91.7
+    },
+    {
+      "idCount": 11,
+      "maxavg": 90.68
+    },
+    {
+      "idCount": 11,
+      "maxavg": 89.43
+    },
+    {
+      "idCount": 10,
+      "maxavg": 95.29
+    },
+    {
+      "idCount": 10,
+      "maxavg": 95
+    },
+    {
+      "idCount": 10,
+      "maxavg": 93.72
+    },
+    {
+      "idCount": 10,
+      "maxavg": 93.04
+    },
+    {
+      "idCount": 10,
+      "maxavg": 87.24
+    },
+    {
+      "idCount": 9,
+      "maxavg": 95.15
+    },
+    {
+      "idCount": 9,
+      "maxavg": 93
+    },
+    {
+      "idCount": 9,
+      "maxavg": 92.3
+    },
+    {
+      "idCount": 9,
+      "maxavg": 91.43
+    },
+    {
+      "idCount": 9,
+      "maxavg": 90.83
+    },
+    {
+      "idCount": 9,
+      "maxavg": 87.7
+    },
+    {
+      "idCount": 9,
+      "maxavg": 87.5
+    },
+    {
+      "idCount": 9,
+      "maxavg": 87.17
+    },
+    {
+      "idCount": 8,
+      "maxavg": 93.5
+    },
+    {
+      "idCount": 8,
+      "maxavg": 92
+    },
+    {
+      "idCount": 8,
+      "maxavg": 90
+    },
+    {
+      "idCount": 8,
+      "maxavg": 89.06
+    },
+    {
+      "idCount": 8,
+      "maxavg": 84.78
+    },
+    {
+      "idCount": 7,
+      "maxavg": 95
+    },
+    {
+      "idCount": 7,
+      "maxavg": 91.57
+    },
+    {
+      "idCount": 7,
+      "maxavg": 91
+    },
+    {
+      "idCount": 7,
+      "maxavg": 89.17
+    },
+    {
+      "idCount": 7,
+      "maxavg": 87.5
+    },
+    {
+      "idCount": 7,
+      "maxavg": 86
+    },
+    {
+      "idCount": 6,
+      "maxavg": 90.44
+    },
+    {
+      "idCount": 6,
+      "maxavg": 89.25
+    },
+    {
+      "idCount": 6,
+      "maxavg": 87.56
+    },
+    {
+      "idCount": 6,
+      "maxavg": 87.13
+    },
+    {
+      "idCount": 6,
+      "maxavg": 86.81
+    },
+    {
+      "idCount": 6,
+      "maxavg": 84.43
+    },
+    {
+      "idCount": 6,
+      "maxavg": 84.29
+    },
+    {
+      "idCount": 5,
+      "maxavg": 96.11
+    },
+    {
+      "idCount": 5,
+      "maxavg": 94.23
+    },
+    {
+      "idCount": 5,
+      "maxavg": 94
+    },
+    {
+      "idCount": 5,
+      "maxavg": 89.33
+    },
+    {
+      "idCount": 5,
+      "maxavg": 89.08
+    },
+    {
+      "idCount": 5,
+      "maxavg": 86.83
+    },
+    {
+      "idCount": 5,
+      "maxavg": 86.7
+    },
+    {
+      "idCount": 5,
+      "maxavg": 85.69
+    },
+    {
+      "idCount": 5,
+      "maxavg": 84
+    },
+    {
+      "idCount": 5,
+      "maxavg": 83.14
+    },
+    {
+      "idCount": 5,
+      "maxavg": 82.77
+    },
+    {
+      "idCount": 4,
+      "maxavg": 94.27
+    },
+    {
+      "idCount": 4,
+      "maxavg": 94.25
+    },
+    {
+      "idCount": 4,
+      "maxavg": 93.67
+    },
+    {
+      "idCount": 4,
+      "maxavg": 92.26
+    },
+    {
+      "idCount": 4,
+      "maxavg": 92
+    },
+    {
+      "idCount": 4,
+      "maxavg": 92
+    },
+    {
+      "idCount": 4,
+      "maxavg": 89.5
+    },
+    {
+      "idCount": 4,
+      "maxavg": 89.4
+    },
+    {
+      "idCount": 4,
+      "maxavg": 89.27
+    },
+    {
+      "idCount": 4,
+      "maxavg": 89.13
+    },
+    {
+      "idCount": 4,
+      "maxavg": 87.87
+    },
+    {
+      "idCount": 4,
+      "maxavg": 86.35
+    },
+    {
+      "idCount": 4,
+      "maxavg": 86.04
+    },
+    {
+      "idCount": 4,
+      "maxavg": 85.16
+    },
+    {
+      "idCount": 4,
+      "maxavg": 84.92
+    },
+    {
+      "idCount": 4,
+      "maxavg": 83.57
+    },
+    {
+      "idCount": 4,
+      "maxavg": 83.13
+    },
+    {
+      "idCount": 3,
+      "maxavg": 93.45
+    },
+    {
+      "idCount": 3,
+      "maxavg": 92.5
+    },
+    {
+      "idCount": 3,
+      "maxavg": 91.38
+    },
+    {
+      "idCount": 3,
+      "maxavg": 90.67
+    },
+    {
+      "idCount": 3,
+      "maxavg": 90.29
+    },
+    {
+      "idCount": 3,
+      "maxavg": 90
+    },
+    {
+      "idCount": 3,
+      "maxavg": 89.93
+    },
+    {
+      "idCount": 3,
+      "maxavg": 84.08
+    },
+    {
+      "idCount": 3,
+      "maxavg": 79.5
+    },
+    {
+      "idCount": 2,
+      "maxavg": 94.44
+    },
+    {
+      "idCount": 2,
+      "maxavg": 92.71
+    },
+    {
+      "idCount": 2,
+      "maxavg": 91.33
+    },
+    {
+      "idCount": 2,
+      "maxavg": 89.68
+    },
+    {
+      "idCount": 2,
+      "maxavg": 89.42
+    },
+    {
+      "idCount": 2,
+      "maxavg": 88.3
+    },
+    {
+      "idCount": 2,
+      "maxavg": 86.81
+    },
+    {
+      "idCount": 2,
+      "maxavg": 85.4
+    },
+    {
+      "idCount": 2,
+      "maxavg": 85
+    },
+    {
+      "idCount": 2,
+      "maxavg": 84.58
+    },
+    {
+      "idCount": 2,
+      "maxavg": 82.83
+    },
+    {
+      "idCount": 2,
+      "maxavg": 82.16
+    },
+    {
+      "idCount": 2,
+      "maxavg": 80.79
+    },
+    {
+      "idCount": 2,
+      "maxavg": 79
+    },
+    {
+      "idCount": 2,
+      "maxavg": 77.39
+    },
+    {
+      "idCount": 2,
+      "maxavg": 76.03
+    },
+    {
+      "idCount": 1,
+      "maxavg": 93.22
+    },
+    {
+      "idCount": 1,
+      "maxavg": 93.07
+    },
+    {
+      "idCount": 1,
+      "maxavg": 92
+    },
+    {
+      "idCount": 1,
+      "maxavg": 87.5
+    },
+    {
+      "idCount": 1,
+      "maxavg": 86.71
+    },
+    {
+      "idCount": 1,
+      "maxavg": 85.62
+    },
+    {
+      "idCount": 1,
+      "maxavg": 85.4
+    },
+    {
+      "idCount": 1,
+      "maxavg": 84
+    },
+    {
+      "idCount": 1,
+      "maxavg": 83.2
+    },
+    {
+      "idCount": 1,
+      "maxavg": 80.58
+    },
+    {
+      "idCount": 1,
+      "maxavg": 79.89
+    },
+    {
+      "idCount": 1,
+      "maxavg": 79.12
+    },
+    {
+      "idCount": 1,
+      "maxavg": 78.72
+    },
+    {
+      "idCount": 1,
+      "maxavg": 60
+    }
+  ]
+}

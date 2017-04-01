@@ -1,0 +1,26 @@
+{
+  "WHERE": {
+    "AND": [
+      {
+        "IS": {
+          "courses_instructor": "*a"
+        }
+      },
+      {
+        "GT": {
+          "courses_avg": 90
+        }
+      }
+    ]
+  },
+  "OPTIONS": {
+    "COLUMNS": [
+      "courses_dept",
+      "courses_uuid",
+      "courses_title",
+      "courses_instructor"
+    ],
+    "ORDER": "courses_instructor",
+    "FORM": "TABLE"
+  }
+}

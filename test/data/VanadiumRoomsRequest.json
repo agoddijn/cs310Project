@@ -1,0 +1,56 @@
+{
+   "WHERE": {},
+   "OPTIONS": {
+      "COLUMNS": [
+         "rooms_shortname",
+         "avgSeats",
+         "maxSeats",
+         "minSeats",
+         "sumSeats",
+         "count"
+      ],
+      "ORDER": {
+         "dir": "UP",
+         "keys": [
+            "maxSeats",
+            "avgSeats",
+            "minSeats",
+            "sumSeats",
+            "count"
+         ]
+      },
+      "FORM": "TABLE"
+   },
+   "TRANSFORMATIONS": {
+      "GROUP": [
+         "rooms_shortname"
+      ],
+      "APPLY": [
+         {
+            "avgSeats": {
+               "AVG": "rooms_seats"
+            }
+         },
+         {
+            "maxSeats": {
+               "MAX": "rooms_seats"
+            }
+         },
+         {
+            "minSeats": {
+               "MIN": "rooms_seats"
+            }
+         },
+         {
+            "sumSeats": {
+               "SUM": "rooms_seats"
+            }
+         },
+         {
+            "count": {
+               "COUNT": "rooms_shortname"
+            }
+         }
+      ]
+   }
+}

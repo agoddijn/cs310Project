@@ -1,0 +1,15 @@
+{
+    "WHERE": {
+        "IS": {
+            "rooms_type": "*Large Group"
+        }
+    },
+    "OPTIONS": {
+        "COLUMNS": [
+            "rooms_type",
+            "rooms_name"
+        ],
+        "ORDER": "rooms_name",
+        "FORM": "TABLE"
+    }
+}

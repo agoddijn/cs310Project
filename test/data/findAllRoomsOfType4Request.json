@@ -1,0 +1,16 @@
+{
+    "WHERE": {
+        "IS": {
+            "rooms_type": "*ab"
+        }
+    },
+    "OPTIONS": {
+        "COLUMNS": [
+            "rooms_address",
+            "rooms_type",
+            "rooms_name"
+        ],
+        "ORDER": "rooms_name",
+        "FORM": "TABLE"
+    }
+}

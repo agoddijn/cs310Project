@@ -1,0 +1,64 @@
+{
+  "render": "TABLE",
+  "result": [{
+    "courses_dept": "epse",
+    "courses_id": "432",
+    "courses_instructor": "both, pauline;romero, amber",
+    "courses_avg": 91.83
+  }, {
+    "courses_dept": "comm",
+    "courses_id": "354",
+    "courses_instructor": "chamberlain, sandra",
+    "courses_avg": 80.72
+  }, {
+    "courses_dept": "eosc",
+    "courses_id": "311",
+    "courses_instructor": "lamberson, michelle",
+    "courses_avg": 80.52
+  }, {
+    "courses_dept": "epse",
+    "courses_id": "432",
+    "courses_instructor": "romero, amber",
+    "courses_avg": 90.89
+  }, {
+    "courses_dept": "epse",
+    "courses_id": "312",
+    "courses_instructor": "romero, amber",
+    "courses_avg": 92.17
+  }, {
+    "courses_dept": "epse",
+    "courses_id": "432",
+    "courses_instructor": "romero, amber",
+    "courses_avg": 93.72
+  }, {
+    "courses_dept": "epse",
+    "courses_id": "312",
+    "courses_instructor": "romero, amber",
+    "courses_avg": 95.15
+  }, {
+    "courses_dept": "epse",
+    "courses_id": "312",
+    "courses_instructor": "romero, amber",
+    "courses_avg": 89.16
+  }, {
+    "courses_dept": "crwr",
+    "courses_id": "200",
+    "courses_instructor": "upfold, amber",
+    "courses_avg": 80.46
+  }, {
+    "courses_dept": "crwr",
+    "courses_id": "200",
+    "courses_instructor": "upfold, amber",
+    "courses_avg": 81.28
+  }, {
+    "courses_dept": "crwr",
+    "courses_id": "200",
+    "courses_instructor": "upfold, amber",
+    "courses_avg": 82.1
+  }, {
+    "courses_dept": "crwr",
+    "courses_id": "200",
+    "courses_instructor": "upfold, amber",
+    "courses_avg": 80.05
+  }]
+}

@@ -1,0 +1,39 @@
+{
+   "WHERE": {
+      "IS": {
+         "courses_dept": "lfs"
+      }
+   },
+   "OPTIONS": {
+      "COLUMNS": [
+         "courses_dept",
+         "min",
+         "count"
+      ],
+      "ORDER": {
+         "dir": "DOWN",
+         "keys": [
+            "courses_dept",
+            "min"
+         ]
+      },
+      "FORM": "TABLE"
+   },
+   "TRANSFORMATIONS": {
+      "GROUP": [
+         "courses_dept"
+      ],
+      "APPLY": [
+         {
+            "min": {
+               "MIN": "courses_avg"
+            }
+         },
+         {
+            "count": {
+               "COUNT": "courses_dept"
+            }
+         }
+      ]
+   }
+}

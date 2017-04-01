@@ -1,0 +1,15 @@
+{
+  "WHERE":{
+    "GT":{
+      "rooms_name": 97
+    }
+  },
+  "OPTIONS":{
+    "COLUMNS":[
+      "rooms_seats",
+      "rooms_name"
+    ],
+    "ORDER":"rooms_name",
+    "FORM":"TABLE"
+  }
+}

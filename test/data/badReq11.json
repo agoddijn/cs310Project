@@ -1,0 +1,32 @@
+{
+  "WHERE": {},
+  "OPTIONS": {
+    "COLUMNS": [
+      "avgSeats",
+      "count"
+    ],
+    "ORDER": {
+      "dir": "DOWN",
+      "keys": {}
+    },
+    "FORM": "TABLE"
+  },
+  "TRANSFORMATIONS": {
+    "GROUP": [
+
+      "rooms_shortname"
+    ],
+    "APPLY": [
+      {
+        "avgSeats": {
+          "AVG": "rooms_seats"
+        }
+      },
+      {
+        "count": {
+          "COUNT": "rooms_seats"
+        }
+      }
+    ]
+  }
+}

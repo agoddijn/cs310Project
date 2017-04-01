@@ -1,0 +1,97 @@
+.main {
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-top: 20px;
+    border-top: 2px solid black;
+    margin-top: 20px;
+}
+
+.group-input {
+    border: 2px solid black;
+    padding: 30px;
+    border-radius: 5px;
+    margin-bottom: 20px;
+    max-width: 100%;
+    max-height: 30vh;
+}
+
+.group-data {
+    border: 2px solid black;
+    padding: 30px;
+    border-radius: 5px;
+    margin-bottom: 20px;
+    max-width: 100%;
+    max-height: 50vh;
+}
+
+.schedule-filter {
+    margin-bottom: 20px;
+}
+
+.schedule-filter > h3 {
+    margin-top: 5px;
+}
+
+.schedule-filter > input {
+    width: 20%;
+    margin-left: 1%;
+    margin-right: 1%;
+    display: inline;
+}
+
+.query-filter {
+    margin-bottom: 10px;
+}
+
+.query-filter > input {
+    width: 35%;
+    margin-left: 1%;
+    margin-right: 1%;
+    display: inline;
+}
+
+.query-filter > .dropdown {
+    width: 5%;
+    margin-left: 1%;
+    margin-right: 1%;
+    display: inline;
+}
+
+.add-filter {
+    width: 20px; /*can be in percentage also.*/
+    height: auto;
+    margin: 0 auto;
+    position: relative;
+    display: inline;
+}
+
+#my-map {
+    height: 600px;
+    max-height: 100%;
+    width: 100%;
+}
+
+.infoWindowContent {
+    max-height: 100px;
+}
+
+.and-or {
+    margin-left: 10px;
+}
+
+.no-scroll {
+    overflow-y: hidden;
+}
+
+.scroll {
+    overflow-y: scroll;
+}
+
+.bottom-margin {
+    margin-bottom: 10px;
+}
+
+.query-row {
+    padding-left: 20px;
+    padding-right: 20px;
+}

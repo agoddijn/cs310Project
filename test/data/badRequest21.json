@@ -1,0 +1,41 @@
+{
+  "WHERE": {
+    "AND": [
+      {
+        "IS": {
+          "rooms3_furniture": "*Tables*"
+        }
+      },
+      {
+        "GT": {
+          "rooms4_seats": 300
+        }
+      }
+    ]
+  },
+  "OPTIONS": {
+    "COLUMNS": [
+      "rooms5_shortname",
+      "avgSeats"
+    ],
+    "ORDER": "avgSeats",
+    "FORM": "TABLE"
+  },
+  "TRANSFORMATIONS": {
+    "GROUP": [
+      "rooms2_shortname"
+    ],
+    "APPLY": [
+      {
+        "avgSeats": {
+          "AVG": "rooms_seats"
+        }
+      },
+      {
+        "maxSeats": {
+          "MAX": "rooms_seats"
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,20 @@
+{
+   "render": "TABLE",
+   "result": [
+      {
+         "rooms_address": "6363 Agronomy Road",
+         "rooms_type": "Studio Lab",
+         "rooms_name": "ORCH_3018"
+      },
+      {
+         "rooms_address": "6363 Agronomy Road",
+         "rooms_type": "Studio Lab",
+         "rooms_name": "ORCH_4074"
+      },
+      {
+         "rooms_address": "6331 Crescent Road V6T 1Z1",
+         "rooms_type": "Studio Lab",
+         "rooms_name": "UCLL_109"
+      }
+   ]
+}

@@ -1,0 +1,220 @@
+<div class="container">
+
+    <h1>{{query.name}} explorer</h1>
+
+    <!--Main Display-->
+    <div class="container-fluid scroll group-input">
+
+        <div class="row">
+            <div class="row query-row">
+                <h3>Filter
+                    <div class="btn-group and-or" role="group" aria-label="...">
+                        <button type="button" class="btn btn-default" ng-click="query.chooseAndOr('and')" ng-class="query.setActive('and')">AND</button>
+                        <button type="button" class="btn btn-default" ng-click="query.chooseAndOr('or')" ng-class="query.setActive('or')">OR</button>
+                    </div>
+                </h3>
+
+                <!--Filter-->
+                <div class="row query-filter" ng-repeat="index in query.filterFields">
+                    <input type="text" class="form-control" list="keys{{index}}" placeholder="Key" ng-model="query.selectedKey[index]">
+
+                    <datalist id="keys{{index}}">
+                        <option ng-repeat="(key,val) in query.keys" value="{{key}}">
+                    </datalist>
+
+                    <div class="dropdown">
+                        <button class="btn btn-default dropdown-toggle" type="button" id="relation{{index}}" data-toggle="dropdown" aria-haspopup="true" aria-expanded="true">
+                            {{query.selectedRel[index]}}
+                            <span class="caret"></span>
+                        </button>
+                        <ul class="dropdown-menu" aria-labelledby="relation{{index}}">
+                            <li ng-repeat="rel in query.getRels(query.selectedKey[index])"><a ng-click="query.selectRel(rel, index)">{{rel}}</a></li>
+                        </ul>
+                    </div>
+
+                    <input type="text" class="form-control" list="vals{{index}}" placeholder="Value" ng-model="query.selectedVal[index]">
+
+                    <datalist id="vals{{index}}">
+                        <div ng-repeat="(key, vals) in query.data[query.keys[query.selectedKey[index]]]">
+                            <option ng-repeat="val in vals" value="{{val}}">
+                        </div>
+                    </datalist>
+
+
+                </div>
+
+                <div class="row query-filter" ng-show="query.showDist">
+                    <input type="text" class="form-control" list="buildingName" placeholder="Building Name" ng-model="query.roomName">
+                    <datalist id="buildingName">
+                        <option ng-repeat="building in query.buildings" value="{{building.rooms_shortname}}">
+                    </datalist>
+
+                    <input type="text" class="form-control" placeholder="Distance (m)" ng-model="query.roomDist">
+
+                </div>
+
+                <div class="row add-filter">
+                    <button class="btn btn-default" ng-click="query.addFilter()"><span class="glyphicon glyphicon-plus" aria-hidden="true"></span></button>
+                    <button class="btn btn-default" ng-click="query.removeFilter()"><span class="glyphicon glyphicon-minus" aria-hidden="true"></span></button>
+                    <button class="btn btn-default" ng-click="query.addDist()" ng-show="query.dist">Add Dist</button>
+                </div>
+
+                <!--End filter-->
+            </div>
+
+
+            <!--Transformations-->
+            <div class="row query-row">
+                <h3>Transformations</h3>
+                <!--Group-->
+                <div class="panel panel-default">
+                    <div class="panel-heading">Group</div>
+                    <div class="panel-body">
+                        <div class="col-md-4 bottom-margin" ng-repeat="index in query.groupFields">
+                            <input type="text" class="form-control" list="keys" placeholder="Group" ng-model="query.selectedGroup[index]">
+
+                            <datalist id="keys">
+                                <option ng-repeat="(key, val) in query.keys" value="{{key}}">
+                            </datalist>
+                        </div>
+                        <div class="row add-filter">
+                            <button class="btn btn-default" ng-click="query.addGroup()"><span class="glyphicon glyphicon-plus" aria-hidden="true"></span></button>
+                            <button class="btn btn-default" ng-click="query.removeGroup()"><span class="glyphicon glyphicon-minus" aria-hidden="true"></span></button>
+                        </div>
+                    </div>
+                </div>
+
+                <!--Apply-->
+                <div class="panel panel-default" ng-show="query.selectedGroup.length >= 1 && query.selectedGroup[0] !== ''">
+                    <div class="panel-heading">Apply New Key</div>
+                    <div class="panel-body">
+                        <div class="row query-filter" ng-repeat="index in query.applyFields">
+                            <input type="text" class="form-control" list="keys" placeholder="Apply field" ng-model="query.selectedApply[index]">
+
+                            <datalist id="keys">
+                                <option ng-repeat="(key, val) in query.keys" value="{{key}}">
+                            </datalist>
+
+                            <div class="dropdown">
+                                <button class="btn btn-default dropdown-toggle" type="button" id="applyToken{{index}}" data-toggle="dropdown" aria-haspopup="true" aria-expanded="true">
+                                    {{query.selectedApplyToken[index]}}
+                                    <span class="caret"></span>
+                                </button>
+                                <ul class="dropdown-menu" aria-labelledby="applyToken{{index}}">
+                                    <li ng-repeat="token in query.getApplyToken(query.selectedApply[index])"><a ng-click="query.selectApply(token, index)">{{token}}</a></li>
+                                </ul>
+                            </div>
+
+                            <input type="text" class="form-control" placeholder="Column name" ng-model="query.selectedApplyName[index]">
+
+                        </div>
+                        <div class="row add-filter">
+                            <button class="btn btn-default" ng-click="query.addApply()"><span class="glyphicon glyphicon-plus" aria-hidden="true"></span></button>
+                            <button class="btn btn-default" ng-click="query.removeApply()"><span class="glyphicon glyphicon-minus" aria-hidden="true"></span></button>
+                        </div>
+                    </div>
+                </div>
+
+            </div>
+            <!--End Transformations-->
+
+            <!--Options-->
+            <div class="row query-row">
+                <h3>Options</h3>
+
+                <!--Columns-->
+                <div class="panel panel-default">
+                    <div class="panel-heading">Columns</div>
+                    <div class="panel-body">
+                        <div class="btn-group" role="group" aria-label="...">
+                            <button type="button" class="btn btn-default" ng-repeat="(key, val) in query.keys" ng-class="query.isColActive(key)" ng-click="query.addCol(key)">{{key}}</button>
+                            <button type="button" class="btn btn-default" ng-repeat="applyKey in query.selectedApplyName" ng-class="query.isColActive(applyKey)" ng-click="query.addCol(applyKey)">{{applyKey}}</button>
+                        </div>
+                    </div>
+                </div>
+
+                <!--Order-->
+                <div class="panel panel-default">
+                    <div class="panel-heading">Order</div>
+                    <div class="panel-body">
+                        <div class="col-md-4">
+                            <div class="btn-group and-or" role="group" aria-label="...">
+                                <button type="button" class="btn btn-default" ng-click="query.chooseUpDown('up')" ng-class="query.setActive('up')">UP</button>
+                                <button type="button" class="btn btn-default" ng-click="query.chooseUpDown('down')" ng-class="query.setActive('down')">DOWN</button>
+                            </div>
+                        </div>
+                        <div class="col-md-4 bottom-margin" ng-repeat="index in query.orderFields">
+                            <div class="input-group">
+                                <span class="input-group-addon" >{{index + 1}}</span>
+                                <input type="text" class="form-control" list="order" placeholder="Order" ng-model="query.selectedOrder[index]">
+                            </div>
+                            <datalist id="order">
+                                <option ng-repeat="col in query.selectedCol" value="{{col}}">
+                            </datalist>
+                        </div>
+                        <div class="row add-filter">
+                            <button class="btn btn-default" ng-click="query.addOrder()"><span class="glyphicon glyphicon-plus" aria-hidden="true"></span></button>
+                            <button class="btn btn-default" ng-click="query.removeOrder()"><span class="glyphicon glyphicon-minus" aria-hidden="true"></span></button>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="row text-center">
+                <button class="btn btn-primary btn-lg" ng-click="query.query()">Query!</button>
+                <button class="btn btn-default btn-lg" ng-click="query.resetQuery()">Reset</button>
+            </div>
+
+
+        </div>
+    </div>
+
+    <!--Display Data-->
+    <div class="container scroll group-data">
+        <div class="row schedule-display">
+            <div class="row">
+                <div class="alert alert-success" role="alert" ng-show="query.success">
+                    <a href="#" class="alert-link">Query complete!</a>
+                </div>
+            </div>
+
+            <!--Data Table-->
+            <table class="table table-bordered" ng-show="query.success">
+                <thead>
+                <tr>
+                    <th ng-repeat="(header,headerVal) in query.response[0]">{{header}}</th>
+                </tr>
+                </thead>
+                <tbody>
+                <tr ng-repeat="result in query.responseToDisplay">
+                    <td ng-repeat="(key, val) in result">{{val}}</td>
+                </tr>
+                </tbody>
+            </table>
+
+            <div class="row text-center" ng-show="query.loadMoreDisp">
+                <button class="btn btn-default" ng-click="query.loadMore()">Load More</button>
+            </div>
+        </div>
+    </div>
+
+
+    <!--Error Modal-->
+    <div class="modal fade" id="errModal" tabindex="-1" role="dialog" aria-labelledby="errModal">
+        <div class="modal-dialog modal-md" role="document">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+                    <h4 class="modal-title" id="myModalLabel">Error: {{query.status}}!</h4>
+                </div>
+                <div class="modal-body">
+                    <p>{{query.errMsg}}</p>
+                    <p>{{query.info}}</p>
+                </div>
+                <div class="modal-footer">
+                    <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

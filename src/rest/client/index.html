@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>UBC Insight</title>
+    <base href="/">
+
+    <!--Bootstrap Javascript and jquery-->
+    <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+    <script type="text/javascript" src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+
+    <!--Stylesheets-->
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+    <link rel="stylesheet" href="css/main.css"/>
+
+    <!--Angular-->
+    <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/angularjs/1.4.5/angular.min.js"></script>
+    <script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/angularjs/1.4.7/angular-route.min.js"></script>
+    <script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/angularjs/1.4.7/angular-animate.min.js"></script>
+    <script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/angularjs/1.4.7/angular-sanitize.min.js"></script>
+
+    <!--Google maps API-->
+    <script type="text/javascript" src="http://maps.googleapis.com/maps/api/js?key=AIzaSyBOMqKsLH5e0qhdBfRovwN4GHEy-Gd0kbM"></script>
+
+    <!--Modules-->
+    <script type="text/javascript" src="app.js"></script>
+    <script type="text/javascript" src="controllers/main-controller.js"></script>
+    <script type="text/javascript" src="controllers/scheduler-controller.js"></script>
+    <script type="text/javascript" src="controllers/map-controller.js"></script>
+    <script type="text/javascript" src="controllers/query-controller.js"></script>
+    <script type="text/javascript" src="routes.js"></script>
+
+</head>
+  
+<body ng-app="app" ng-controller="InsightController as main" class="no-scroll">
+    <div class="container-fluid">
+        <div class="navbar navbar-default">
+            <div class="container-fluid">
+                <ul class="nav nav-tabs">
+                    <li role="presentation" ng-class="main.isActive('/courses')"><a href="/courses">Course Explorer</a></li>
+                    <li role="presentation" ng-class="main.isActive('/rooms')"><a href="/rooms">Room Explorer</a></li>
+                    <li role="presentation" ng-class="main.isActive('/scheduler')"><a href="/scheduler">Scheduler</a></li>
+                    <li role="presentation" ng-class="main.isActive('/map')"><a href="/map">Map</a></li>
+                </ul>
+            </div>
+        </div>
+        <div ng-view class="no-scroll"></div>
+    </div>
+</body>
+</html>

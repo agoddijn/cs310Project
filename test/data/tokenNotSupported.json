@@ -1,0 +1,4 @@
+{
+  "code":400,
+  "body": {"error":"Token \"[object Object]\" not supported"}
+}

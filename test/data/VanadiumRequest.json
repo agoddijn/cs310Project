@@ -1,0 +1,33 @@
+{
+   "WHERE": {},
+   "OPTIONS": {
+      "COLUMNS": [
+         "courses_dept",
+         "count",
+         "min"
+      ],
+      "ORDER": {
+         "dir": "DOWN",
+         "keys": [
+            "count",
+            "courses_dept",
+            "min"
+         ]
+      },
+      "FORM": "TABLE"
+   },
+   "TRANSFORMATIONS": {
+      "GROUP": [
+         "courses_dept"
+      ],
+      "APPLY": [{
+         "count": {
+            "COUNT": "courses_instructor"
+         }
+      }, {
+         "min": {
+            "MIN": "courses_avg"
+         }
+      }]
+   }
+}

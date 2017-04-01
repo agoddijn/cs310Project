@@ -1,0 +1,14 @@
+{
+    "WHERE": {
+        "IS": {
+            "rooms_href": "HENN-*"
+        }
+    },
+    "OPTIONS": {
+        "COLUMNS": [
+            "rooms_name"
+        ],
+        "ORDER": "rooms_name",
+        "FORM": "TABLE"
+    }
+}

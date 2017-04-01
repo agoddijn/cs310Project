@@ -1,0 +1,15 @@
+{
+  "WHERE": {
+    "IS": {
+      "rooms_type": "* *"
+    }
+  },
+  "OPTIONS": {
+    "COLUMNS": [
+      "rooms_type",
+      "courses_avg"
+    ],
+    "ORDER": "courses_avg",
+    "FORM": "TABLE"
+  }
+}

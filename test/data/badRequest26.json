@@ -1,0 +1,52 @@
+{
+  "WHERE": {},
+  "OPTIONS": {
+    "COLUMNS": [
+      "courses_dept",
+      "avgGrades",
+      "maxGrades",
+      "sumGrades",
+      "count"
+    ],
+    "ORDER": {
+      "dir": "DOWN",
+      "keys": [
+        "avgGrades",
+        "maxGrades"
+      ]
+    },
+    "FORM": "TABLE"
+  },
+  "TRANSFORMATIONS": {
+    "GROUP": [
+      "courses_dept"
+    ],
+    "APPLY": [
+      {
+        "avgGrades": {
+          "AVG": "courses_avg"
+        }
+      },
+      {
+        "maxGrades": {
+          "MAX": "courses_avg"
+        }
+      },
+      {
+        "sumGrades": {
+          "MIN": "courses_avg"
+        }
+      },
+      {
+        "sumGrades": {
+          "SUM": "courses_avg"
+        }
+      },
+      {
+        "count": {
+          "COUNT": "courses_avg"
+        }
+      }
+    ]
+  }
+}

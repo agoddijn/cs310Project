@@ -1,0 +1,309 @@
+{
+   "render":"TABLE",
+   "result":[
+      {
+         "rooms_address":"2202 Main Mall",
+         "rooms_name":"AERL_120"
+      },
+      {
+         "rooms_address":"2053 Main Mall",
+         "rooms_name":"ANGU_098"
+      },
+      {
+         "rooms_address":"2053 Main Mall",
+         "rooms_name":"ANGU_241"
+      },
+      {
+         "rooms_address":"2053 Main Mall",
+         "rooms_name":"ANGU_243"
+      },
+      {
+         "rooms_address":"2053 Main Mall",
+         "rooms_name":"ANGU_343"
+      },
+      {
+         "rooms_address":"2053 Main Mall",
+         "rooms_name":"ANGU_345"
+      },
+      {
+         "rooms_address":"2053 Main Mall",
+         "rooms_name":"ANGU_347"
+      },
+      {
+         "rooms_address":"2053 Main Mall",
+         "rooms_name":"ANGU_350"
+      },
+      {
+         "rooms_address":"2053 Main Mall",
+         "rooms_name":"ANGU_354"
+      },
+      {
+         "rooms_address":"6270 University Boulevard",
+         "rooms_name":"BIOL_2000"
+      },
+      {
+         "rooms_address":"6270 University Boulevard",
+         "rooms_name":"BIOL_2200"
+      },
+      {
+         "rooms_address":"1874 East Mall",
+         "rooms_name":"BRKX_2365"
+      },
+      {
+         "rooms_address":"1866 Main Mall",
+         "rooms_name":"BUCH_A101"
+      },
+      {
+         "rooms_address":"1866 Main Mall",
+         "rooms_name":"BUCH_A102"
+      },
+      {
+         "rooms_address":"1866 Main Mall",
+         "rooms_name":"BUCH_A103"
+      },
+      {
+         "rooms_address":"1866 Main Mall",
+         "rooms_name":"BUCH_A104"
+      },
+      {
+         "rooms_address":"1866 Main Mall",
+         "rooms_name":"BUCH_A201"
+      },
+      {
+         "rooms_address":"1866 Main Mall",
+         "rooms_name":"BUCH_B313"
+      },
+      {
+         "rooms_address":"1866 Main Mall",
+         "rooms_name":"BUCH_B315"
+      },
+      {
+         "rooms_address":"1866 Main Mall",
+         "rooms_name":"BUCH_D217"
+      },
+      {
+         "rooms_address":"1866 Main Mall",
+         "rooms_name":"BUCH_D218"
+      },
+      {
+         "rooms_address":"1866 Main Mall",
+         "rooms_name":"BUCH_D219"
+      },
+      {
+         "rooms_address":"6250 Applied Science Lane",
+         "rooms_name":"CEME_1202"
+      },
+      {
+         "rooms_address":"2360 East Mall V6T 1Z3",
+         "rooms_name":"CHBE_101"
+      },
+      {
+         "rooms_address":"2360 East Mall V6T 1Z3",
+         "rooms_name":"CHBE_102"
+      },
+      {
+         "rooms_address":"2036 Main Mall",
+         "rooms_name":"CHEM_B150"
+      },
+      {
+         "rooms_address":"2036 Main Mall",
+         "rooms_name":"CHEM_B250"
+      },
+      {
+         "rooms_address":"2036 Main Mall",
+         "rooms_name":"CHEM_C124"
+      },
+      {
+         "rooms_address":"2036 Main Mall",
+         "rooms_name":"CHEM_C126"
+      },
+      {
+         "rooms_address":"2036 Main Mall",
+         "rooms_name":"CHEM_D200"
+      },
+      {
+         "rooms_address":"2036 Main Mall",
+         "rooms_name":"CHEM_D300"
+      },
+      {
+         "rooms_address":"2260 West Mall, V6T 1Z4",
+         "rooms_name":"CIRS_1250"
+      },
+      {
+         "rooms_address":"6245 Agronomy Road V6T 1Z4",
+         "rooms_name":"DMP_110"
+      },
+      {
+         "rooms_address":"6245 Agronomy Road V6T 1Z4",
+         "rooms_name":"DMP_301"
+      },
+      {
+         "rooms_address":"6245 Agronomy Road V6T 1Z4",
+         "rooms_name":"DMP_310"
+      },
+      {
+         "rooms_address":"2207 Main Mall",
+         "rooms_name":"ESB_1012"
+      },
+      {
+         "rooms_address":"2207 Main Mall",
+         "rooms_name":"ESB_1013"
+      },
+      {
+         "rooms_address":"2207 Main Mall",
+         "rooms_name":"ESB_2012"
+      },
+      {
+         "rooms_address":"2205 East Mall",
+         "rooms_name":"FNH_60"
+      },
+      {
+         "rooms_address":"2177 Wesbrook Mall V6T 1Z3",
+         "rooms_name":"FRDM_153"
+      },
+      {
+         "rooms_address":"2424 Main Mall",
+         "rooms_name":"FSC_1005"
+      },
+      {
+         "rooms_address":"2424 Main Mall",
+         "rooms_name":"FSC_1221"
+      },
+      {
+         "rooms_address":"1984 West Mall",
+         "rooms_name":"GEOG_100"
+      },
+      {
+         "rooms_address":"2045 East Mall",
+         "rooms_name":"HEBB_100"
+      },
+      {
+         "rooms_address":"6224 Agricultural Road",
+         "rooms_name":"HENN_200"
+      },
+      {
+         "rooms_address":"6224 Agricultural Road",
+         "rooms_name":"HENN_201"
+      },
+      {
+         "rooms_address":"6224 Agricultural Road",
+         "rooms_name":"HENN_202"
+      },
+      {
+         "rooms_address":"1961 East Mall V6T 1Z1",
+         "rooms_name":"IBLC_182"
+      },
+      {
+         "rooms_address":"6333 Memorial Road",
+         "rooms_name":"LASR_102"
+      },
+      {
+         "rooms_address":"6333 Memorial Road",
+         "rooms_name":"LASR_104"
+      },
+      {
+         "rooms_address":"2350 Health Sciences Mall",
+         "rooms_name":"LSC_1001"
+      },
+      {
+         "rooms_address":"2350 Health Sciences Mall",
+         "rooms_name":"LSC_1002"
+      },
+      {
+         "rooms_address":"2350 Health Sciences Mall",
+         "rooms_name":"LSC_1003"
+      },
+      {
+         "rooms_address":"6356 Agricultural Road",
+         "rooms_name":"LSK_200"
+      },
+      {
+         "rooms_address":"6356 Agricultural Road",
+         "rooms_name":"LSK_201"
+      },
+      {
+         "rooms_address":"1984 Mathematics Road",
+         "rooms_name":"MATH_100"
+      },
+      {
+         "rooms_address":"1986 Mathematics Road",
+         "rooms_name":"MATX_1100"
+      },
+      {
+         "rooms_address":"2356 Main Mall",
+         "rooms_name":"MCLD_202"
+      },
+      {
+         "rooms_address":"2356 Main Mall",
+         "rooms_name":"MCLD_228"
+      },
+      {
+         "rooms_address":"2357 Main Mall",
+         "rooms_name":"MCML_158"
+      },
+      {
+         "rooms_address":"2357 Main Mall",
+         "rooms_name":"MCML_166"
+      },
+      {
+         "rooms_address":"2405 Wesbrook Mall",
+         "rooms_name":"PHRM_1101"
+      },
+      {
+         "rooms_address":"2405 Wesbrook Mall",
+         "rooms_name":"PHRM_1201"
+      },
+      {
+         "rooms_address":"2125 Main Mall",
+         "rooms_name":"SCRF_100"
+      },
+      {
+         "rooms_address":"2175 West Mall V6T 1Z4",
+         "rooms_name":"SWNG_121"
+      },
+      {
+         "rooms_address":"2175 West Mall V6T 1Z4",
+         "rooms_name":"SWNG_122"
+      },
+      {
+         "rooms_address":"2175 West Mall V6T 1Z4",
+         "rooms_name":"SWNG_221"
+      },
+      {
+         "rooms_address":"2175 West Mall V6T 1Z4",
+         "rooms_name":"SWNG_222"
+      },
+      {
+         "rooms_address":"6174 University Boulevard",
+         "rooms_name":"WESB_100"
+      },
+      {
+         "rooms_address":"6174 University Boulevard",
+         "rooms_name":"WESB_201"
+      },
+      {
+         "rooms_address":"2194 Health Sciences Mall",
+         "rooms_name":"WOOD_1"
+      },
+      {
+         "rooms_address":"2194 Health Sciences Mall",
+         "rooms_name":"WOOD_2"
+      },
+      {
+         "rooms_address":"2194 Health Sciences Mall",
+         "rooms_name":"WOOD_3"
+      },
+      {
+         "rooms_address":"2194 Health Sciences Mall",
+         "rooms_name":"WOOD_4"
+      },
+      {
+         "rooms_address":"2194 Health Sciences Mall",
+         "rooms_name":"WOOD_5"
+      },
+      {
+         "rooms_address":"2194 Health Sciences Mall",
+         "rooms_name":"WOOD_6"
+      }
+   ]
+}

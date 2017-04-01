@@ -1,0 +1,24 @@
+{
+  "render": "TABLE",
+  "result": [{
+    "rooms_name": "DMP_101",
+    "rooms_seats": 40,
+    "count": 1
+  }, {
+    "rooms_name": "DMP_110",
+    "rooms_seats": 120,
+    "count": 1
+  }, {
+    "rooms_name": "DMP_201",
+    "rooms_seats": 40,
+    "count": 1
+  }, {
+    "rooms_name": "DMP_301",
+    "rooms_seats": 80,
+    "count": 1
+  }, {
+    "rooms_name": "DMP_310",
+    "rooms_seats": 160,
+    "count": 1
+  }]
+}

@@ -1,0 +1,34 @@
+{
+  "WHERE": {},
+  "OPTIONS": {
+    "COLUMNS": [
+      "idCount",
+      "maxavg"
+    ],
+    "ORDER": {
+      "dir": "DOWN",
+      "keys": [
+        "idCount",
+        "maxavg"
+      ]
+    },
+    "FORM": "TABLE"
+  },
+  "TRANSFORMATIONS": {
+    "GROUP": [
+      "courses_dept"
+    ],
+    "APPLY": [
+      {
+        "idCount": {
+          "COUNT": "courses_id"
+        }
+      },
+      {
+        "maxavg": {
+          "MAX": "courses_avg"
+        }
+      }
+    ]
+  }
+}

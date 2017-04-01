@@ -1,0 +1,23 @@
+{
+  "WHERE": {},
+  "OPTIONS": {
+    "COLUMNS": [
+      "rooms_shortname",
+      "countRoomTypes"
+    ],
+    "FORM": "TABLE"
+  },
+  "TRANSFORMATIONS": {
+    "GROUP": [
+      "rooms_shortname",
+      "courses_title"
+    ],
+    "APPLY": [
+      {
+        "countRoomTypes": {
+          "COUNT": "rooms_type"
+        }
+      }
+    ]
+  }
+}
