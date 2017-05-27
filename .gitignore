@@ -1,7 +1,9 @@
 src/*.js
 src/*.map
-src/**/*.js
-src/**/*.map
+src/rest/*.js
+src/rest/*.map
+src/controller/*.js
+src/controller/*.map
 test/*.js
 test/*.map
 npm-debug.log
